@@ -1,0 +1,631 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TR: TRT UHD 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: TRT UHD 4K
+http://geostream.me:8080/Hassan/Hassan1/15979
+#EXTINF:-1 tvg-ID="ahaber.tr" tvg-name="VIP TR: A Haber 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: A Haber 4K
+http://geostream.me:8080/Hassan/Hassan1/15291
+#EXTINF:-1 tvg-ID="aspor.tr" tvg-name="VIP TR: A Spor 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: A Spor 4K
+http://geostream.me:8080/Hassan/Hassan1/15290
+#EXTINF:-1 tvg-ID="atv.tr" tvg-name="VIP TR: ATV 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: ATV 4K
+http://geostream.me:8080/Hassan/Hassan1/15289
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TR: Beyaz TV 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: Beyaz TV 4K
+http://geostream.me:8080/Hassan/Hassan1/15288
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TR: Bloomberg HT 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bloomberg HT 4K
+http://geostream.me:8080/Hassan/Hassan1/15287
+#EXTINF:-1 tvg-ID="cnnturk.tr" tvg-name="VIP TR: CNN Turk 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: CNN Turk 4K
+http://geostream.me:8080/Hassan/Hassan1/15286
+#EXTINF:-1 tvg-ID="fox.tr" tvg-name="VIP TR: Fox TV 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: Fox TV 4K
+http://geostream.me:8080/Hassan/Hassan1/15285
+#EXTINF:-1 tvg-ID="haberturk.tr" tvg-name="VIP TR: HaberTurk 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: HaberTurk 4K
+http://geostream.me:8080/Hassan/Hassan1/15284
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TR: Kanal 24 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: Kanal 24 4K
+http://geostream.me:8080/Hassan/Hassan1/15283
+#EXTINF:-1 tvg-ID="kanal7.tr" tvg-name="VIP TR: Kanal 7 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: Kanal 7 4K
+http://geostream.me:8080/Hassan/Hassan1/15282
+#EXTINF:-1 tvg-ID="kanald.tr" tvg-name="VIP TR: Kanal D 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: Kanal D 4K
+http://geostream.me:8080/Hassan/Hassan1/15281
+#EXTINF:-1 tvg-ID="kralpop.tr" tvg-name="VIP TR: Kral POP TV 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: Kral POP TV 4K
+http://geostream.me:8080/Hassan/Hassan1/15280
+#EXTINF:-1 tvg-ID="kraltv.tr" tvg-name="VIP TR: Kral TV 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: Kral TV 4K
+http://geostream.me:8080/Hassan/Hassan1/15279
+#EXTINF:-1 tvg-ID="ntv.tr" tvg-name="VIP TR: NTV Haber 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: NTV Haber 4K
+http://geostream.me:8080/Hassan/Hassan1/15278
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: NTV SPOR 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: NTV SPOR 4K
+http://geostream.me:8080/Hassan/Hassan1/15277
+#EXTINF:-1 tvg-ID="showtv.tr" tvg-name="VIP TR: Show TV 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: Show TV 4K
+http://geostream.me:8080/Hassan/Hassan1/15276
+#EXTINF:-1 tvg-ID="startv.tr" tvg-name="VIP TR: Star TV 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: Star TV 4K
+http://geostream.me:8080/Hassan/Hassan1/15275
+#EXTINF:-1 tvg-ID="trt1.tr" tvg-name="VIP TR: TRT 1 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: TRT 1 4K
+http://geostream.me:8080/Hassan/Hassan1/15274
+#EXTINF:-1 tvg-ID="trtcocuk.tr" tvg-name="VIP TR: TRT Cocuk 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: TRT Cocuk 4K
+http://geostream.me:8080/Hassan/Hassan1/15273
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TR: TRT Haber 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: TRT Haber 4K
+http://geostream.me:8080/Hassan/Hassan1/15272
+#EXTINF:-1 tvg-ID="trtspor.tr" tvg-name="VIP TR: TRT Spor 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: TRT Spor 4K
+http://geostream.me:8080/Hassan/Hassan1/15271
+#EXTINF:-1 tvg-ID="tv2.tr" tvg-name="VIP TR: TeVe 2 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: TeVe 2 4K
+http://geostream.me:8080/Hassan/Hassan1/15270
+#EXTINF:-1 tvg-ID="tv8.tr" tvg-name="VIP TR: TV8 4K" tvg-logo="[" group-title="Live: Türkiye",VIP TR: TV8 4K
+http://geostream.me:8080/Hassan/Hassan1/15269
+#EXTINF:-1 tvg-ID="ulketv.tr" tvg-name="VIP TR: Ulke TV 4K" tvg-logo="" group-title="Live: Türkiye",VIP TR: Ulke TV 4K
+http://geostream.me:8080/Hassan/Hassan1/15268
+#EXTINF:-1 tvg-ID="beinhe.tr" tvg-name="VIP TR: Bein Sport Haber HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport Haber HD
+http://geostream.me:8080/Hassan/Hassan1/14792
+#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="VIP TR: Bein Sport 1HD 1080P" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport 1HD 1080P
+http://geostream.me:8080/Hassan/Hassan1/16292
+#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="VIP TR: Bein Sport 2HD 1080P" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport 2HD 1080P
+http://geostream.me:8080/Hassan/Hassan1/16291
+#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="VIP TR: Bein Sport 3HD 1080P" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Sport 3HD 1080P
+http://geostream.me:8080/Hassan/Hassan1/16290
+#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="VIP TR: Bein Sport 4HD 1080P" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Sport 4HD 1080P
+http://geostream.me:8080/Hassan/Hassan1/16289
+#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="VIP TR: Bein Sports FHD1" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sports FHD1
+http://geostream.me:8080/Hassan/Hassan1/25955
+#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="VIP TR: Bein Sports FHD2" tvg-logo="[""]" group-title="Live: Türkiye",VIP TR: Bein Sports FHD2
+http://geostream.me:8080/Hassan/Hassan1/25954
+#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="VIP TR: Bein Sports FHD3" tvg-logo="[""]" group-title="Live: Türkiye",VIP TR: Bein Sports FHD3
+http://geostream.me:8080/Hassan/Hassan1/25953
+#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="VIP TR: Bein Sports FHD4" tvg-logo="[""]" group-title="Live: Türkiye",VIP TR: Bein Sports FHD4
+http://geostream.me:8080/Hassan/Hassan1/25952
+#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="VIP TR: Bein Sport 1HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport 1HD
+http://geostream.me:8080/Hassan/Hassan1/7333
+#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="VIP TR: Bein Sport 2HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport 2HD
+http://geostream.me:8080/Hassan/Hassan1/7334
+#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="VIP TR: Bein Sport 3HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport 3HD
+http://geostream.me:8080/Hassan/Hassan1/7335
+#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="VIP TR: Bein Sport 4HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport 4HD
+http://geostream.me:8080/Hassan/Hassan1/7336
+#EXTINF:-1 tvg-ID="beinsportsmax1.tr" tvg-name="VIP TR: Bein Sport MAX 1HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport MAX 1HD
+http://geostream.me:8080/Hassan/Hassan1/9592
+#EXTINF:-1 tvg-ID="beinsportsmax2.tr" tvg-name="VIP TR: Bein Sport MAX 2HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Sport MAX 2HD
+http://geostream.me:8080/Hassan/Hassan1/9591
+#EXTINF:-1 tvg-ID="beiniz.tr" tvg-name="VIP TR: Bein IZ HD" tvg-logo="[""]" group-title="Live: Türkiye",VIP TR: Bein IZ HD
+http://geostream.me:8080/Hassan/Hassan1/10561
+#EXTINF:-1 tvg-ID="beinmoviesaction.tr" tvg-name="VIP TR: Bein Action HD" tvg-logo="[""]" group-title="Live: Türkiye",VIP TR: Bein Action HD
+http://geostream.me:8080/Hassan/Hassan1/9585
+#EXTINF:-1 tvg-ID="beinmoviesaction2.tr" tvg-name="VIP TR: Bein Action2 HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Action2 HD
+http://geostream.me:8080/Hassan/Hassan1/17554
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TR: Bein Comedy HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Bein Comedy HD
+http://geostream.me:8080/Hassan/Hassan1/17553
+#EXTINF:-1 tvg-ID="beinmoviesfamily.tr" tvg-name="VIP TR: Bein Family HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Family HD
+http://geostream.me:8080/Hassan/Hassan1/17552
+#EXTINF:-1 tvg-ID="beinmoviespremier.tr" tvg-name="VIP TR: Bein Premier HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Premier HD
+http://geostream.me:8080/Hassan/Hassan1/9587
+#EXTINF:-1 tvg-ID="beinmoviespremiere2.tr" tvg-name="VIP TR: Bein Premier2 HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Premier2 HD
+http://geostream.me:8080/Hassan/Hassan1/17555
+#EXTINF:-1 tvg-ID="beinmoviesstars.tr" tvg-name="VIP TR: Bein Stars HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Stars HD
+http://geostream.me:8080/Hassan/Hassan1/9586
+#EXTINF:-1 tvg-ID="beinseriesscifi.tr" tvg-name="VIP TR: Bein Series Sci-Fi HD" tvg-logo="[""]" group-title="Live: Türkiye",VIP TR: Bein Series Sci-Fi HD
+http://geostream.me:8080/Hassan/Hassan1/16199
+#EXTINF:-1 tvg-ID="beinmoviesturk.tr" tvg-name="VIP TR: Bein Turk HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Turk HD
+http://geostream.me:8080/Hassan/Hassan1/9582
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TR: Bein Gurme HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Gurme HD
+http://geostream.me:8080/Hassan/Hassan1/61544
+#EXTINF:-1 tvg-ID="beinseriescomedy.tr" tvg-name="VIP TR: Bein Series Comedy HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Series Comedy HD
+http://geostream.me:8080/Hassan/Hassan1/17627
+#EXTINF:-1 tvg-ID="beinseriesdrama.tr" tvg-name="VIP TR: Bein Series Drama HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Series Drama HD
+http://geostream.me:8080/Hassan/Hassan1/17628
+#EXTINF:-1 tvg-ID="beinseriesvice.tr" tvg-name="VIP TR: Bein Series Vice HD" tvg-logo="[""]" group-title="Live: Türkiye",VIP TR: Bein Series Vice HD
+http://geostream.me:8080/Hassan/Hassan1/17629
+#EXTINF:-1 tvg-ID="beinboxoffice1.tr" tvg-name="VIP TR: Bein Box Office 1HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Box Office 1HD
+http://geostream.me:8080/Hassan/Hassan1/9581
+#EXTINF:-1 tvg-ID="beinboxoffice2.tr" tvg-name="VIP TR: Bein Box Office 2HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Box Office 2HD
+http://geostream.me:8080/Hassan/Hassan1/9580
+#EXTINF:-1 tvg-ID="beinboxoffice3.tr" tvg-name="VIP TR: Bein Box Office 3HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: Bein Box Office 3HD
+http://geostream.me:8080/Hassan/Hassan1/9579
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TR: TiviBu Sport 1 HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: TiviBu Sport 1 HD
+http://geostream.me:8080/Hassan/Hassan1/7337
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TR: TiviBu Sport 2 HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: TiviBu Sport 2 HD
+http://geostream.me:8080/Hassan/Hassan1/7338
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: TiviBu Sport 3 HD" tvg-logo="[""]" group-title="Live: Türkiye",VIP TR: TiviBu Sport 3 HD
+http://geostream.me:8080/Hassan/Hassan1/7421
+#EXTINF:-1 tvg-ID="smartspor.tr" tvg-name="VIP TR: Smart Sport 1 HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Smart Sport 1 HD
+http://geostream.me:8080/Hassan/Hassan1/7423
+#EXTINF:-1 tvg-ID="moviesmartgold.tr" tvg-name="VIP TR: Smart Sport 2 HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: Smart Sport 2 HD
+http://geostream.me:8080/Hassan/Hassan1/3753
+#EXTINF:-1 tvg-ID="ssport.tr" tvg-name="VIP TR: S sport HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: S sport HD
+http://geostream.me:8080/Hassan/Hassan1/11872
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TR: S sport 2 HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: S sport 2 HD
+http://geostream.me:8080/Hassan/Hassan1/7422
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TR: DiziSmart Premium HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: DiziSmart Premium HD
+http://geostream.me:8080/Hassan/Hassan1/38359
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: DiziSmart Max HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: DiziSmart Max HD
+http://geostream.me:8080/Hassan/Hassan1/53663
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TR: Smart Cocuk HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: Smart Cocuk HD
+http://geostream.me:8080/Hassan/Hassan1/38358
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: MOVIESMART Classic HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: MOVIESMART Classic HD
+http://geostream.me:8080/Hassan/Hassan1/38357
+#EXTINF:-1 tvg-ID="moviesmartpremium.tr" tvg-name="VIP TR: MOVIESMART Premuim1 HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: MOVIESMART Premuim1 HD
+http://geostream.me:8080/Hassan/Hassan1/16286
+#EXTINF:-1 tvg-ID="moviesmartpremium2.tr" tvg-name="VIP TR: MOVIESMART Premuim2 HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: MOVIESMART Premuim2 HD
+http://geostream.me:8080/Hassan/Hassan1/16287
+#EXTINF:-1 tvg-ID="moviesmartfestival.tr" tvg-name="VIP TR: MOVIESMART Turk HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: MOVIESMART Turk HD
+http://geostream.me:8080/Hassan/Hassan1/16284
+#EXTINF:-1 tvg-ID="sinematvhd.tr" tvg-name="VIP TR: Sinema TV HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: Sinema TV HD
+http://geostream.me:8080/Hassan/Hassan1/11832
+#EXTINF:-1 tvg-ID="moviesmartplatin.tr" tvg-name="VIP TR: Sinema TV 2 HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: Sinema TV 2 HD
+http://geostream.me:8080/Hassan/Hassan1/8050
+#EXTINF:-1 tvg-ID="sinema1001hd.tr" tvg-name="VIP TR: SinemaTv 1001 HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: SinemaTv 1001 HD
+http://geostream.me:8080/Hassan/Hassan1/11828
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TR: SinemaTv 1002 HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: SinemaTv 1002 HD
+http://geostream.me:8080/Hassan/Hassan1/16285
+#EXTINF:-1 tvg-ID="sinemaailehd.tr" tvg-name="VIP TR: SinemaTv Aile HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: SinemaTv Aile HD
+http://geostream.me:8080/Hassan/Hassan1/11829
+#EXTINF:-1 tvg-ID="moviesmartfamily.tr" tvg-name="VIP TR: SinemaTv Aile 2 HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: SinemaTv Aile 2 HD
+http://geostream.me:8080/Hassan/Hassan1/3754
+#EXTINF:-1 tvg-ID="sinemaaksiyonhd.tr" tvg-name="VIP TR: SinemaTV Aksiyon HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: SinemaTV Aksiyon HD
+http://geostream.me:8080/Hassan/Hassan1/11830
+#EXTINF:-1 tvg-ID="moviesmartaction.tr" tvg-name="VIP TR: SinemaTV Aksiyon 2 HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: SinemaTV Aksiyon 2 HD
+http://geostream.me:8080/Hassan/Hassan1/8049
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TR: SinemaTV Komedi HD" tvg-logo="" group-title="Live: Türkiye",VIP TR: SinemaTV Komedi HD
+http://geostream.me:8080/Hassan/Hassan1/38360
+#EXTINF:-1 tvg-ID="sinema2hd.tr" tvg-name="VIP TR: SinemaTV Yerli HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: SinemaTV Yerli HD
+http://geostream.me:8080/Hassan/Hassan1/11831
+#EXTINF:-1 tvg-ID="moviesmartpremium.tr" tvg-name="VIP TR: SinemaTV Yerli 2 HD" tvg-logo="[" group-title="Live: Türkiye",VIP TR: SinemaTV Yerli 2 HD
+http://geostream.me:8080/Hassan/Hassan1/3752
+#EXTINF:-1 tvg-ID="24kitchen.tr" tvg-name="TR: 24 KITCHEN" tvg-logo="" group-title="Live: Türkiye",TR: 24 KITCHEN
+http://geostream.me:8080/Hassan/Hassan1/21134
+#EXTINF:-1 tvg-ID="" tvg-name="TR: 41 TV" tvg-logo="" group-title="Live: Türkiye",TR: 41 TV
+http://geostream.me:8080/Hassan/Hassan1/11806
+#EXTINF:-1 tvg-ID="ahaber.tr" tvg-name="TR: A HABER HD" tvg-logo="[""]" group-title="Live: Türkiye",TR: A HABER HD
+http://geostream.me:8080/Hassan/Hassan1/3732
+#EXTINF:-1 tvg-ID="aspor.tr" tvg-name="TR: A SPOR HD" tvg-logo="" group-title="Live: Türkiye",TR: A SPOR HD
+http://geostream.me:8080/Hassan/Hassan1/373
+#EXTINF:-1 tvg-ID="a2tv.tr" tvg-name="TR: A2" tvg-logo="" group-title="Live: Türkiye",TR: A2
+http://geostream.me:8080/Hassan/Hassan1/7993
+#EXTINF:-1 tvg-ID="a2tv.tr" tvg-name="TR: A2 HD BKUP" tvg-logo="" group-title="Live: Türkiye",TR: A2 HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15263
+#EXTINF:-1 tvg-ID="" tvg-name="TR: A9 TV" tvg-logo="" group-title="Live: Türkiye",TR: A9 TV
+http://geostream.me:8080/Hassan/Hassan1/3728
+#EXTINF:-1 tvg-ID="" tvg-name="TR: AKILI TV" tvg-logo="" group-title="Live: Türkiye",TR: AKILI TV
+http://geostream.me:8080/Hassan/Hassan1/11808
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ANADULU TV" tvg-logo="" group-title="Live: Türkiye",TR: ANADULU TV
+http://geostream.me:8080/Hassan/Hassan1/11815
+#EXTINF:-1 tvg-ID="animalplanet.tr" tvg-name="TR: ANIMAL PLANET HD" tvg-logo="" group-title="Live: Türkiye",TR: ANIMAL PLANET HD
+http://geostream.me:8080/Hassan/Hassan1/3739
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: ATV HD" tvg-logo="" group-title="Live: Türkiye",TR: ATV HD
+http://geostream.me:8080/Hassan/Hassan1/3707
+#EXTINF:-1 tvg-ID="atv.tr" tvg-name="TR: ATV HD BKUP" tvg-logo="" group-title="Live: Türkiye",TR: ATV HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15262
+#EXTINF:-1 tvg-ID="babytv.tr" tvg-name="TR: Baby First HD" tvg-logo="[""]" group-title="Live: Türkiye",TR: Baby First HD
+http://geostream.me:8080/Hassan/Hassan1/21138
+#EXTINF:-1 tvg-ID="babytv.tr" tvg-name="TR: Baby TV" tvg-logo="[""]" group-title="Live: Türkiye",TR: Baby TV
+http://geostream.me:8080/Hassan/Hassan1/21137
+#EXTINF:-1 tvg-ID="bbcearth.tr" tvg-name="TR: BBC Earth HD" tvg-logo="" group-title="Live: Türkiye",TR: BBC Earth HD
+http://geostream.me:8080/Hassan/Hassan1/8041
+#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="TR: Bein Sport HD1" tvg-logo="[" group-title="Live: Türkiye",TR: Bein Sport HD1
+http://geostream.me:8080/Hassan/Hassan1/4110
+#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="TR: Bein Sport HD2" tvg-logo="" group-title="Live: Türkiye",TR: Bein Sport HD2
+http://geostream.me:8080/Hassan/Hassan1/4111
+#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="TR: Bein Sport HD3" tvg-logo="" group-title="Live: Türkiye",TR: Bein Sport HD3
+http://geostream.me:8080/Hassan/Hassan1/4112
+#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="TR: Bein Sport HD4" tvg-logo="" group-title="Live: Türkiye",TR: Bein Sport HD4
+http://geostream.me:8080/Hassan/Hassan1/4113
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Bengu Turk" tvg-logo="[""]" group-title="Live: Türkiye",TR: Bengu Turk
+http://geostream.me:8080/Hassan/Hassan1/11805
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEYAZ TV" tvg-logo="[""]" group-title="Live: Türkiye",TR: BEYAZ TV
+http://geostream.me:8080/Hassan/Hassan1/3714
+#EXTINF:-1 tvg-ID="beyaztv.tr" tvg-name="TR: BEYAZ TV HD BKUP" tvg-logo="" group-title="Live: Türkiye",TR: BEYAZ TV HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15261
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BJK TV" tvg-logo="[""]" group-title="Live: Türkiye",TR: BJK TV
+http://geostream.me:8080/Hassan/Hassan1/16167
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: BLOOMBERG" tvg-logo="" group-title="Live: Türkiye",TR: BLOOMBERG
+http://geostream.me:8080/Hassan/Hassan1/3715
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BOOMERANG" tvg-logo="[""]" group-title="Live: Türkiye",TR: BOOMERANG
+http://geostream.me:8080/Hassan/Hassan1/21135
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 1 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 1 HD
+http://geostream.me:8080/Hassan/Hassan1/42773
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 10 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 10 HD
+http://geostream.me:8080/Hassan/Hassan1/42782
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 2 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 2 HD
+http://geostream.me:8080/Hassan/Hassan1/42774
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 3 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 3 HD
+http://geostream.me:8080/Hassan/Hassan1/42775
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 4 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 4 HD
+http://geostream.me:8080/Hassan/Hassan1/42776
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 5 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 5 HD
+http://geostream.me:8080/Hassan/Hassan1/42777
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 6 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 6 HD
+http://geostream.me:8080/Hassan/Hassan1/42778
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 7 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 7 HD
+http://geostream.me:8080/Hassan/Hassan1/42779
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 8 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 8 HD
+http://geostream.me:8080/Hassan/Hassan1/42780
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 9 HD" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES 9 HD
+http://geostream.me:8080/Hassan/Hassan1/42781
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES KEMAL SUNAL" tvg-logo="" group-title="Live: Türkiye",TR: BTV MOVIES KEMAL SUNAL
+http://geostream.me:8080/Hassan/Hassan1/42783
+#EXTINF:-1 tvg-ID="cartoonnetwork.tr" tvg-name="TR: Cartoon Network HD" tvg-logo="[" group-title="Live: Türkiye",TR: Cartoon Network HD
+http://geostream.me:8080/Hassan/Hassan1/21139
+#EXTINF:-1 tvg-ID="" tvg-name="TR: CAY YOLO TV" tvg-logo="" group-title="Live: Türkiye",TR: CAY YOLO TV
+http://geostream.me:8080/Hassan/Hassan1/11802
+#EXTINF:-1 tvg-ID="planetmutfak.tr" tvg-name="TR: Cine 5 TV" tvg-logo="" group-title="Live: Türkiye",TR: Cine 5 TV
+http://geostream.me:8080/Hassan/Hassan1/11814
+#EXTINF:-1 tvg-ID="cnnturk.tr" tvg-name="TR: CNNTURK" tvg-logo="" group-title="Live: Türkiye",TR: CNNTURK
+http://geostream.me:8080/Hassan/Hassan1/3731
+#EXTINF:-1 tvg-ID="davinci.tr" tvg-name="TR: DA Vinci Learning HD" tvg-logo="" group-title="Live: Türkiye",TR: DA Vinci Learning HD
+http://geostream.me:8080/Hassan/Hassan1/8042
+#EXTINF:-1 tvg-ID="dizismartmax.tr" tvg-name="TR: DIGI Max HD" tvg-logo="" group-title="Live: Türkiye",TR: DIGI Max HD
+http://geostream.me:8080/Hassan/Hassan1/3738
+#EXTINF:-1 tvg-ID="dizismartpremium.tr" tvg-name="TR: DIGIMAX 1" tvg-logo="[""]" group-title="Live: Türkiye",TR: DIGIMAX 1
+http://geostream.me:8080/Hassan/Hassan1/3745
+#EXTINF:-1 tvg-ID="dizismartmax.tr" tvg-name="TR: DIGIMAX 2" tvg-logo="[""]" group-title="Live: Türkiye",TR: DIGIMAX 2
+http://geostream.me:8080/Hassan/Hassan1/3746
+#EXTINF:-1 tvg-ID="dizismartmax.tr" tvg-name="TR: DIGIMAX ANIMASYON HD" tvg-logo="[""]" group-title="Live: Türkiye",TR: DIGIMAX ANIMASYON HD
+http://geostream.me:8080/Hassan/Hassan1/3747
+#EXTINF:-1 tvg-ID="discoverychannel.tr" tvg-name="TR: DISCOVERY CHANNEL" tvg-logo="" group-title="Live: Türkiye",TR: DISCOVERY CHANNEL
+http://geostream.me:8080/Hassan/Hassan1/3734
+#EXTINF:-1 tvg-ID="discoverychannel.tr" tvg-name="TR: Discovery Channel HD" tvg-logo="" group-title="Live: Türkiye",TR: Discovery Channel HD
+http://geostream.me:8080/Hassan/Hassan1/8043
+#EXTINF:-1 tvg-ID="idx.tr" tvg-name="TR: Discovery ID HD" tvg-logo="[""]" group-title="Live: Türkiye",TR: Discovery ID HD
+http://geostream.me:8080/Hassan/Hassan1/8045
+#EXTINF:-1 tvg-ID="discoveryscience.tr" tvg-name="TR: Discovery Science HD" tvg-logo="" group-title="Live: Türkiye",TR: Discovery Science HD
+http://geostream.me:8080/Hassan/Hassan1/8044
+#EXTINF:-1 tvg-ID="disneychannel.tr" tvg-name="TR: Disney Channel HD" tvg-logo="" group-title="Live: Türkiye",TR: Disney Channel HD
+http://geostream.me:8080/Hassan/Hassan1/16660
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Disney Junior" tvg-logo="[""]" group-title="Live: Türkiye",TR: Disney Junior
+http://geostream.me:8080/Hassan/Hassan1/17208
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: DMAX HD" tvg-logo="" group-title="Live: Türkiye",TR: DMAX HD
+http://geostream.me:8080/Hassan/Hassan1/372
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Docu Box HD" tvg-logo="[""]" group-title="Live: Türkiye",TR: Docu Box HD
+http://geostream.me:8080/Hassan/Hassan1/8046
+#EXTINF:-1 tvg-ID="dreamtv.tr" tvg-name="TR: Dream Turk" tvg-logo="" group-title="Live: Türkiye",TR: Dream Turk
+http://geostream.me:8080/Hassan/Hassan1/11811
+#EXTINF:-1 tvg-ID="dreamtv.tr" tvg-name="TR: DREAMTURK" tvg-logo="" group-title="Live: Türkiye",TR: DREAMTURK
+http://geostream.me:8080/Hassan/Hassan1/3744
+#EXTINF:-1 tvg-ID="" tvg-name="TR: EGE TV" tvg-logo="" group-title="Live: Türkiye",TR: EGE TV
+http://geostream.me:8080/Hassan/Hassan1/3726
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ANiMASYON" tvg-logo="" group-title="Live: Türkiye",TR: ENO ANiMASYON
+http://geostream.me:8080/Hassan/Hassan1/42784
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO TURK 1" tvg-logo="" group-title="Live: Türkiye",TR: ENO TURK 1
+http://geostream.me:8080/Hassan/Hassan1/42785
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 1" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 1
+http://geostream.me:8080/Hassan/Hassan1/42786
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 10" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 10
+http://geostream.me:8080/Hassan/Hassan1/42795
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 11" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 11
+http://geostream.me:8080/Hassan/Hassan1/42796
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 12" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 12
+http://geostream.me:8080/Hassan/Hassan1/42797
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 13" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 13
+http://geostream.me:8080/Hassan/Hassan1/42798
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 14" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 14
+http://geostream.me:8080/Hassan/Hassan1/42799
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 15" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 15
+http://geostream.me:8080/Hassan/Hassan1/42800
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 2" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 2
+http://geostream.me:8080/Hassan/Hassan1/42787
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 3" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 3
+http://geostream.me:8080/Hassan/Hassan1/42788
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 4" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 4
+http://geostream.me:8080/Hassan/Hassan1/42789
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 5" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 5
+http://geostream.me:8080/Hassan/Hassan1/42790
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 6" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 6
+http://geostream.me:8080/Hassan/Hassan1/42791
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 7" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 7
+http://geostream.me:8080/Hassan/Hassan1/42792
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 8" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 8
+http://geostream.me:8080/Hassan/Hassan1/42793
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO ViZYON 9" tvg-logo="" group-title="Live: Türkiye",TR: ENO ViZYON 9
+http://geostream.me:8080/Hassan/Hassan1/42794
+#EXTINF:-1 tvg-ID="" tvg-name="TR: ENO WESTERN" tvg-logo="" group-title="Live: Türkiye",TR: ENO WESTERN
+http://geostream.me:8080/Hassan/Hassan1/42801
+#EXTINF:-1 tvg-ID="eurosport1.tr" tvg-name="TR: EURO SPORT 1 HD" tvg-logo="[""]" group-title="Live: Türkiye",TR: EURO SPORT 1 HD
+http://geostream.me:8080/Hassan/Hassan1/8047
+#EXTINF:-1 tvg-ID="eurosport2.tr" tvg-name="TR: EURO SPORT 2 HD" tvg-logo="[" group-title="Live: Türkiye",TR: EURO SPORT 2 HD
+http://geostream.me:8080/Hassan/Hassan1/8048
+#EXTINF:-1 tvg-ID="fbtv.tr" tvg-name="TR: FB TV" tvg-logo="" group-title="Live: Türkiye",TR: FB TV
+http://geostream.me:8080/Hassan/Hassan1/9937
+#EXTINF:-1 tvg-ID="filmbox.tr" tvg-name="TR: Film BOX HD" tvg-logo="[""]" group-title="Live: Türkiye",TR: Film BOX HD
+http://geostream.me:8080/Hassan/Hassan1/8061
+#EXTINF:-1 tvg-ID="flashtv.tr" tvg-name="TR: FLASH TV" tvg-logo="" group-title="Live: Türkiye",TR: FLASH TV
+http://geostream.me:8080/Hassan/Hassan1/3719
+#EXTINF:-1 tvg-ID="foxcrime.tr" tvg-name="TR: Fox Crime HD" tvg-logo="[""]" group-title="Live: Türkiye",TR: Fox Crime HD
+http://geostream.me:8080/Hassan/Hassan1/21132
+#EXTINF:-1 tvg-ID="fox.tr" tvg-name="TR: FOX HD BKUP" tvg-logo="" group-title="Live: Türkiye",TR: FOX HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15260
+#EXTINF:-1 tvg-ID="foxlife.tr" tvg-name="TR: TV 100" tvg-logo="[" group-title="Live: Türkiye",TR: TV 100
+http://geostream.me:8080/Hassan/Hassan1/21131
+#EXTINF:-1 tvg-ID="fox.tr" tvg-name="TR: FOX TV HD" tvg-logo="" group-title="Live: Türkiye",TR: FOX TV HD
+http://geostream.me:8080/Hassan/Hassan1/3711
+#EXTINF:-1 tvg-ID="fxnetwork.tr" tvg-name="TR: FX HD" tvg-logo="[" group-title="Live: Türkiye",TR: FX HD
+http://geostream.me:8080/Hassan/Hassan1/21133
+#EXTINF:-1 tvg-ID="" tvg-name="TR: GS TV" tvg-logo="" group-title="Live: Türkiye",TR: GS TV
+http://geostream.me:8080/Hassan/Hassan1/9936
+#EXTINF:-1 tvg-ID="haberturk.tr" tvg-name="TR: Haber Turk" tvg-logo="" group-title="Live: Türkiye",TR: Haber Turk
+http://geostream.me:8080/Hassan/Hassan1/9124
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: Halk TV" tvg-logo="" group-title="Live: Türkiye",TR: Halk TV
+http://geostream.me:8080/Hassan/Hassan1/8056
+#EXTINF:-1 tvg-ID="historychannel.tr" tvg-name="TR: HISTORY HD" tvg-logo="" group-title="Live: Türkiye",TR: HISTORY HD
+http://geostream.me:8080/Hassan/Hassan1/3737
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal 42" tvg-logo="" group-title="Live: Türkiye",TR: Kanal 42
+http://geostream.me:8080/Hassan/Hassan1/56278
+#EXTINF:-1 tvg-ID="kanal7.tr" tvg-name="TR: KANAL 7" tvg-logo="" group-title="Live: Türkiye",TR: KANAL 7
+http://geostream.me:8080/Hassan/Hassan1/3717
+#EXTINF:-1 tvg-ID="kanal7.tr" tvg-name="TR: KANAL 7 HD BKUP" tvg-logo="" group-title="Live: Türkiye",TR: KANAL 7 HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15259
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: KANAL AVRUPA BKUP" tvg-logo="[" group-title="Live: Türkiye",TR: KANAL AVRUPA BKUP
+http://geostream.me:8080/Hassan/Hassan1/15257
+#EXTINF:-1 tvg-ID="kanalb.tr" tvg-name="TR: KANAL B" tvg-logo="" group-title="Live: Türkiye",TR: KANAL B
+http://geostream.me:8080/Hassan/Hassan1/3723
+#EXTINF:-1 tvg-ID="kanalb.tr" tvg-name="TR: KANAL B BKUP" tvg-logo="" group-title="Live: Türkiye",TR: KANAL B BKUP
+http://geostream.me:8080/Hassan/Hassan1/15256
+#EXTINF:-1 tvg-ID="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="[" group-title="Live: Türkiye",TR: KANAL D HD
+http://geostream.me:8080/Hassan/Hassan1/3706
+#EXTINF:-1 tvg-ID="kanalb.tr" tvg-name="TR: KANAL D HD BKUP" tvg-logo="" group-title="Live: Türkiye",TR: KANAL D HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15255
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: KANAL V BKUP" tvg-logo="" group-title="Live: Türkiye",TR: KANAL V BKUP
+http://geostream.me:8080/Hassan/Hassan1/15258
+#EXTINF:-1 tvg-ID="" tvg-name="TR: KARADELIN TV" tvg-logo="" group-title="Live: Türkiye",TR: KARADELIN TV
+http://geostream.me:8080/Hassan/Hassan1/11803
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kayseri TV" tvg-logo="" group-title="Live: Türkiye",TR: Kayseri TV
+http://geostream.me:8080/Hassan/Hassan1/11799
+#EXTINF:-1 tvg-ID="" tvg-name="TR: kon TV" tvg-logo="[""]" group-title="Live: Türkiye",TR: kon TV
+http://geostream.me:8080/Hassan/Hassan1/11800
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Korkue HD" tvg-logo="[""]" group-title="Live: Türkiye",TR: Korkue HD
+http://geostream.me:8080/Hassan/Hassan1/8060
+#EXTINF:-1 tvg-ID="kraltv.tr" tvg-name="TR: KRAL TV" tvg-logo="" group-title="Live: Türkiye",TR: KRAL TV
+http://geostream.me:8080/Hassan/Hassan1/11813
+#EXTINF:-1 tvg-ID="kralpop.tr" tvg-name="TR: KRAL TV POP" tvg-logo="[""]" group-title="Live: Türkiye",TR: KRAL TV POP
+http://geostream.me:8080/Hassan/Hassan1/11812
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: KRT HD" tvg-logo="" group-title="Live: Türkiye",TR: KRT HD
+http://geostream.me:8080/Hassan/Hassan1/36207
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: LALEGUL TV" tvg-logo="" group-title="Live: Türkiye",TR: LALEGUL TV
+http://geostream.me:8080/Hassan/Hassan1/31099
+#EXTINF:-1 tvg-ID="natgeopeople.tr" tvg-name="TR: Love Nature FHD" tvg-logo="" group-title="Live: Türkiye",TR: Love Nature FHD
+http://geostream.me:8080/Hassan/Hassan1/8051
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Meltem TV" tvg-logo="" group-title="Live: Türkiye",TR: Meltem TV
+http://geostream.me:8080/Hassan/Hassan1/11798
+#EXTINF:-1 tvg-ID="minikago.tr" tvg-name="TR: Mini Ago HD" tvg-logo="[""]" group-title="Live: Türkiye",TR: Mini Ago HD
+http://geostream.me:8080/Hassan/Hassan1/3716
+#EXTINF:-1 tvg-ID="minikacocuk.tr" tvg-name="TR: MINIKA COCUK" tvg-logo="" group-title="Live: Türkiye",TR: MINIKA COCUK
+http://geostream.me:8080/Hassan/Hassan1/3740
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: MINIKA GO" tvg-logo="" group-title="Live: Türkiye",TR: MINIKA GO
+http://geostream.me:8080/Hassan/Hassan1/3741
+#EXTINF:-1 tvg-ID="moviesmartfestival.tr" tvg-name="TR: MOVIEMAX FESTIVAL HD" tvg-logo="" group-title="Live: Türkiye",TR: MOVIEMAX FESTIVAL HD
+http://geostream.me:8080/Hassan/Hassan1/3757
+#EXTINF:-1 tvg-ID="moviesmartturk.tr" tvg-name="TR: MOVIEMAX TURK HD" tvg-logo="" group-title="Live: Türkiye",TR: MOVIEMAX TURK HD
+http://geostream.me:8080/Hassan/Hassan1/3755
+#EXTINF:-1 tvg-ID="natgeo.tr" tvg-name="TR: NATIONAL GEO HD" tvg-logo="" group-title="Live: Türkiye",TR: NATIONAL GEO HD
+http://geostream.me:8080/Hassan/Hassan1/3735
+#EXTINF:-1 tvg-ID="natgeowild.tr" tvg-name="TR: NATIONAL GEO WILD" tvg-logo="[""]" group-title="Live: Türkiye",TR: NATIONAL GEO WILD
+http://geostream.me:8080/Hassan/Hassan1/3736
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: Nick JR" tvg-logo="[" group-title="Live: Türkiye",TR: Nick JR
+http://geostream.me:8080/Hassan/Hassan1/21136
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: Nickelodeon HD" tvg-logo="[" group-title="Live: Türkiye",TR: Nickelodeon HD
+http://geostream.me:8080/Hassan/Hassan1/8096
+#EXTINF:-1 tvg-ID="" tvg-name="TR: NR1 HD" tvg-logo="" group-title="Live: Türkiye",TR: NR1 HD
+http://geostream.me:8080/Hassan/Hassan1/11810
+#EXTINF:-1 tvg-ID="ntv.tr" tvg-name="TR: NTV" tvg-logo="" group-title="Live: Türkiye",TR: NTV
+http://geostream.me:8080/Hassan/Hassan1/3730
+#EXTINF:-1 tvg-ID="ntv.tr" tvg-name="TR: NTV HD BKUP" tvg-logo="" group-title="Live: Türkiye",TR: NTV HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15254
+#EXTINF:-1 tvg-ID="powerturk.tr" tvg-name="TR: POWER HD BKUP" tvg-logo="" group-title="Live: Türkiye",TR: POWER HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15253
+#EXTINF:-1 tvg-ID="" tvg-name="TR: POWER TURK HD BKUP" tvg-logo="" group-title="Live: Türkiye",TR: POWER TURK HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15252
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Red 360 TV" tvg-logo="" group-title="Live: Türkiye",TR: Red 360 TV
+http://geostream.me:8080/Hassan/Hassan1/8059
+#EXTINF:-1 tvg-ID="ssport.tr" tvg-name="TR: S SPORT HD" tvg-logo="[" group-title="Live: Türkiye",TR: S SPORT HD
+http://geostream.me:8080/Hassan/Hassan1/6093
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SALON 1 HD" tvg-logo="" group-title="Live: Türkiye",TR: SALON 1 HD
+http://geostream.me:8080/Hassan/Hassan1/3748
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SALON 2 HD" tvg-logo="" group-title="Live: Türkiye",TR: SALON 2 HD
+http://geostream.me:8080/Hassan/Hassan1/3749
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: SALON 3" tvg-logo="" group-title="Live: Türkiye",TR: SALON 3
+http://geostream.me:8080/Hassan/Hassan1/3750
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: SEMERKAND HD" tvg-logo="" group-title="Live: Türkiye",TR: SEMERKAND HD
+http://geostream.me:8080/Hassan/Hassan1/31098
+#EXTINF:-1 tvg-ID="showtv.tr" tvg-name="TR: SHOW HD BKUP" tvg-logo="" group-title="Live: Türkiye",TR: SHOW HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15251
+#EXTINF:-1 tvg-ID="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="" group-title="Live: Türkiye",TR: SHOW TV HD
+http://geostream.me:8080/Hassan/Hassan1/3710
+#EXTINF:-1 tvg-ID="showmax.tr" tvg-name="TR: SHOWMAX" tvg-logo="" group-title="Live: Türkiye",TR: SHOWMAX
+http://geostream.me:8080/Hassan/Hassan1/3718
+#EXTINF:-1 tvg-ID="sinemakomedihd.tr" tvg-name="TR: SiNEMAX COMEDY HD" tvg-logo="" group-title="Live: Türkiye",TR: SiNEMAX COMEDY HD
+http://geostream.me:8080/Hassan/Hassan1/11827
+#EXTINF:-1 tvg-ID="sinemakomedi2hd.tr" tvg-name="TR: SiNEMAX DRAMA HD" tvg-logo="" group-title="Live: Türkiye",TR: SiNEMAX DRAMA HD
+http://geostream.me:8080/Hassan/Hassan1/11826
+#EXTINF:-1 tvg-ID="sinemaaile2hd.tr" tvg-name="TR: SiNEMAX FAMiLY HD" tvg-logo="" group-title="Live: Türkiye",TR: SiNEMAX FAMiLY HD
+http://geostream.me:8080/Hassan/Hassan1/11825
+#EXTINF:-1 tvg-ID="sinemayerli.tr" tvg-name="TR: SiNEMAX NOSTALJiA HD" tvg-logo="" group-title="Live: Türkiye",TR: SiNEMAX NOSTALJiA HD
+http://geostream.me:8080/Hassan/Hassan1/11824
+#EXTINF:-1 tvg-ID="sinemayerli2.tr" tvg-name="TR: SiNEMAX TURK HD" tvg-logo="" group-title="Live: Türkiye",TR: SiNEMAX TURK HD
+http://geostream.me:8080/Hassan/Hassan1/11823
+#EXTINF:-1 tvg-ID="sinema1002.tr" tvg-name="TR: SINETIVI 2 HD" tvg-logo="" group-title="Live: Türkiye",TR: SINETIVI 2 HD
+http://geostream.me:8080/Hassan/Hassan1/11822
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 1" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 1
+http://geostream.me:8080/Hassan/Hassan1/42854
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 10" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 10
+http://geostream.me:8080/Hassan/Hassan1/42863
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 11" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 11
+http://geostream.me:8080/Hassan/Hassan1/42864
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 12" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 12
+http://geostream.me:8080/Hassan/Hassan1/42865
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 13" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 13
+http://geostream.me:8080/Hassan/Hassan1/42866
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 14" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 14
+http://geostream.me:8080/Hassan/Hassan1/42867
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 15" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 15
+http://geostream.me:8080/Hassan/Hassan1/42868
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 16" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 16
+http://geostream.me:8080/Hassan/Hassan1/42869
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 17" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 17
+http://geostream.me:8080/Hassan/Hassan1/42870
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 18" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 18
+http://geostream.me:8080/Hassan/Hassan1/42871
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 19" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 19
+http://geostream.me:8080/Hassan/Hassan1/42872
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 2" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 2
+http://geostream.me:8080/Hassan/Hassan1/42855
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 20" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 20
+http://geostream.me:8080/Hassan/Hassan1/42873
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 21" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 21
+http://geostream.me:8080/Hassan/Hassan1/42874
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 22" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 22
+http://geostream.me:8080/Hassan/Hassan1/42875
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 23" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 23
+http://geostream.me:8080/Hassan/Hassan1/42876
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 24" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 24
+http://geostream.me:8080/Hassan/Hassan1/42877
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 25" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 25
+http://geostream.me:8080/Hassan/Hassan1/42878
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 26" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 26
+http://geostream.me:8080/Hassan/Hassan1/42879
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 27" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 27
+http://geostream.me:8080/Hassan/Hassan1/42880
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 28" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 28
+http://geostream.me:8080/Hassan/Hassan1/42881
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 29" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 29
+http://geostream.me:8080/Hassan/Hassan1/42882
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 3" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 3
+http://geostream.me:8080/Hassan/Hassan1/42856
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 4" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 4
+http://geostream.me:8080/Hassan/Hassan1/42857
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 5" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 5
+http://geostream.me:8080/Hassan/Hassan1/42858
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 6" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 6
+http://geostream.me:8080/Hassan/Hassan1/42859
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 7" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 7
+http://geostream.me:8080/Hassan/Hassan1/42860
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 8" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 8
+http://geostream.me:8080/Hassan/Hassan1/42861
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON 9" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON 9
+http://geostream.me:8080/Hassan/Hassan1/42862
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON CEM YILMAZ" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON CEM YILMAZ
+http://geostream.me:8080/Hassan/Hassan1/42883
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON NOSTALJI 1" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON NOSTALJI 1
+http://geostream.me:8080/Hassan/Hassan1/42888
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON NOSTALJI 2" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON NOSTALJI 2
+http://geostream.me:8080/Hassan/Hassan1/42889
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON NOSTALJI 3" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON NOSTALJI 3
+http://geostream.me:8080/Hassan/Hassan1/42890
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON NOSTALJI 4" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON NOSTALJI 4
+http://geostream.me:8080/Hassan/Hassan1/42891
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON NOSTALJI 5" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON NOSTALJI 5
+http://geostream.me:8080/Hassan/Hassan1/42892
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON TURK 1" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON TURK 1
+http://geostream.me:8080/Hassan/Hassan1/42884
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON TURK 2" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON TURK 2
+http://geostream.me:8080/Hassan/Hassan1/42885
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON TURK 3" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON TURK 3
+http://geostream.me:8080/Hassan/Hassan1/42886
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SINEVIZYON TURK 4" tvg-logo="" group-title="Live: Türkiye",TR: SINEVIZYON TURK 4
+http://geostream.me:8080/Hassan/Hassan1/42887
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SL ACTION HD" tvg-logo="" group-title="Live: Türkiye",TR: SL ACTION HD
+http://geostream.me:8080/Hassan/Hassan1/42926
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SL GOLD HD" tvg-logo="" group-title="Live: Türkiye",TR: SL GOLD HD
+http://geostream.me:8080/Hassan/Hassan1/42928
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SL KEMAL SUNAL" tvg-logo="" group-title="Live: Türkiye",TR: SL KEMAL SUNAL
+http://geostream.me:8080/Hassan/Hassan1/42929
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SL KEMAL SUNAL 1" tvg-logo="" group-title="Live: Türkiye",TR: SL KEMAL SUNAL 1
+http://geostream.me:8080/Hassan/Hassan1/42930
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SL KEMAL SUNAL 2" tvg-logo="" group-title="Live: Türkiye",TR: SL KEMAL SUNAL 2
+http://geostream.me:8080/Hassan/Hassan1/42931
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SL KOMEDI HD" tvg-logo="" group-title="Live: Türkiye",TR: SL KOMEDI HD
+http://geostream.me:8080/Hassan/Hassan1/42927
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SL KUKULLI TV" tvg-logo="" group-title="Live: Türkiye",TR: SL KUKULLI TV
+http://geostream.me:8080/Hassan/Hassan1/42937
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SL NILOYA TV" tvg-logo="" group-title="Live: Türkiye",TR: SL NILOYA TV
+http://geostream.me:8080/Hassan/Hassan1/42938
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SL PEPPE TV" tvg-logo="" group-title="Live: Türkiye",TR: SL PEPPE TV
+http://geostream.me:8080/Hassan/Hassan1/42939
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SL PREMIUM HD" tvg-logo="" group-title="Live: Türkiye",TR: SL PREMIUM HD
+http://geostream.me:8080/Hassan/Hassan1/42932
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SL SINEMA TURK HD" tvg-logo="" group-title="Live: Türkiye",TR: SL SINEMA TURK HD
+http://geostream.me:8080/Hassan/Hassan1/42933
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SL YESILCAM 1" tvg-logo="" group-title="Live: Türkiye",TR: SL YESILCAM 1
+http://geostream.me:8080/Hassan/Hassan1/42934
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SL YESILCAM 2" tvg-logo="" group-title="Live: Türkiye",TR: SL YESILCAM 2
+http://geostream.me:8080/Hassan/Hassan1/42935
+#EXTINF:-1 tvg-ID="" tvg-name="TR: SL YESILCAM 3" tvg-logo="" group-title="Live: Türkiye",TR: SL YESILCAM 3
+http://geostream.me:8080/Hassan/Hassan1/42936
+#EXTINF:-1 tvg-ID="smartspor.tr" tvg-name="TR: SMART SPOR HD1" tvg-logo="[" group-title="Live: Türkiye",TR: SMART SPOR HD1
+http://geostream.me:8080/Hassan/Hassan1/6092
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Sony HD" tvg-logo="" group-title="Live: Türkiye",TR: Sony HD
+http://geostream.me:8080/Hassan/Hassan1/21140
+#EXTINF:-1 tvg-ID="startv.tr" tvg-name="TR: STAR TV" tvg-logo="[" group-title="Live: Türkiye",TR: STAR TV
+http://geostream.me:8080/Hassan/Hassan1/3708
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: STAR TV HD" tvg-logo="" group-title="Live: Türkiye",TR: STAR TV HD
+http://geostream.me:8080/Hassan/Hassan1/3709
+#EXTINF:-1 tvg-ID="startv.tr" tvg-name="TR: STAR TV HD BKUP" tvg-logo="" group-title="Live: Türkiye",TR: STAR TV HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15250
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Tele 1 HD" tvg-logo="" group-title="Live: Türkiye",TR: Tele 1 HD
+http://geostream.me:8080/Hassan/Hassan1/36208
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TGRT HABER" tvg-logo="" group-title="Live: Türkiye",TR: TGRT HABER
+http://geostream.me:8080/Hassan/Hassan1/11804
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Tivibu Sport 1" tvg-logo="[""]" group-title="Live: Türkiye",TR: Tivibu Sport 1
+http://geostream.me:8080/Hassan/Hassan1/2269
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: Tivibu Sport 2" tvg-logo="" group-title="Live: Türkiye",TR: Tivibu Sport 2
+http://geostream.me:8080/Hassan/Hassan1/2285
+#EXTINF:-1 tvg-ID="tlc.tr" tvg-name="TR: TLC HD" tvg-logo="" group-title="Live: Türkiye",TR: TLC HD
+http://geostream.me:8080/Hassan/Hassan1/8052
+#EXTINF:-1 tvg-ID="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="Live: Türkiye",TR: TRT 1 HD
+http://geostream.me:8080/Hassan/Hassan1/3704
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: TRT 2" tvg-logo="[" group-title="Live: Türkiye",TR: TRT 2
+http://geostream.me:8080/Hassan/Hassan1/11821
+#EXTINF:-1 tvg-ID="trtavaz.tr" tvg-name="TR: TRT AVAZ" tvg-logo="[" group-title="Live: Türkiye",TR: TRT AVAZ
+http://geostream.me:8080/Hassan/Hassan1/11820
+#EXTINF:-1 tvg-ID="trtbelgesel.tr" tvg-name="TR: TRT BELGESEL HD" tvg-logo="" group-title="Live: Türkiye",TR: TRT BELGESEL HD
+http://geostream.me:8080/Hassan/Hassan1/3733
+#EXTINF:-1 tvg-ID="trtcocuk.tr" tvg-name="TR: TRT COcUK" tvg-logo="" group-title="Live: Türkiye",TR: TRT COcUK
+http://geostream.me:8080/Hassan/Hassan1/11819
+#EXTINF:-1 tvg-ID="trtdiyanet.tr" tvg-name="TR: TRT DIYANET" tvg-logo="" group-title="Live: Türkiye",TR: TRT DIYANET
+http://geostream.me:8080/Hassan/Hassan1/11818
+#EXTINF:-1 tvg-ID="trthaber.tr" tvg-name="TR: TRT HABER HD" tvg-logo="" group-title="Live: Türkiye",TR: TRT HABER HD
+http://geostream.me:8080/Hassan/Hassan1/3729
+#EXTINF:-1 tvg-ID="trthaber.tr" tvg-name="TR: TRT HABER HD BKUP" tvg-logo="" group-title="Live: Türkiye",TR: TRT HABER HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15249
+#EXTINF:-1 tvg-ID="trtmuzik.tr" tvg-name="TR: TRT MUZIK" tvg-logo="" group-title="Live: Türkiye",TR: TRT MUZIK
+http://geostream.me:8080/Hassan/Hassan1/3743
+#EXTINF:-1 tvg-ID="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="" group-title="Live: Türkiye",TR: TRT SPOR HD
+http://geostream.me:8080/Hassan/Hassan1/371
+#EXTINF:-1 tvg-ID="trtspor.tr" tvg-name="TR: TRT SPOR HD BKUP" tvg-logo="" group-title="Live: Türkiye",TR: TRT SPOR HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15248
+#EXTINF:-1 tvg-ID="trtokul.tr" tvg-name="TR: TRT SPORT 2" tvg-logo="" group-title="Live: Türkiye",TR: TRT SPORT 2
+http://geostream.me:8080/Hassan/Hassan1/3742
+#EXTINF:-1 tvg-ID="trtturk.tr" tvg-name="TR: TRT TURK" tvg-logo="" group-title="Live: Türkiye",TR: TRT TURK
+http://geostream.me:8080/Hassan/Hassan1/3705
+#EXTINF:-1 tvg-ID="trtworld.tr" tvg-name="TR: TRT WORLD" tvg-logo="[""]" group-title="Live: Türkiye",TR: TRT WORLD
+http://geostream.me:8080/Hassan/Hassan1/11817
+#EXTINF:-1 tvg-ID="trtworld.tr" tvg-name="TR: TRT WORLD HD BKUP" tvg-logo="" group-title="Live: Türkiye",TR: TRT WORLD HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15247
+#EXTINF:-1 tvg-ID="trt1.tr" tvg-name="TR: TRT1 HD BKUP" tvg-logo="[" group-title="Live: Türkiye",TR: TRT1 HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15246
+#EXTINF:-1 tvg-ID="" tvg-name="TR: TV 5" tvg-logo="" group-title="Live: Türkiye",TR: TV 5
+http://geostream.me:8080/Hassan/Hassan1/3727
+#EXTINF:-1 tvg-ID="tv8.tr" tvg-name="TR: TV 8 HD" tvg-logo="" group-title="Live: Türkiye",TR: TV 8 HD
+http://geostream.me:8080/Hassan/Hassan1/3712
+#EXTINF:-1 tvg-ID="tv85.tr" tvg-name="TR: TV 8.5" tvg-logo="" group-title="Live: Türkiye",TR: TV 8.5
+http://geostream.me:8080/Hassan/Hassan1/8058
+#EXTINF:-1 tvg-ID="tvem.tr" tvg-name="TR: TV EM" tvg-logo="" group-title="Live: Türkiye",TR: TV EM
+http://geostream.me:8080/Hassan/Hassan1/3724
+#EXTINF:-1 tvg-ID="tv2.tr" tvg-name="TR: TV2" tvg-logo="" group-title="Live: Türkiye",TR: TV2
+http://geostream.me:8080/Hassan/Hassan1/3725
+#EXTINF:-1 tvg-ID="tv8.tr" tvg-name="TR: TV8 HD BKUP" tvg-logo="[" group-title="Live: Türkiye",TR: TV8 HD BKUP
+http://geostream.me:8080/Hassan/Hassan1/15245
+#EXTINF:-1 tvg-ID="tv8.tr" tvg-name="TR: TV8 INT" tvg-logo="" group-title="Live: Türkiye",TR: TV8 INT
+http://geostream.me:8080/Hassan/Hassan1/3713
+#EXTINF:-1 tvg-ID="tvnet.tr" tvg-name="TR: TVNET HD" tvg-logo="" group-title="Live: Türkiye",TR: TVNET HD
+http://geostream.me:8080/Hassan/Hassan1/11809
+#EXTINF:-1 tvg-ID="ulketv.tr" tvg-name="TR: ULKE TV" tvg-logo="" group-title="Live: Türkiye",TR: ULKE TV
+http://geostream.me:8080/Hassan/Hassan1/3721
+#EXTINF:-1 tvg-ID="ulusalkanal.tr" tvg-name="TR: Ulusal Kanal" tvg-logo="[" group-title="Live: Türkiye",TR: Ulusal Kanal
+http://geostream.me:8080/Hassan/Hassan1/8057
+#EXTINF:-1 tvg-ID="" tvg-name="TR: VATAN" tvg-logo="" group-title="Live: Türkiye",TR: VATAN
+http://geostream.me:8080/Hassan/Hassan1/11807
+#EXTINF:-1 tvg-ID="viasathistorynature.tr" tvg-name="TR: VIASAT NATURE HISTORY" tvg-logo="" group-title="Live: Türkiye",TR: VIASAT NATURE HISTORY
+http://geostream.me:8080/Hassan/Hassan1/8055
+#EXTINF:-1 tvg-ID="" tvg-name="TR: World Travel" tvg-logo="" group-title="Live: Türkiye",TR: World Travel
+http://geostream.me:8080/Hassan/Hassan1/8053
+#EXTINF:-1 tvg-ID="yabantv.tr" tvg-name="TR: YABAN TV" tvg-logo="" group-title="Live: Türkiye",TR: YABAN TV
+http://geostream.me:8080/Hassan/Hassan1/11801
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: YESILCAM HD" tvg-logo="[" group-title="Live: Türkiye",TR: YESILCAM HD
+http://geostream.me:8080/Hassan/Hassan1/11816
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Damar FM" tvg-logo="" group-title="Live: Radio",TR: Damar FM
+http://geostream.me:8080/Hassan/Hassan1/12192
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kral FM" tvg-logo="" group-title="Live: Radio",TR: Kral FM
+http://geostream.me:8080/Hassan/Hassan1/12191
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kral FM Pop" tvg-logo="" group-title="Live: Radio",TR: Kral FM Pop
+http://geostream.me:8080/Hassan/Hassan1/12193

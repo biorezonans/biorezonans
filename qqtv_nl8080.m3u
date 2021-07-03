@@ -1,0 +1,125 @@
+#EXTM3U
+#EXT#EXTINF:-1 tvg-id="247Retro.us" tvg-name="TR: DMAX HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/dmax-us.png" group-title="IRAN -//- TURKISH",TR: DMAX HD
+http://qqtv.nl:8080/8649/8649/11435
+#EXTINF:-1 tvg-id="SinemaTV.tr" tvg-name="TR: SINEMA TV" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/sinema-tv-tr.png" group-title="IRAN -//- TURKISH",TR: SINEMA TV
+http://qqtv.nl:8080/8649/8649/15681
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="TR: CNN TV HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/cnn_turk.png" group-title="IRAN -//- TURKISH",TR: CNN TV HD
+http://qqtv.nl:8080/8649/8649/11430
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="TR: FOX HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/fox_global.png" group-title="IRAN -//- TURKISH",TR: FOX HD
+http://qqtv.nl:8080/8649/8649/11432
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="TR: STAR TURK 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/turkasat_trk.png" group-title="IRAN -//- TURKISH",TR: STAR TURK 2 HD
+http://qqtv.nl:8080/8649/8649/11461
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="TR: STAR AKSIYON HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/turkasat_trk.png" group-title="IRAN -//- TURKISH",TR: STAR AKSIYON HD
+http://qqtv.nl:8080/8649/8649/11444
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="TR: STAR TURK 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Star_TV_logosu.png" group-title="IRAN -//- TURKISH",TR: STAR TURK 1 HD
+http://qqtv.nl:8080/8649/8649/15710
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="TR: DREAM TURK" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/dream_tv_tr_turk.png" group-title="IRAN -//- TURKISH",TR: DREAM TURK
+http://qqtv.nl:8080/8649/8649/11446
+#EXTINF:-1 tvg-id="beINMoviesAction2.tr" tvg-name="TR: beIN MOVIES ACTION 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-movies-stars-qa-tr.png" group-title="IRAN -//- TURKISH",TR: beIN MOVIES ACTION 2 HD
+http://qqtv.nl:8080/8649/8649/11427
+#EXTINF:-1 tvg-id="MovieSmartAction.tr" tvg-name="TR: MAX AKSIYON 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/moviesmart-action-tr.png" group-title="IRAN -//- TURKISH",TR: MAX AKSIYON 1 HD
+http://qqtv.nl:8080/8649/8649/11442
+#EXTINF:-1 tvg-id="MovieSmartPlatin.tr" tvg-name="TR: TURKAmax SALON 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/turkamax_gr.png" group-title="IRAN -//- TURKISH",TR: TURKAmax SALON 1 HD
+http://qqtv.nl:8080/8649/8649/11441
+#EXTINF:-1 tvg-id="MovieSmartGold.tr" tvg-name="TR: MAX AKSIYON 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/moviesmart-gold-tr.png" group-title="IRAN -//- TURKISH",TR: MAX AKSIYON 2 HD
+http://qqtv.nl:8080/8649/8649/15687
+#EXTINF:-1 tvg-id="MovieSmartFamily.tr" tvg-name="TR: TURKAmax SALON 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/turkamax_gr.png" group-title="IRAN -//- TURKISH",TR: TURKAmax SALON 2 HD
+http://qqtv.nl:8080/8649/8649/11445
+#EXTINF:-1 tvg-id="MovieSmartClassic.tr" tvg-name="TR: MOVIESMART CLASSIC HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/moviesmart-classic-tr.png" group-title="IRAN -//- TURKISH",TR: MOVIESMART CLASSIC HD
+http://qqtv.nl:8080/8649/8649/11450
+#EXTINF:-1 tvg-id="MovieSmartTurk.tr" tvg-name="TR: MOVIESMART TURK HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/moviesmart-turk-tr.png" group-title="IRAN -//- TURKISH",TR: MOVIESMART TURK HD
+http://qqtv.nl:8080/8649/8649/15678
+#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="TR: beIN MOVIES TURK HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-movies-stars-qa-tr.png" group-title="IRAN -//- TURKISH",TR: beIN MOVIES TURK HD
+http://qqtv.nl:8080/8649/8649/11423
+#EXTINF:-1 tvg-id="MovieSmartPremium.tr" tvg-name="TR: MOVIESMART PREMIUM HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/moviesmart-premium-tr.png" group-title="IRAN -//- TURKISH",TR: MOVIESMART PREMIUM HD
+http://qqtv.nl:8080/8649/8649/15655
+#EXTINF:-1 tvg-id="ViasatHistoryNature.tr" tvg-name="TR: VIASAT HISTORY HD " tvg-logo="http://glmtv.pw/logo/prestige/Turkey/history_us.png" group-title="IRAN -//- TURKISH",TR: VIASAT HISTORY HD 
+http://qqtv.nl:8080/8649/8649/11429
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR: KANAL 7 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/kanal7_tr.png" group-title="IRAN -//- TURKISH",TR: KANAL 7 HD
+http://qqtv.nl:8080/8649/8649/15701
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR: KANAL B HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/kanal_d_tr.png" group-title="IRAN -//- TURKISH",TR: KANAL B HD
+http://qqtv.nl:8080/8649/8649/15711
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 24 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/kanal-23-tr.png" group-title="IRAN -//- TURKISH",TR: KANAL 24 HD
+http://qqtv.nl:8080/8649/8649/15670
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="TR: KRAL POP HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/kral_tr_pop_tv.png" group-title="IRAN -//- TURKISH",TR: KRAL POP HD
+http://qqtv.nl:8080/8649/8649/11424
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR: KANAL V (ANTALYA)" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/kanal7_avrupa.png" group-title="IRAN -//- TURKISH",TR: KANAL V (ANTALYA)
+http://qqtv.nl:8080/8649/8649/11425
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="TR: MARVEL STUDIOS 1" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/mar_tv_tr.png" group-title="IRAN -//- TURKISH",TR: MARVEL STUDIOS 1
+http://qqtv.nl:8080/8649/8649/11447
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 2" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/mar_tv_tr.png" group-title="IRAN -//- TURKISH",TR: MARVEL STUDIOS 2
+http://qqtv.nl:8080/8649/8649/15703
+#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-name="TR: NAT GEO WILD HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/national-geographic-wild-us.png" group-title="IRAN -//- TURKISH",TR: NAT GEO WILD HD
+http://qqtv.nl:8080/8649/8649/15662
+#EXTINF:-1 tvg-id="NatGeo.tr" tvg-name="TR: NAT GEOGRAGHIC HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/nat_geo_us.png" group-title="IRAN -//- TURKISH",TR: NAT GEOGRAGHIC HD
+http://qqtv.nl:8080/8649/8649/15661
+#EXTINF:-1 tvg-id="Docubox.tr" tvg-name="TR: DOCUBOX HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/doruk-tv-tr.png" group-title="IRAN -//- TURKISH",TR: DOCUBOX HD
+http://qqtv.nl:8080/8649/8649/15683
+#EXTINF:-1 tvg-id="DiscoveryIDXtra.tr" tvg-name="TR: DISCOVERY ID HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/investigation_discovery_xtra.png" group-title="IRAN -//- TURKISH",TR: DISCOVERY ID HD
+http://qqtv.nl:8080/8649/8649/15706
+#EXTINF:-1 tvg-id="DiscoveryScience.tr" tvg-name="TR: DISCOVERY SIENCE HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/discovery-science-france-us-fr.png" group-title="IRAN -//- TURKISH",TR: DISCOVERY SIENCE HD
+http://qqtv.nl:8080/8649/8649/15689
+#EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/discovery-channel-east-us.png" group-title="IRAN -//- TURKISH",TR: DISCOVERY CHANNEL HD
+http://qqtv.nl:8080/8649/8649/15665
+#EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="TR: POWER TURK HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/power_turk_tr_tv.png" group-title="IRAN -//- TURKISH",TR: POWER TURK HD
+http://qqtv.nl:8080/8649/8649/11426
+#EXTINF:-1 tvg-id="Showmax.tr" tvg-name="TR: SINEMA TV AKSIYON " tvg-logo="http://glmtv.pw/logo/prestige/Turkey/show_max_tr.png" group-title="IRAN -//- TURKISH",TR: SINEMA TV AKSIYON 
+http://qqtv.nl:8080/8649/8649/11455
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="TR: beIN SPORTS HABER HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-sports-haber-qa-tr.png" group-title="IRAN -//- TURKISH",TR: beIN SPORTS HABER HD
+http://qqtv.nl:8080/8649/8649/15685
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/trt1.png" group-title="IRAN -//- TURKISH",TR: TRT 1 HD
+http://qqtv.nl:8080/8649/8649/11431
+#EXTINF:-1 tvg-id="TRT4K.tr" tvg-name="TR: TRT 4K HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/trt_4k_tr.png" group-title="IRAN -//- TURKISH",TR: TRT 4K HD
+http://qqtv.nl:8080/8649/8649/15680
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TR: TRT DIYANET" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/trt_haber.png" group-title="IRAN -//- TURKISH",TR: TRT DIYANET
+http://qqtv.nl:8080/8649/8649/15674
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/trt_cocuk.png" group-title="IRAN -//- TURKISH",TR: TRT SPOR HD
+http://qqtv.nl:8080/8649/8649/11428
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TR: TRT BELGESEL HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/trt-belgesel-tr.png" group-title="IRAN -//- TURKISH",TR: TRT BELGESEL HD
+http://qqtv.nl:8080/8649/8649/11422
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR: ATV HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/atv_tr.png" group-title="IRAN -//- TURKISH",TR: ATV HD
+http://qqtv.nl:8080/8649/8649/15713
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TR: TVNET HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/tv_net_tr.png" group-title="IRAN -//- TURKISH",TR: TVNET HD
+http://qqtv.nl:8080/8649/8649/11439
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR: TV 8 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/tv8_tr.png" group-title="IRAN -//- TURKISH",TR: TV 8 HD
+http://qqtv.nl:8080/8649/8649/11452
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TR: TV 100 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="IRAN -//- TURKISH",TR: TV 100 HD
+http://qqtv.nl:8080/8649/8649/15705
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="TR: ULKE TV HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/ulke_tv_tr.png" group-title="IRAN -//- TURKISH",TR: ULKE TV HD
+http://qqtv.nl:8080/8649/8649/15668
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="TR: TIVIBUSPOR 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/220px-Cartoon_Network_2010_logo.svg.png" group-title="IRAN -//- TURKISH",TR: TIVIBUSPOR 1 HD
+http://qqtv.nl:8080/8649/8649/15679
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/sports_tv_tr.png" group-title="IRAN -//- TURKISH",TR: TIVIBUSPOR 2 HD
+http://qqtv.nl:8080/8649/8649/15708
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="TR: TIVIBUSPOR 3 HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/spor-smart-tr.png" group-title="IRAN -//- TURKISH",TR: TIVIBUSPOR 3 HD
+http://qqtv.nl:8080/8649/8649/15690
+#EXTINF:-1 tvg-id="" tvg-name="The Dissident (Arabic, Turkish, English) - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDG6K0uLtJvJyp1cJmluqjBh79v.jpg" group-title="ARABIC MOVIES",The Dissident (Arabic, Turkish, English) - 2020
+http://qqtv.nl:8080/movie/8649/8649/397168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Name: Human (Turkish, English) - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppX6Pt3SFyBPfbUfmT0A9V00PLC.jpg" group-title="INTERNATIONAL MOVIES",Name: Human (Turkish, English) - 2020
+http://qqtv.nl:8080/movie/8649/8649/396848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One-Way to Tomorrow  (Turkish) -2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgxR3TpZRR1id6kS8ZVbxO11GJg.jpg" group-title="INTERNATIONAL MOVIES",One-Way to Tomorrow  (Turkish) -2020
+http://qqtv.nl:8080/movie/8649/8649/343933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bandit (Turkey) -1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8M2DKRBI9O79dSXGGbshugpQgor.jpg" group-title="INTERNATIONAL MOVIES",The Bandit (Turkey) -1996
+http://qqtv.nl:8080/movie/8649/8649/354692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission of Justice (Turkish) - 1992" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zY8jdRVuapSAZEtnDyOSbh70oF7.jpg" group-title="INTERNATIONAL MOVIES",Mission of Justice (Turkish) - 1992
+http://qqtv.nl:8080/movie/8649/8649/389701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Milo (Italian, Turkish) - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dmHunFILNXKzjOkl1A7IIsTI58.jpg" group-title="INTERNATIONAL MOVIES",Bad Milo (Italian, Turkish) - 2013
+http://qqtv.nl:8080/movie/8649/8649/391567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Cat (Turkish) - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Z7HdaTw7M2sqGjZzjncE4YPRNV.jpg" group-title="INTERNATIONAL MOVIES",Bad Cat (Turkish) - 2016
+http://qqtv.nl:8080/movie/8649/8649/396431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Father and My Son (Turkish) - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MZYwUWJhLADpExD2zMj4uINeFM.jpg" group-title="INTERNATIONAL MOVIES",My Father and My Son (Turkish) - 2005
+http://qqtv.nl:8080/movie/8649/8649/396727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kicking & Screaming (English, French, German, Turkish, Italian, Swedish) - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TFMhymotxmyNqf1SMLXW1xjbko.jpg" group-title="FAMILY  / CHILDREN",Kicking & Screaming (English, French, German, Turkish, Italian, Swedish) - 2005
+http://qqtv.nl:8080/movie/8649/8649/396805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wolf (Turkish) - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blh9CT9OdPvGdDD9pvpuYG8Lz0W.jpg" group-title="ACTION",Wolf (Turkish) - 2018
+http://qqtv.nl:8080/movie/8649/8649/398187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asphaltgorillas (German, Russian, Turkish, Chinese, English) - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqJ3J3H0E06383ZGmoqDGtpbnAu.jpg" group-title="INTERNATIONAL MOVIES",Asphaltgorillas (German, Russian, Turkish, Chinese, English) - 2018
+http://qqtv.nl:8080/movie/8649/8649/398308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paper Lives (Turkish) - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmru6N6Hnw2pJwuo1ctH1CxKqKZ.jpg" group-title="INTERNATIONAL MOVIES",Paper Lives (Turkish) - 2021
+http://qqtv.nl:8080/movie/8649/8649/403603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stray (Turkish) - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkAr4TIA6NW0Y31eGVVBcLTNkrB.jpg" group-title="INTERNATIONAL MOVIES",Stray (Turkish) - 2020
+http://qqtv.nl:8080/movie/8649/8649/403902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Have You Ever Seen Fireflies? (Turkey) - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZucbxHPkb5Xla5ivOcKim7A1NO.jpg" group-title="INTERNATIONAL MOVIES",Have You Ever Seen Fireflies? (Turkey) - 2021
+http://qqtv.nl:8080/movie/8649/8649/404687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="We Don't Deserve Dogs (Spanish, Italian, Turkish, Finnish, Urdu, English, Vietnamese, Nepali, Romanian) - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auytbI3x0GD8wnU1AKf5I5N08Xz.jpg" group-title="SPANISH MOVIES",We Don't Deserve Dogs (Spanish, Italian, Turkish, Finnish, Urdu, English, Vietnamese, Nepali, Romanian) - 2020
+http://qqtv.nl:8080/movie/8649/8649/404692.mp4

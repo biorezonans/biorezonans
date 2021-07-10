@@ -1,0 +1,271 @@
+#EXTM3U
+#EXTINF:-1 xui-id="9125" tvg-id="24kitchen.tr" tvg-name="TR: 24 TV FHD" tvg-logo="http://neczbm.to:80/images/aa0d4d1320458e4fd030fa0bc6e1569a.png" group-title="TR: | Turkey Genel",TR: 24 TV FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxstKWzrQldtxoKrJuHOs2c/ts
+#EXTINF:-1 xui-id="7285" tvg-id="360.tr" tvg-name="TR: 360 FHD" tvg-logo="http://neczbm.to:80/images/ba0e7b7602d586c0ac5c62ee294cba78.png" group-title="TR: | Turkey Genel",TR: 360 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxNqxzm9o4kkBvvQC3OvvRj/ts
+#EXTINF:-1 xui-id="3300" tvg-id="360.tr" tvg-name="TR: 360 HD" tvg-logo="http://neczbm.to:80/images/ba0e7b7602d586c0ac5c62ee294cba78.png" group-title="TR: | Turkey Genel",TR: 360 HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwgc3k63x7pNTbu41isBB2w/ts
+#EXTINF:-1 xui-id="7284" tvg-id="a2tv.tr" tvg-name="TR: A2 FHD" tvg-logo="http://neczbm.to:80/images/b07e48eee62534808f8889159654addb.png" group-title="TR: | Turkey Genel",TR: A2 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzx1Q-aqSCeYE_GM6ceC2vA/ts
+#EXTINF:-1 xui-id="3302" tvg-id="ahaber.tr" tvg-name="TR: A Haber FHD" tvg-logo="http://neczbm.to:80/images/0a734fd211b8c841bc12f589627f466e.png" group-title="TR: | Haber",TR: A Haber FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxfL59aWnzfwUifooHS6Qbf/ts
+#EXTINF:-1 xui-id="7024" tvg-id="ahaber.tr" tvg-name="TR: A Haber HD" tvg-logo="http://neczbm.to:80/images/0a734fd211b8c841bc12f589627f466e.png" group-title="TR: | Haber",TR: A Haber HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyzwmsQO91JkpyQRF1zdqP_/ts
+#EXTINF:-1 xui-id="2575" tvg-id="aspor.tr" tvg-name="TR: A Spor FHD" tvg-logo="http://neczbm.to:80/images/468e404102ab586f1556eb8bb810ffcd.png" group-title="TR: | Sport",TR: A Spor FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxEkAck-98WB2CvvQBRW2aC/ts
+#EXTINF:-1 xui-id="7068" tvg-id="aspor.tr" tvg-name="TR: A Spor HD" tvg-logo="http://neczbm.to:80/images/468e404102ab586f1556eb8bb810ffcd.png" group-title="TR: | Sport",TR: A Spor HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIy035V_5K8aTXLu_XCMMsif/ts
+#EXTINF:-1 xui-id="2604" tvg-id="atv.tr" tvg-name="TR: ATV FHD" tvg-logo="http://neczbm.to:80/images/3e55d1e8917e204a19e2b76e31b5f952.png" group-title="TR: | Turkey Genel",TR: ATV FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIx7W9d9QQJnHg66Ze9GeFEs/ts
+#EXTINF:-1 xui-id="7011" tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="http://neczbm.to:80/images/3e55d1e8917e204a19e2b76e31b5f952.png" group-title="TR: | Turkey Genel",TR: ATV HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIw4PbE2KrlvILMx3WDc9aB8/ts
+#EXTINF:-1 xui-id="5971" tvg-id="beinboxoffice1.tr" tvg-name="TR: Bein Box Office 1 HD" tvg-logo="http://neczbm.to:80/images/edfa690b444897b8210c1eb585dcff5a.png" group-title="TR: | Cinema",TR: Bein Box Office 1 HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIw1zNXgl-qOylUlfUUhTknQ/ts
+#EXTINF:-1 xui-id="5970" tvg-id="beinboxoffice2.tr" tvg-name="TR: Bein Box Office 2 HD" tvg-logo="http://neczbm.to:80/images/0c0732d58250ba0d0bd50b6e0e5c72ba.png" group-title="TR: | Cinema",TR: Bein Box Office 2 HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIw-TiIVAtnV7B98nK8LsKb1/ts
+#EXTINF:-1 xui-id="5969" tvg-id="beinboxoffice3.tr" tvg-name="TR: Bein Box Office 3 HD" tvg-logo="http://neczbm.to:80/images/ca6ee1e0c4f67f593b61f78bafa6c081.png" group-title="TR: | Cinema",TR: Bein Box Office 3 HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyjNDUDhxFQxMFvHZ-Qmvw0/ts
+#EXTINF:-1 xui-id="7042" tvg-id="beingurme.tr" tvg-name="TR: Bein Gurme HD" tvg-logo="http://neczbm.to:80/images/c169d26ae68be6ee61f10f409563be83.png" group-title="TR: | Belgesel",TR: Bein Gurme HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzAOdP0jfF5vlVRXSVT_g7d/ts
+#EXTINF:-1 xui-id="10410" tvg-id="beinmoviesaction.tr" tvg-name="TR: Bein Movies Action FHD" tvg-logo="http://neczbm.to:80/images/1f94dd0cbcf15ddc4b8b96e0d8c14fc6.png" group-title="TR: | Cinema",TR: Bein Movies Action FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwWjs-tplGb4s6TrZLVwx2r/ts
+#EXTINF:-1 xui-id="10409" tvg-id="beinmoviesaction2.tr" tvg-name="TR: Bein Movies Action 2 FHD" tvg-logo="http://neczbm.to:80/images/9fcf22783e459799542bd5ca9efd96bd.png" group-title="TR: | Cinema",TR: Bein Movies Action 2 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyjwVI0NUh-JSeMrvlCSix9/ts
+#EXTINF:-1 xui-id="7505" tvg-id="beinmoviesfamily.tr" tvg-name="TR: Bein Movies Family FHD" tvg-logo="http://neczbm.to:80/images/a879c95fd97662e19c8b3bae32089684.png" group-title="TR: | Cinema",TR: Bein Movies Family FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIx28ED0e7_0v4J9_cobMsVW/ts
+#EXTINF:-1 xui-id="7504" tvg-id="beinmoviespremier.tr" tvg-name="TR: Bein Movies Premiere FHD" tvg-logo="http://neczbm.to:80/images/fff74f747165c9a56d6217d18cea30c0.png" group-title="TR: | Cinema",TR: Bein Movies Premiere FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxgFwNAPDEKs12FASrxlGTh/ts
+#EXTINF:-1 xui-id="7503" tvg-id="beinmoviespremiere2.tr" tvg-name="TR: Bein Movies Premiere 2 FHD" tvg-logo="http://neczbm.to:80/images/0f782140bcafb5a527474cda494db1f9.png" group-title="TR: | Cinema",TR: Bein Movies Premiere 2 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIy-gSF7lrPtdcUg2OrQkLzU/ts
+#EXTINF:-1 xui-id="7501" tvg-id="beinmoviesstars.tr" tvg-name="TR: Bein Movies Stars FHD" tvg-logo="http://neczbm.to:80/images/718596a678b5e5a0d58771744897264b.png" group-title="TR: | Cinema",TR: Bein Movies Stars FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzsq28j8rV1UrbyhjoUaucZ/ts
+#EXTINF:-1 xui-id="7087" tvg-id="beinmoviesturk.tr" tvg-name="TR: Bein Movies Turk HD" tvg-logo="http://neczbm.to:80/images/6b27f32958d1ffb40f4b7c269a7eae9f.png" group-title="TR: | Cinema",TR: Bein Movies Turk HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIx6Asmztf8kktv-6vZSXhJz/ts
+#EXTINF:-1 xui-id="7051" tvg-id="beiniz.tr" tvg-name="TR: Bein iZ HD" tvg-logo="http://neczbm.to:80/images/ad7f850d2ec2c06793d0afcbb199e3ab.png" group-title="TR: | Haber",TR: Bein iZ HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzJ3SrxnDKBa9jumFtcqtvJ/ts
+#EXTINF:-1 xui-id="7500" tvg-id="beinseriescomedy.tr" tvg-name="TR: Bein Series Comedy FHD" tvg-logo="http://neczbm.to:80/images/35f2e952106951698a8c9d49bb3d8991.png" group-title="TR: | Cinema",TR: Bein Series Comedy FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzY5sxipqO6tH8Rwp1mWpOy/ts
+#EXTINF:-1 xui-id="7499" tvg-id="beinseriesdrama.tr" tvg-name="TR: Bein Series Drama FHD" tvg-logo="http://neczbm.to:80/images/25304eb53cd4ca28dbc8df11f453f7e1.png" group-title="TR: | Cinema",TR: Bein Series Drama FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIz2SfaGgXoSsIJD8Ojs-DPt/ts
+#EXTINF:-1 xui-id="10076" tvg-id="beinseriesscifi.tr" tvg-name="TR: Bein Series Sci-fi FHD" tvg-logo="http://neczbm.to:80/images/21cc16b26afa152960c4dce83422cf9c.png" group-title="TR: | Cinema",TR: Bein Series Sci-fi FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxOnaIe7msV0f0WRAJfMHv-/ts
+#EXTINF:-1 xui-id="10075" tvg-id="beinseriesvice.tr" tvg-name="TR: Bein Series Vice FHD" tvg-logo="http://neczbm.to:80/images/1713836a1b0f5c7788972df5d89d1c5a.png" group-title="TR: | Cinema",TR: Bein Series Vice FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzMOsqs052ewJfG6uP9eE8Z/ts
+#EXTINF:-1 xui-id="2583" tvg-id="beinsports1.tr" tvg-name="TR: Bein Sports 1 FHD" tvg-logo="http://neczbm.to:80/images/02b55804ee63cecd437cc9621a4b42d9.png" group-title="TR: | Sport",TR: Bein Sports 1 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzsIcPPiA_5fy9BvQuBt3rc/ts
+#EXTINF:-1 xui-id="7021" tvg-id="beinsports1.tr" tvg-name="TR: Bein Sports 1 HD" tvg-logo="http://neczbm.to:80/images/02b55804ee63cecd437cc9621a4b42d9.png" group-title="TR: | Sport",TR: Bein Sports 1 HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwLKhm-J4UmhX5m83D7LMbx/ts
+#EXTINF:-1 xui-id="2582" tvg-id="beinsports2.tr" tvg-name="TR: Bein Sports 2 FHD" tvg-logo="http://neczbm.to:80/images/fafe39018522bad729d9e1585517650e.png" group-title="TR: | Sport",TR: Bein Sports 2 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIw-FDQzmwunmoFgYj9c7ljz/ts
+#EXTINF:-1 xui-id="7020" tvg-id="beinsports2.tr" tvg-name="TR: Bein Sports 2 HD" tvg-logo="http://neczbm.to/images/channels/BeinSports2HD.png" group-title="TR: | Sport",TR: Bein Sports 2 HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwfzV4wwGltyNzOMMuLyUw1/ts
+#EXTINF:-1 xui-id="2581" tvg-id="beinsports3.tr" tvg-name="TR: Bein Sports 3 FHD" tvg-logo="http://neczbm.to:80/images/6f309b1216f5176e676375b8ee9486fe.png" group-title="TR: | Sport",TR: Bein Sports 3 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIx6_p4epundqrIs_XwTD6IU/ts
+#EXTINF:-1 xui-id="7019" tvg-id="beinsports3.tr" tvg-name="TR: Bein Sports 3 HD" tvg-logo="http://neczbm.to/images/channels/BeinSports3HD.png" group-title="TR: | Sport",TR: Bein Sports 3 HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwkBJPHYDUAui6FFqJZLyhU/ts
+#EXTINF:-1 xui-id="2580" tvg-id="beinsports4.tr" tvg-name="TR: Bein Sports 4 FHD" tvg-logo="http://neczbm.to:80/images/96971f39605dfafdb698fdae301beed0.png" group-title="TR: | Sport",TR: Bein Sports 4 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwDGLccMkLS8C8Phcx65WLa/ts
+#EXTINF:-1 xui-id="7018" tvg-id="beinsports4.tr" tvg-name="TR: Bein Sports 4 HD" tvg-logo="http://neczbm.to/images/channels/BeinSports4HD.png" group-title="TR: | Sport",TR: Bein Sports 4 HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyt-jw-hqZzAHQMAVngey9A/ts
+#EXTINF:-1 xui-id="7914" tvg-id="beinsportshaber.tr" tvg-name="TR: Bein Sports Haber FHD" tvg-logo="http://neczbm.to:80/images/c6d07c1abbcebdfadc91928e786369bb.png" group-title="TR: | Sport",TR: Bein Sports Haber FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwPcBzHBnx7h8UEaCVNZz2s/ts
+#EXTINF:-1 xui-id="7017" tvg-id="beinsportsmax1.tr" tvg-name="TR: Bein Sports Max 1 FHD" tvg-logo="http://neczbm.to:80/images/5587c092c42fa542ca5147cd0f4a8230.png" group-title="TR: | Sport",TR: Bein Sports Max 1 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzuRErvKrS6p6rm1qCtyGCw/ts
+#EXTINF:-1 xui-id="7016" tvg-id="beinsportsmax2.tr" tvg-name="TR: Bein Sports Max 2 FHD" tvg-logo="http://neczbm.to:80/images/d3bdb073d5d4a223b29c98f47671f6c5.png" group-title="TR: | Sport",TR: Bein Sports Max 2 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxfKX_67fo1K4tWjlYQXCmp/ts
+#EXTINF:-1 xui-id="2601" tvg-id="beyaztv.tr" tvg-name="TR: Beyaz TV FHD" tvg-logo="http://neczbm.to:80/images/1ff9a24be132ce896a021410b966c3bf.png" group-title="TR: | Turkey Genel",TR: Beyaz TV FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyPCGzVlDyaWpZ1ylAQLMDT/ts
+#EXTINF:-1 xui-id="7010" tvg-id="beyaztv.tr" tvg-name="TR: Beyaz TV HD" tvg-logo="http://neczbm.to/images/channels/Beyaz.png" group-title="TR: | Turkey Genel",TR: Beyaz TV HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxEIUqz1jsWgwSdcOZER4Nr/ts
+#EXTINF:-1 xui-id="9111" tvg-id="bloomberght.tr" tvg-name="TR: Bloomberg HT HD" tvg-logo="http://neczbm.to:80/images/4ed6ea626ed739fb791778d48864b0e5.png" group-title="TR: | Haber",TR: Bloomberg HT HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwRRecsrEscngVrooDGLhjl/ts
+#EXTINF:-1 xui-id="9120" tvg-id="cartoonnetwork.tr" tvg-name="TR: Cartoon Network" tvg-logo="http://neczbm.to:80/images/0718a7a9c43d44c32ec4fca6da6e374c.png" group-title="TR: | Cocuk",TR: Cartoon Network
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIw815RIO9OWNjqFmoiy_ibv/ts
+#EXTINF:-1 xui-id="2595" tvg-id="cnnturk.tr" tvg-name="TR: CNN Turk FHD" tvg-logo="http://neczbm.to:80/images/884d047d90447629310cddccdb610cae.png" group-title="TR: | Haber",TR: CNN Turk FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyLG7s2QQX7QLcYD_vzeBKD/ts
+#EXTINF:-1 xui-id="7022" tvg-id="cnnturk.tr" tvg-name="TR: CNN Turk HD" tvg-logo="http://neczbm.to:80/images/884d047d90447629310cddccdb610cae.png" group-title="TR: | Haber",TR: CNN Turk HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxAhNhn6pu4O9rUEuyRpDNh/ts
+#EXTINF:-1 xui-id="2613" tvg-id="discoverychannel.tr" tvg-name="TR: Discovery FHD" tvg-logo="http://neczbm.to:80/images/93e5597c27e86b9ee6a95f33ef6890ab.png" group-title="TR: | Belgesel",TR: Discovery FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxSPMtmLW_EJa5Q91GlpnQT/ts
+#EXTINF:-1 xui-id="9110" tvg-id="discoveryid.tr" tvg-name="TR: Discovery ID FHD" tvg-logo="http://neczbm.to:80/images/188691322efdaf93709f2376a8cf8fb2.png" group-title="TR: | Belgesel",TR: Discovery ID FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxnBvSCv1it_8W5dnJHNLBN/ts
+#EXTINF:-1 xui-id="7281" tvg-id="discoveryscience.tr" tvg-name="TR: Discovery Science FHD" tvg-logo="http://neczbm.to/images/channels/DiscoveryScience.png" group-title="TR: | Belgesel",TR: Discovery Science FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxwOfIdk_oK9GQ1dTW4govN/ts
+#EXTINF:-1 xui-id="2592" tvg-id="disneyjunior.tr" tvg-name="TR: Disney Junior" tvg-logo="http://neczbm.to:80/images/6323bc306568c188a1c6c39aad5ce1cd.png" group-title="TR: | Cocuk",TR: Disney Junior
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzU8e_tw66W7YzK2Of0_yvx/ts
+#EXTINF:-1 xui-id="13954" tvg-id="dizismartmax.tr" tvg-name="TR: Dizi Smart Max FHD" tvg-logo="http://neczbm.to:80/images/55acbb1d806e15ae3eee01fb717b8782.png" group-title="TR: | Cinema",TR: Dizi Smart Max FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwMyMe7JwI_VOVLm2KR2gzQ/ts
+#EXTINF:-1 xui-id="7985" tvg-id="dizismartpremium.tr" tvg-name="TR: DiziSmart Premium FHD" tvg-logo="http://neczbm.to/images/channels/DiziSmartPremiumHD.png" group-title="TR: | Cinema",TR: DiziSmart Premium FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxLfV47QwouPruwWc8cZLMz/ts
+#EXTINF:-1 xui-id="10389" tvg-id="dmax.tr" tvg-name="TR: Dmax FHD" tvg-logo="http://neczbm.to:80/images/fd19c04f4577c2485e562eba4ab0d89f.png" group-title="TR: | Belgesel",TR: Dmax FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxyeAEwDzz5PULrFmucTAo4/ts
+#EXTINF:-1 xui-id="10183" tvg-id="24kitchen.tr" tvg-name="TR: Dream" tvg-logo="http://neczbm.to:80/images/fa12e18443baddc6230da8efbd20dcd9.png" group-title="TR: | Music",TR: Dream
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIz-qVUWb850wuEnDzlS138V/ts
+#EXTINF:-1 xui-id="10391" tvg-id="dreamturk.tr" tvg-name="TR: Dream Turk" tvg-logo="http://neczbm.to:80/images/9dc16464337ae300d4778b5cba5a2504.png" group-title="TR: | Music",TR: Dream Turk
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzlsc7TsDWoDtmbD3RDF0kP/ts
+#EXTINF:-1 xui-id="13959" tvg-id="ekoturk.tr" tvg-name="TR: Eko Turk FHD" tvg-logo="http://neczbm.to:80/images/ff83d9343fac9cbb4e7c846bd199694f.png" group-title="TR: | Turkey Genel",TR: Eko Turk FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzGE01tBaosY75K0lXVmR_g/ts
+#EXTINF:-1 xui-id="7097" tvg-id="eurosport1.tr" tvg-name="TR: EuroSport 1 HD" tvg-logo="http://neczbm.to/images/channels/Eurosport1HD.png" group-title="TR: | Sport",TR: EuroSport 1 HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzXpGrwWc-fGz9DR5irKIyv/ts
+#EXTINF:-1 xui-id="7096" tvg-id="eurosport2.tr" tvg-name="TR: EuroSport 2 HD" tvg-logo="http://neczbm.to/images/channels/Eurosport2HD.png" group-title="TR: | Sport",TR: EuroSport 2 HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzkbdwCKqAYwE6nc7FLyQzg/ts
+#EXTINF:-1 xui-id="7982" tvg-id="fbtv.tr" tvg-name="TR: FB TV" tvg-logo="http://neczbm.to:80/images/b0e11ff214fa5428ea7fe981d367cefb.png" group-title="TR: | Sport",TR: FB TV
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzGtNQuV5IxThjvzeRfKR9U/ts
+#EXTINF:-1 xui-id="2610" tvg-id="fox.tr" tvg-name="TR: Fox FHD" tvg-logo="http://neczbm.to:80/images/e816649b844cea58dcf32206af24a3f3.png" group-title="TR: | Turkey Genel",TR: Fox FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyBAg0HRtiDLoqseHeov0To/ts
+#EXTINF:-1 xui-id="7009" tvg-id="fox.tr" tvg-name="TR: Fox HD" tvg-logo="http://neczbm.to:80/images/e816649b844cea58dcf32206af24a3f3.png" group-title="TR: | Turkey Genel",TR: Fox HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIy_Rob08TVFs7CurEGte4DJ/ts
+#EXTINF:-1 xui-id="7090" tvg-id="foxcrime.tr" tvg-name="TR: Fox Crime FHD" tvg-logo="http://neczbm.to/images/channels/FoxCrime.png" group-title="TR: | Dizi",TR: Fox Crime FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyUdMKD9en0y1YinKuBNPBM/ts
+#EXTINF:-1 xui-id="7089" tvg-id="foxlife.tr" tvg-name="TR: Fox Life FHD" tvg-logo="http://neczbm.to/images/channels/FoxLife.png" group-title="TR: | Dizi",TR: Fox Life FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyu9OvCIzQ09ihFom4T5U3f/ts
+#EXTINF:-1 xui-id="7984" tvg-id="gstv.tr" tvg-name="TR: GS TV HD" tvg-logo="http://neczbm.to:80/images/709124bab1d5f305ee0312234099460c.png" group-title="TR: | Sport",TR: GS TV HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwD1J_8elmp3Wa3lCUL3CWl/ts
+#EXTINF:-1 xui-id="2593" tvg-id="haberturk.tr" tvg-name="TR: Haber Turk FHD" tvg-logo="http://neczbm.to:80/images/03fd36e80fd3f85b84e6b68520bad73e.png" group-title="TR: | Haber",TR: Haber Turk FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIx7y-uG9X-PGx7jyiwfoTl7/ts
+#EXTINF:-1 xui-id="7056" tvg-id="haberturk.tr" tvg-name="TR: Haber Turk HD" tvg-logo="http://neczbm.to:80/images/03fd36e80fd3f85b84e6b68520bad73e.png" group-title="TR: | Haber",TR: Haber Turk HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxnynYBIRZpgP1HuMXMGqtv/ts
+#EXTINF:-1 xui-id="2607" tvg-id="halk.tr" tvg-name="TR: Halk TV" tvg-logo="http://neczbm.to:80/images/9ae0d1f4b584879b0d954edd015e00ff.png" group-title="TR: | Haber",TR: Halk TV
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxhwrD0Wl-iGZ-blnPfOWGp/ts
+#EXTINF:-1 xui-id="7046" tvg-id="historychannel.tr" tvg-name="TR: History HD" tvg-logo="http://neczbm.to:80/images/90cbef33f000274acdee1415f4abaf98.png" group-title="TR: | Belgesel",TR: History HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwO2zY97TpdKB0oSDqcH3Jw/ts
+#EXTINF:-1 xui-id="2609" tvg-id="kanal7.tr" tvg-name="TR: Kanal 7 FHD" tvg-logo="http://neczbm.to:80/images/989c35bfe161192e21393d3c37807bc4.png" group-title="TR: | Turkey Genel",TR: Kanal 7 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwsDZAcvM8hKUJtREj6VStf/ts
+#EXTINF:-1 xui-id="7007" tvg-id="kanal7.tr" tvg-name="TR: Kanal 7 HD" tvg-logo="http://neczbm.to:80/images/989c35bfe161192e21393d3c37807bc4.png" group-title="TR: | Turkey Genel",TR: Kanal 7 HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIx9nKiMORID-95GKOpAhY69/ts
+#EXTINF:-1 xui-id="13961" tvg-id="kanalb.tr" tvg-name="TR: Kanal B" tvg-logo="http://neczbm.to:80/images/c9c24c0d97d07ba74bcf4c8a32c32dc8.png" group-title="TR: | Turkey Genel",TR: Kanal B
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyxMpkNWSC7hiMD5lnIW6Dm/ts
+#EXTINF:-1 xui-id="2605" tvg-id="kanald.tr" tvg-name="TR: Kanal D FHD" tvg-logo="http://neczbm.to:80/images/8b8487df7104b0b807087f061f772bff.png" group-title="TR: | Turkey Genel",TR: Kanal D FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwt1Bz9Kq_JIVVbmfORKC9b/ts
+#EXTINF:-1 xui-id="7008" tvg-id="kanald.tr" tvg-name="TR: Kanal D HD" tvg-logo="http://neczbm.to:80/images/8b8487df7104b0b807087f061f772bff.png" group-title="TR: | Turkey Genel",TR: Kanal D HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwgzIAGeF0Fx0OnEIjnxPqF/ts
+#EXTINF:-1 xui-id="10392" tvg-id="kralpop.tr" tvg-name="TR: Kral Pop HD" tvg-logo="http://neczbm.to:80/images/41f374752a58d14294bc30f66cbbfc5b.png" group-title="TR: | Music",TR: Kral Pop HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyC1A-2j7AkfOKtXSFok_zT/ts
+#EXTINF:-1 xui-id="7093" tvg-id="24kitchen.tr" tvg-name="TR: Kral TV HD" tvg-logo="http://neczbm.to:80/images/b95c7c910c3c7682e46db5263684aa51.png" group-title="TR: | Music",TR: Kral TV HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxYhQw7qCsPUkM54HmpzE57/ts
+#EXTINF:-1 xui-id="7027" tvg-id="minikacocuk.tr" tvg-name="TR: Minika Cocuk" tvg-logo="http://neczbm.to:80/images/6d744307252f495d9d7c8def559c5018.png" group-title="TR: | Cocuk",TR: Minika Cocuk
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzFwGCiibO-Zwc1OZQVzcQH/ts
+#EXTINF:-1 xui-id="3295" tvg-id="minikago.tr" tvg-name="TR: Minika Go" tvg-logo="http://neczbm.to:80/images/319a7a82bf85779996dde13c949fd4b8.png" group-title="TR: | Cocuk",TR: Minika Go
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwvbArCM64C5gJPPQMXpJ3U/ts
+#EXTINF:-1 xui-id="7995" tvg-id="moviesmartaction.tr" tvg-name="TR: MovieSmart Action FHD" tvg-logo="http://neczbm.to/images/channels/MovieSmartActionHD.png" group-title="TR: | Cinema",TR: MovieSmart Action FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIza5OGHz3YnTJfuU6XBKRpn/ts
+#EXTINF:-1 xui-id="13958" tvg-id="moviesmartclassic.tr" tvg-name="TR: Moviesmart Classic FHD" tvg-logo="http://neczbm.to/images/channels/MoviesmartClassic.png" group-title="TR: | Cinema",TR: Moviesmart Classic FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxb7FlFU-v-lzMQxwvvJGiZ/ts
+#EXTINF:-1 xui-id="10405" tvg-id="moviesmartfamily.tr" tvg-name="TR: MovieSmart Family FHD" tvg-logo="http://neczbm.to/images/channels/MovieSmartFamilyHD.png" group-title="TR: | Cinema",TR: MovieSmart Family FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIy2I3zY8ojOJmyDHaCihzUg/ts
+#EXTINF:-1 xui-id="13957" tvg-id="moviesmartfestival.tr" tvg-name="TR: MovieSmart Fest FHD" tvg-logo="http://neczbm.to/images/channels/MovieSmartFest.png" group-title="TR: | Cinema",TR: MovieSmart Fest FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIw1fdlpnIWui7G2p7HmPEZA/ts
+#EXTINF:-1 xui-id="10407" tvg-id="moviesmartplatin.tr" tvg-name="TR: MovieSmart Platin FHD" tvg-logo="http://neczbm.to/images/channels/MovieSmartPlatinHD.png" group-title="TR: | Cinema",TR: MovieSmart Platin FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyY61s_UHFQzUw6vYG8Z72V/ts
+#EXTINF:-1 xui-id="13956" tvg-id="moviesmartplatin2.tr" tvg-name="TR: Moviesmart Platin 2 FHD" tvg-logo="http://neczbm.to/images/channels/MoviesmartPlatin2.png" group-title="TR: | Cinema",TR: Moviesmart Platin 2 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIz8mI6V-jVrpeqV9RGZjCD5/ts
+#EXTINF:-1 xui-id="10406" tvg-id="moviesmartpremium.tr" tvg-name="TR: MovieSmart Premium FHD" tvg-logo="http://neczbm.to/images/channels/MovieSmartPremiumHD.png" group-title="TR: | Cinema",TR: MovieSmart Premium FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwtTO5fkMFxHpo2rCAhPDJY/ts
+#EXTINF:-1 xui-id="13955" tvg-id="moviesmartpremium2.tr" tvg-name="TR: Moviesmart Premium 2 FHD" tvg-logo="http://neczbm.to/images/channels/MoviesmartPremium2.png" group-title="TR: | Cinema",TR: Moviesmart Premium 2 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIx4RuReMyiUyStewwKoid8L/ts
+#EXTINF:-1 xui-id="10404" tvg-id="moviesmartturk.tr" tvg-name="TR: MovieSmart Turk FHD" tvg-logo="http://neczbm.to/images/channels/MovieSmartTurkHD.png" group-title="TR: | Cinema",TR: MovieSmart Turk FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyWk3c1xd_Z6NBnGSxJ5ch9/ts
+#EXTINF:-1 xui-id="7050" tvg-id="natgeo.tr" tvg-name="TR: Nat Geo FHD" tvg-logo="http://neczbm.to/images/channels/NationalGeographicHD.png" group-title="TR: | Belgesel",TR: Nat Geo FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxcnckNjTzvYQHHfyLqs3uw/ts
+#EXTINF:-1 xui-id="7047" tvg-id="natgeopeople.tr" tvg-name="TR: Nat Geo People FHD" tvg-logo="http://neczbm.to:80/images/b0e3bb3d4d76255d5b963f0fc27fac57.png" group-title="TR: | Belgesel",TR: Nat Geo People FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIx5fspYJjtyHrDhszeRZwqL/ts
+#EXTINF:-1 xui-id="2611" tvg-id="natgeo.tr" tvg-name="TR: Nat Geo Wild HD" tvg-logo="http://neczbm.to/images/channels/NationalGeographicWildHD.png" group-title="TR: | Belgesel",TR: Nat Geo Wild HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIz8z6JvKxoVWbcryBw2fb23/ts
+#EXTINF:-1 xui-id="7029" tvg-id="nickelodeon.tr" tvg-name="TR: Nickelodeon HD" tvg-logo="http://neczbm.to:80/images/e56d2d5f8240724f9e5ddfdf47f51541.png" group-title="TR: | Cocuk",TR: Nickelodeon HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxbW3vsKnTqT3u8SOVQe5jX/ts
+#EXTINF:-1 xui-id="2597" tvg-id="ntv.tr" tvg-name="TR: NTV FHD" tvg-logo="http://neczbm.to:80/images/b556ee2d2bd686ad7bdf47af871c3d3e.png" group-title="TR: | Haber",TR: NTV FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwP3115hBkbSuiW8uAwwH0E/ts
+#EXTINF:-1 xui-id="2596" tvg-id="ntv.tr" tvg-name="TR: NTV HD" tvg-logo="http://neczbm.to:80/images/b556ee2d2bd686ad7bdf47af871c3d3e.png" group-title="TR: | Haber",TR: NTV HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwVbufRgGtgM9KFF8-cpTCb/ts
+#EXTINF:-1 xui-id="7001" tvg-id="numberonetv.tr" tvg-name="TR: Number One HD" tvg-logo="http://neczbm.to:80/images/d8c025f55f16fadc4002ff4377499909.png" group-title="TR: | Music",TR: Number One HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIw0DyJTdvU18P9RrMGw923k/ts
+#EXTINF:-1 xui-id="9430" tvg-id="" tvg-name="TR: Number One 4K Ultra HD" tvg-logo="http://neczbm.to/images/channels/NumberOne4KUltraHD.png" group-title="TR: | Music",TR: Number One 4K Ultra HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwvORaWuRZ-gNZ5xSwjx7Ts/ts
+#EXTINF:-1 xui-id="5974" tvg-id="numberoneask.tr" tvg-name="TR: Number One Ask" tvg-logo="http://neczbm.to:80/images/2ac1c38b69030a0c16f17e7aa4b7a4af.png" group-title="TR: | Music",TR: Number One Ask
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzNYyvbuy1dgDtqgc4plDkp/ts
+#EXTINF:-1 xui-id="5975" tvg-id="numberonedamar.tr" tvg-name="TR: Number One Damar" tvg-logo="http://neczbm.to:80/images/f17ca3b9ba65c134acbf1eca1a54aa85.png" group-title="TR: | Music",TR: Number One Damar
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyCFevTmvx8t9gZB-uHtDPH/ts
+#EXTINF:-1 xui-id="5973" tvg-id="numberonedance.tr" tvg-name="TR: Number One Dance" tvg-logo="http://neczbm.to:80/images/e0c9154f1a39128eb7225a4392c31d64.png" group-title="TR: | Music",TR: Number One Dance
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwkMIy9RHYMwpA1w2coC6VR/ts
+#EXTINF:-1 xui-id="5976" tvg-id="" tvg-name="TR: Number One Fashion" tvg-logo="http://neczbm.to/images/channels/NumberOneFashion.png" group-title="TR: | Music",TR: Number One Fashion
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwTuUw1sKsby_5MWx7NGr_h/ts
+#EXTINF:-1 xui-id="2586" tvg-id="numberoneturk.tr" tvg-name="TR: Number One Turk HD" tvg-logo="http://neczbm.to:80/images/51e98a20319051e0a3791e16972a481a.png" group-title="TR: | Music",TR: Number One Turk HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwSiplROpx_JsXh4Rf5bOMy/ts
+#EXTINF:-1 xui-id="10390" tvg-id="powertv.tr" tvg-name="TR: Power HD" tvg-logo="http://neczbm.to:80/images/a9dbb426e1327ac0a28213c6885b242c.png" group-title="TR: | Music",TR: Power HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyi6J93kB2ae8av7dPE8Lc2/ts
+#EXTINF:-1 xui-id="2588" tvg-id="powerturk.tr" tvg-name="TR: Power Turk HD" tvg-logo="http://neczbm.to:80/images/e9d19374a955ca5d15fbf05f772d0f37.png" group-title="TR: | Music",TR: Power Turk HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxMCau3jVjlBVROwDZpU66F/ts
+#EXTINF:-1 xui-id="9129" tvg-id="showmax.tr" tvg-name="TR: Show Max" tvg-logo="http://neczbm.to:80/images/95fbc4d7113471cd8aad98e98903ac74.png" group-title="TR: | Turkey Genel",TR: Show Max
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxnzyCdYbCS1BbMkAdyUFPH/ts
+#EXTINF:-1 xui-id="2602" tvg-id="showtv.tr" tvg-name="TR: Show TV FHD" tvg-logo="http://neczbm.to:80/images/99854e67cdc0e0702ed5251539d75f01.png" group-title="TR: | Turkey Genel",TR: Show TV FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxHLvBP2TJ_icgqRhZw79jk/ts
+#EXTINF:-1 xui-id="7006" tvg-id="showtv.tr" tvg-name="TR: Show TV HD" tvg-logo="http://neczbm.to:80/images/99854e67cdc0e0702ed5251539d75f01.png" group-title="TR: | Turkey Genel",TR: Show TV HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwofXxyLpcMnx_Bm8xIRgQT/ts
+#EXTINF:-1 xui-id="13953" tvg-id="" tvg-name="TR: Show Turk FHD" tvg-logo="http://neczbm.to:80/images/e946b822fb888bc667e83b5ed459e67b.png" group-title="TR: | Turkey Genel",TR: Show Turk FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIylvG1m1Ut_paIiMk5F_hK_/ts
+#EXTINF:-1 xui-id="9085" tvg-id="sportstv.tr" tvg-name="TR: Sports TV" tvg-logo="http://neczbm.to:80/images/1b1437f3658a824af1b01739347c6cc1.png" group-title="TR: | Sport",TR: Sports TV
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzW9PTQEplbgltL-74iP0pS/ts
+#EXTINF:-1 xui-id="7104" tvg-id="smartspor.tr" tvg-name="TR: Spor Smart FHD" tvg-logo="http://neczbm.to/images/channels/SporSmartHD.png" group-title="TR: | Sport",TR: Spor Smart FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxvE1VWiiadUROG1fqhjyPR/ts
+#EXTINF:-1 xui-id="9086" tvg-id="smartspor.tr" tvg-name="TR: Spor Smart HD" tvg-logo="http://neczbm.to:80/images/ef29b365d47227a83ac467819dc2de20.png" group-title="TR: | Sport",TR: Spor Smart HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIx_ZldSgkja8WpGyH90VD5g/ts
+#EXTINF:-1 xui-id="7099" tvg-id="ssport.tr" tvg-name="TR: S Sport FHD" tvg-logo="http://neczbm.to:80/images/f3992c435ad376baa3ee07f08e067a79.png" group-title="TR: | Sport",TR: S Sport FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyF0Kbc-ev7LkE8rghuCvRk/ts
+#EXTINF:-1 xui-id="15418" tvg-id="ssport2.tr" tvg-name="TR: S Sport 2 FHD" tvg-logo="http://neczbm.to:80/images/f6459b3c2a4e8b0787a7f28729b7bf6f.png" group-title="TR: | Sport",TR: S Sport 2 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIync0NHsprQzIC4zknc8u_b/ts
+#EXTINF:-1 xui-id="2603" tvg-id="startv.tr" tvg-name="TR: Star TV FHD" tvg-logo="http://neczbm.to:80/images/95d379e53394576e0456c3d89d67ab81.png" group-title="TR: | Turkey Genel",TR: Star TV FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxiDY9O5weJVvxPTxpNHGcr/ts
+#EXTINF:-1 xui-id="7004" tvg-id="startv.tr" tvg-name="TR: Star TV HD" tvg-logo="http://neczbm.to:80/images/95d379e53394576e0456c3d89d67ab81.png" group-title="TR: | Turkey Genel",TR: Star TV HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIx2blOTPkCwkNFlreTar5-E/ts
+#EXTINF:-1 xui-id="7981" tvg-id="teve2.tr" tvg-name="TR: Teve 2 FHD" tvg-logo="http://neczbm.to:80/images/3281bec1dc723455801ed9713940dc67.png" group-title="TR: | Turkey Genel",TR: Teve 2 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIygzhrtjsreVNutdZ5q4tn-/ts
+#EXTINF:-1 xui-id="7980" tvg-id="teve2.tr" tvg-name="TR: Teve 2 HD" tvg-logo="http://neczbm.to:80/images/3281bec1dc723455801ed9713940dc67.png" group-title="TR: | Turkey Genel",TR: Teve 2 HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwcvwkxSGkRZ5ai0BJKGSL2/ts
+#EXTINF:-1 xui-id="9128" tvg-id="tgrthaber.tr" tvg-name="TR: TGRT Haber" tvg-logo="http://neczbm.to:80/images/4d1d80dff8e598d3c4cc567a48d9bf46.png" group-title="TR: | Haber",TR: TGRT Haber
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzqeFKsmwbpZUP1Bx1G8w57/ts
+#EXTINF:-1 xui-id="3294" tvg-id="" tvg-name="TR: Tivibu Spor 1 FHD" tvg-logo="http://neczbm.to:80/images/3759d12c4a359e5de1900d01309127cb.png" group-title="TR: | Sport",TR: Tivibu Spor 1 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIySdchAgz-VM1FGexnMAcG6/ts
+#EXTINF:-1 xui-id="3293" tvg-id="" tvg-name="TR: Tivibu Spor 2 FHD" tvg-logo="http://neczbm.to:80/images/8127ac331372756f1bd3d2b3726689a4.png" group-title="TR: | Sport",TR: Tivibu Spor 2 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyLv7-oqST70ROxHzNrZ2PS/ts
+#EXTINF:-1 xui-id="5967" tvg-id="" tvg-name="TR: Tivibu Spor 3 FHD" tvg-logo="http://neczbm.to:80/images/93484bd6f4170a9e0d4bf6ba11509812.png" group-title="TR: | Sport",TR: Tivibu Spor 3 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxJnZYIWIKUYmqdekswIoZe/ts
+#EXTINF:-1 xui-id="9105" tvg-id="tlc.tr" tvg-name="TR: TLC FHD" tvg-logo="http://neczbm.to:80/images/6d60c45909a0aa06742632288ebff0f3.png" group-title="TR: | Belgesel",TR: TLC FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwXuzQ4_ALV-ZS4_whqFbQf/ts
+#EXTINF:-1 xui-id="2634" tvg-id="trt1.tr" tvg-name="TR: TRT 1 FHD" tvg-logo="http://neczbm.to:80/images/f3655b6b3a33c21761d7e33a32d84e37.png" group-title="TR: | Turkey Genel",TR: TRT 1 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIy1StHaycDKglBpVkFi0OTv/ts
+#EXTINF:-1 xui-id="7003" tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="http://neczbm.to:80/images/f3655b6b3a33c21761d7e33a32d84e37.png" group-title="TR: | Turkey Genel",TR: TRT 1 HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyjLqmk4UbJYvy-A-5r2bHz/ts
+#EXTINF:-1 xui-id="9104" tvg-id="trtbelgesel.tr" tvg-name="TR: TRT Belgesel FHD" tvg-logo="http://neczbm.to:80/images/2ad284dcbecbe92158537de14bc06549.png" group-title="TR: | Belgesel",TR: TRT Belgesel FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzT7s3mdVzlIGbAS2NbsNWM/ts
+#EXTINF:-1 xui-id="2631" tvg-id="trtcocuk.tr" tvg-name="TR: TRT Cocuk HD" tvg-logo="http://neczbm.to:80/images/69d23a5c30b8add171d4e59767d1d802.png" group-title="TR: | Cocuk",TR: TRT Cocuk HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwC7SNA8Eyb95LIBU9ALs69/ts
+#EXTINF:-1 xui-id="9126" tvg-id="trtturk.tr" tvg-name="TR: TRT Turk FHD" tvg-logo="http://neczbm.to:80/images/995fea26c04f08f18fb8ac910436c9e8.png" group-title="TR: | Turkey Genel",TR: TRT Turk FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyyrjXHg8jZqLFZCtK8R9Hg/ts
+#EXTINF:-1 xui-id="2630" tvg-id="trthaber.tr" tvg-name="TR: TRT Haber FHD" tvg-logo="http://neczbm.to:80/images/6562ec195506dd6a591ad6c5e4dbf92b.png" group-title="TR: | Haber",TR: TRT Haber FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyxUEU1CwY6MwIbX4SJLNqP/ts
+#EXTINF:-1 xui-id="7054" tvg-id="trthaber.tr" tvg-name="TR: TRT Haber HD" tvg-logo="http://neczbm.to:80/images/6562ec195506dd6a591ad6c5e4dbf92b.png" group-title="TR: | Haber",TR: TRT Haber HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwBYxhH-r3TR-D-Cb4h-xkR/ts
+#EXTINF:-1 xui-id="9082" tvg-id="trtmuzik.tr" tvg-name="TR: TRT Muzik HD" tvg-logo="http://neczbm.to:80/images/6c6a6fb1b278e2d2bf9845d13a23ee73.png" group-title="TR: | Music",TR: TRT Muzik HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyF5e4qBE27LnKWg-W8YhNy/ts
+#EXTINF:-1 xui-id="7095" tvg-id="trtspor.tr" tvg-name="TR: TRT Spor FHD" tvg-logo="http://neczbm.to:80/images/6b6fddf83dc8a57dcc0d7e00e6c1b109.png" group-title="TR: | Sport",TR: TRT Spor FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxxSYpT7wNAX8ersJJqvQX-/ts
+#EXTINF:-1 xui-id="2627" tvg-id="trtspor.tr" tvg-name="TR: TRT Spor HD" tvg-logo="http://neczbm.to:80/images/6b6fddf83dc8a57dcc0d7e00e6c1b109.png" group-title="TR: | Sport",TR: TRT Spor HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxX2irgg5tMSu6Wm3qXD1q4/ts
+#EXTINF:-1 xui-id="7053" tvg-id="trtworld.tr" tvg-name="TR: TRT World FHD" tvg-logo="http://neczbm.to:80/images/aefac69368583a2a7af98ebb887f0aed.png" group-title="TR: | Haber",TR: TRT World FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIx2HYM1e-Mp0mgPB7_Op2NX/ts
+#EXTINF:-1 xui-id="2579" tvg-id="tv8.tr" tvg-name="TR: TV8 FHD" tvg-logo="http://neczbm.to:80/images/469d26b8ed469e38c062d123e47c7ee2.png" group-title="TR: | Turkey Genel",TR: TV8 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIykblQ0oGHpIDwcSyFYeS1s/ts
+#EXTINF:-1 xui-id="7039" tvg-id="tv8.tr" tvg-name="TR: TV8 HD" tvg-logo="http://neczbm.to:80/images/469d26b8ed469e38c062d123e47c7ee2.png" group-title="TR: | Turkey Genel",TR: TV8 HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyNwH7x7gNh8yaSDgfPXRI2/ts
+#EXTINF:-1 xui-id="2578" tvg-id="tv85.tr" tvg-name="TR: TV 8.5 FHD" tvg-logo="http://neczbm.to:80/images/92fce5dc6ec82babab151f3a1d212f84.png" group-title="TR: | Turkey Genel",TR: TV 8.5 FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyXznSw9VbltDieGyXsPLjL/ts
+#EXTINF:-1 xui-id="7038" tvg-id="tv85.tr" tvg-name="TR: TV 8.5 HD" tvg-logo="http://neczbm.to:80/images/92fce5dc6ec82babab151f3a1d212f84.png" group-title="TR: | Turkey Genel",TR: TV 8.5 HD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwNZTWVV_VO7JLdK_wsHw8T/ts
+#EXTINF:-1 xui-id="13964" tvg-id="ucankus.tr" tvg-name="TR: Uçankuş TV FHD" tvg-logo="http://neczbm.to:80/images/88783fc087396e6a970570366588a04a.png" group-title="TR: | Haber",TR: Uçankuş TV FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwDZcw9fd0aN473XLiochbX/ts
+#EXTINF:-1 xui-id="7035" tvg-id="ulketv.tr" tvg-name="TR: Ulke TV FHD" tvg-logo="http://neczbm.to:80/images/410ac01b2daaf285b5abfb0eadb9d680.png" group-title="TR: | Turkey Genel",TR: Ulke TV FHD
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwhI8R3rqXzs7c7cin-yjkk/ts
+#EXTINF:-1 xui-id="9103" tvg-id="ulusalkanal.tr" tvg-name="TR: Ulusal" tvg-logo="http://neczbm.to:80/images/9f756c8a45312b03da31dca68bd65614.png" group-title="TR: | Belgesel",TR: Ulusal
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwNgyCk9_eYZHnr1VDY66FK/ts
+#EXTINF:-1 xui-id="13965" tvg-id="" tvg-name="TR: Vuslat TV" tvg-logo="http://neczbm.to:80/images/f47c9b755605880f58d581e07676b20f.png" group-title="TR: | Turkey Genel",TR: Vuslat TV
+http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyEejGvDdWL1-mYXKAcxPBY/ts

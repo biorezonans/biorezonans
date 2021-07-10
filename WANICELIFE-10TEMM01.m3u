@@ -1,0 +1,975 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="------|Turkey|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/------|Turkey|------.png" group-title="TR Yerel",------|Turkey|------
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33069
+#EXTINF:-1 tvg-id="" tvg-name="TR:------|YEREL|--------------" tvg-logo="" group-title="TR Yerel",TR:------|YEREL|--------------
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/61754
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR003:TV8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR003TV8HD.png" group-title="TR Yerel",TR003:TV8 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33066
+#EXTINF:-1 tvg-id="" tvg-name="TR004:TV5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR004TV5.png" group-title="TR Yerel",TR004:TV5
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33065
+#EXTINF:-1 tvg-id="" tvg-name="TR005:TV 35" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR005TV2HD.png" group-title="TR Yerel",TR005:TV 35
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33064
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR018:SKY TURK 360" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR018SKYTURK360.png" group-title="TR Yerel",TR018:SKY TURK 360
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33051
+#EXTINF:-1 tvg-id="" tvg-name="TR020:Semerkand TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR020SEMERKAND.png" group-title="TR Yerel",TR020:Semerkand TV SD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33049
+#EXTINF:-1 tvg-id="animal.planet.tr" tvg-name="TR025:PLANET TURK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR025PLANETTURK.png" group-title="TR Yerel",TR025:PLANET TURK
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33044
+#EXTINF:-1 tvg-id="" tvg-name="TR027:NUMBER 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR027NUMBER1HD.png" group-title="TR Yerel",TR027:NUMBER 1 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33042
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="TR028:DMAX SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR028DMAX1080P.png" group-title="TR Yerel",TR028:DMAX SD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33041
+#EXTINF:-1 tvg-id="kanal.24.tr" tvg-name="TR056:KANAL 24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR056KANAL24.png" group-title="TR Yerel",TR056:KANAL 24 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33013
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR059:HALK TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR059HALKTV.png" group-title="TR Yerel",TR059:HALK TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33010
+#EXTINF:-1 tvg-id="" tvg-name="TR066:FANATIK TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR066FANATIKTV.png" group-title="TR Yerel",TR066:FANATIK TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33003
+#EXTINF:-1 tvg-id="" tvg-name="TR071:DOST TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR071DOSTTV.png" group-title="TR Yerel",TR071:DOST TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32998
+#EXTINF:-1 tvg-id="cem.tr" tvg-name="TR080:CEM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR080CEMTV.png" group-title="TR Yerel",TR080:CEM TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32989
+#EXTINF:-1 tvg-id="bloomberg.tr" tvg-name="TR081:BLOOMBERG HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR081BLOOMBERGHD.png" group-title="TR Yerel",TR081:BLOOMBERG HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32988
+#EXTINF:-1 tvg-id="" tvg-name="TR082:BJK TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR082BJKTVHD.png" group-title="TR Yerel",TR082:BJK TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32987
+#EXTINF:-1 tvg-id="benguturk.tr" tvg-name="TR084:BENGU TüRK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR084BENGUTüRK.png" group-title="TR Yerel",TR084:BENGU TüRK
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32985
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR086:ATV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR086ATVHD.png" group-title="TR Yerel",TR086:ATV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32983
+#EXTINF:-1 tvg-id="a2.tr" tvg-name="TR089:A2 TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR089A2TV.png" group-title="TR Yerel",TR089:A2 TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32980
+#EXTINF:-1 tvg-id="kanal.7.tr" tvg-name="TR100:Kanal 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR100KANAL7HD(1080P).png" group-title="TR Yerel",TR100:Kanal 7 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32969
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR103:NTV HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR103NTVHD(1080P).png" group-title="TR Yerel",TR103:NTV HD ( 1080P )
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32966
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="TR104:DMAX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR104DMAXHD.png" group-title="TR Yerel",TR104:DMAX HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32965
+#EXTINF:-1 tvg-id="" tvg-name="TR107:Semerkand TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR107SEMERKANDTVHD(1080P).png" group-title="TR Yerel",TR107:Semerkand TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32962
+#EXTINF:-1 tvg-id="" tvg-name="TR114:TV 41" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR114TV2HD(1080P).png" group-title="TR Yerel",TR114:TV 41
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32955
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TR116:TVNET HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR116TVNETHD(1080P).png" group-title="TR Yerel",TR116:TVNET HD ( 1080P )
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32953
+#EXTINF:-1 tvg-id="trt.1.tr" tvg-name="TR119:TRT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR119TRT1HD.png" group-title="TR Yerel",TR119:TRT 1 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32950
+#EXTINF:-1 tvg-id="trt.1.tr" tvg-name="TR394:TRT 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR394TRT1FHD.png" group-title="TR Yerel",TR394:TRT 1 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32675
+#EXTINF:-1 tvg-id="trt.2.tr" tvg-name="TR294:TRT 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR294TRT2FHD.png" group-title="TR Yerel",TR294:TRT 2 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32775
+#EXTINF:-1 tvg-id="trt.4k.tr" tvg-name="TR396:TRT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR396TRT4K.png" group-title="TR Yerel",TR396:TRT 2 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32673
+#EXTINF:-1 tvg-id="trt.world.tr" tvg-name="TR120:TRT WORLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR120TRTWORLD.png" group-title="TR Yerel",TR120:TRT WORLD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32949
+#EXTINF:-1 tvg-id="trt.turk.tr" tvg-name="TR121:TRT Turk FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR121TRTTüRK.png" group-title="TR Yerel",TR121:TRT Turk FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32948
+#EXTINF:-1 tvg-id="trt.turk.tr" tvg-name="TR122:TRT Turk SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR122TRTTurk.png" group-title="TR Yerel",TR122:TRT Turk SD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32947
+#EXTINF:-1 tvg-id="diyanet.tr" tvg-name="TR130:TRT Diyanet HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR130TRTDIYANET.png" group-title="TR Yerel",TR130:TRT Diyanet HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32939
+#EXTINF:-1 tvg-id="trt.arabi.tr" tvg-name="TR135:TRT ARAPCA FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR135TRTARAPCA.png" group-title="TR Yerel",TR135:TRT ARAPCA FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32934
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="TR138:24 Kitchen HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR13824KitchenHD.png" group-title="TR Yerel",TR138:24 Kitchen HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32931
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR139:ATV Avrupa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR139360HD.png" group-title="TR Yerel",TR139:ATV Avrupa
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32930
+#EXTINF:-1 tvg-id="a2.tr" tvg-name="TR144:A2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR144A2FHD.png" group-title="TR Yerel",TR144:A2 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32925
+#EXTINF:-1 tvg-id="" tvg-name="TR146:AKILLI TAVSAN MOMO TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR146AKILLITAVSANMOMOTV.png" group-title="TR Yerel",TR146:AKILLI TAVSAN MOMO TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32923
+#EXTINF:-1 tvg-id="akilli.tr" tvg-name="TR147:AKILLI TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR147AKILLITV.png" group-title="TR Yerel",TR147:AKILLI TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32922
+#EXTINF:-1 tvg-id="akit.tr" tvg-name="TR148:AKIT TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR148AKITTVHD.png" group-title="TR Yerel",TR148:AKIT TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32921
+#EXTINF:-1 tvg-id="" tvg-name="TR149:Aks TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR149AksTV.png" group-title="TR Yerel",TR149:Aks TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32920
+#EXTINF:-1 tvg-id="" tvg-name="TR150:Aksu TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR150AksuTV.png" group-title="TR Yerel",TR150:Aksu TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32919
+#EXTINF:-1 tvg-id="" tvg-name="TR151:Aktif TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR151AktifTVHD.png" group-title="TR Yerel",TR151:Aktif TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32918
+#EXTINF:-1 tvg-id="altas.tr" tvg-name="TR152:Altas Tv" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR152AltasTv.png" group-title="TR Yerel",TR152:Altas Tv
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32917
+#EXTINF:-1 tvg-id="" tvg-name="TR153:Tv A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR153TvA.png" group-title="TR Yerel",TR153:Tv A
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32916
+#EXTINF:-1 tvg-id="" tvg-name="TR155:UcanKus TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR155AnimauxHD.png" group-title="TR Yerel",TR155:UcanKus TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32914
+#EXTINF:-1 tvg-id="" tvg-name="TR156:Arti tv HD KU" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR156ArtitvHDKU.png" group-title="TR Yerel",TR156:Arti tv HD KU
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32913
+#EXTINF:-1 tvg-id="as.tr" tvg-name="TR157:As TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR157AsTV.png" group-title="TR Yerel",TR157:As TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32912
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR158:NICKTOONS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR158ATVFHD.png" group-title="TR Cocuk",TR158:NICKTOONS
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32911
+#EXTINF:-1 tvg-id="" tvg-name="TR159:TV KAYSERI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR159TVKAYSERI.png" group-title="TR Yerel",TR159:TV KAYSERI
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32910
+#EXTINF:-1 tvg-id="" tvg-name="TR161:Ballkan TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR161BallkanTV.png" group-title="TR Yerel",TR161:Ballkan TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32908
+#EXTINF:-1 tvg-id="a.para.tr" tvg-name="TR192:A PARA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR192APARAHD.png" group-title="TR Yerel",TR192:A PARA HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32877
+#EXTINF:-1 tvg-id="tv.5.tr" tvg-name="TR193:TV 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR193TV5HD.png" group-title="TR Yerel",TR193:TV 5 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32876
+#EXTINF:-1 tvg-id="benguturk.tr" tvg-name="TR194:BENGUTURK TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR194BENGUTURKTV.png" group-title="TR Yerel",TR194:BENGUTURK TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32875
+#EXTINF:-1 tvg-id="bloomberg.ht.tr" tvg-name="TR198:BLOOMBERG HT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR198BLOOMBERGHTFHD.png" group-title="TR Yerel",TR198:BLOOMBERG HT FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32871
+#EXTINF:-1 tvg-id="" tvg-name="TR200:BRUKSEL TURK TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR200BRUKSELTURKTV.png" group-title="TR Yerel",TR200:BRUKSEL TURK TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32869
+#EXTINF:-1 tvg-id="" tvg-name="TR201:BURSA TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR201BURSATVHD.png" group-title="TR Yerel",TR201:BURSA TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32868
+#EXTINF:-1 tvg-id="" tvg-name="TR202:YOL TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR202YOLTV.png" group-title="TR Yerel",TR202:YOL TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32867
+#EXTINF:-1 tvg-id="" tvg-name="TR204:TBMM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR204TBMMTV.png" group-title="TR Yerel",TR204:TBMM TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32865
+#EXTINF:-1 tvg-id="" tvg-name="TR206:Diyar tv" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR206Diyartv.png" group-title="TR Yerel",TR206:Diyar tv
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32863
+#EXTINF:-1 tvg-id="cem.tr" tvg-name="TR207:Cem TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR207CemTV.png" group-title="TR Yerel",TR207:Cem TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32862
+#EXTINF:-1 tvg-id="" tvg-name="TR208:Ciftci TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR208CiftciTV.png" group-title="TR Yerel",TR208:Ciftci TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32861
+#EXTINF:-1 tvg-id="" tvg-name="TR215:SLTV YESILCAM 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR215SLTVYESILCAM2.png" group-title="TR Yerel",TR215:SLTV YESILCAM 2
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32854
+#EXTINF:-1 tvg-id="tv4.tr" tvg-name="TR217:TV 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR217TV4HD.png" group-title="TR Yerel",TR217:TV 4 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32852
+#EXTINF:-1 tvg-id="da.vinci.tr" tvg-name="TR218:Da Vinci HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR218DaVinciHD.png" group-title="TR Yerel",TR218:Da Vinci HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32851
+#EXTINF:-1 tvg-id="dizi.smart.premium.tr" tvg-name="TR227:DIZI SMART PREMIUM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR227DIZISMARTPREMIUMHD.png" group-title="TR Yerel",TR227:DIZI SMART PREMIUM HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32842
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="TR228:DMAX FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR228DMAXFHD.png" group-title="TR Yerel",TR228:DMAX FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32841
+#EXTINF:-1 tvg-id="" tvg-name="TR229:SL Pepee TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR229SLPepeeTV.png" group-title="TR Yerel",TR229:SL Pepee TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32840
+#EXTINF:-1 tvg-id="" tvg-name="TR230:Dost TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR230DostTV.png" group-title="TR Yerel",TR230:Dost TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32839
+#EXTINF:-1 tvg-id="" tvg-name="TR232:Edessa TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR232EdessaTV.png" group-title="TR Yerel",TR232:Edessa TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32837
+#EXTINF:-1 tvg-id="ege.tr" tvg-name="TR233:Ege Turk TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR233EgeTurkTV.png" group-title="TR Yerel",TR233:Ege Turk TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32836
+#EXTINF:-1 tvg-id="euro.d.tr" tvg-name="TR234:Euro D" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR234EuroDHDTR.png" group-title="TR Yerel",TR234:Euro D
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32835
+#EXTINF:-1 tvg-id="euro.star.tr" tvg-name="TR235:Euro Star" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR235EuroStar.png" group-title="TR Yerel",TR235:Euro Star
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32834
+#EXTINF:-1 tvg-id="" tvg-name="TR238:SLTV KEMAL SUNAL 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR238SLTVKEMALSUNAL1.png" group-title="TR Yerel",TR238:SLTV KEMAL SUNAL 1
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32831
+#EXTINF:-1 tvg-id="" tvg-name="TR239:SLTV KEMAL SUNAL 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR239SLTVKEMALSUNAL2.png" group-title="TR Yerel",TR239:SLTV KEMAL SUNAL 2
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32830
+#EXTINF:-1 tvg-id="" tvg-name="TR241:SLTV PREMIUM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR241SLTVPREMIUMHD.png" group-title="TR Yerel",TR241:SLTV PREMIUM HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32828
+#EXTINF:-1 tvg-id="tv.8.5.tr" tvg-name="TR243:TV8.5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR243TV8.5HD.png" group-title="TR Yerel",TR243:TV8.5 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32826
+#EXTINF:-1 tvg-id="fox.life.gr" tvg-name="TR250:Fox Life HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR250FoxLifeHD.png" group-title="TR Yerel",TR250:Fox Life HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32819
+#EXTINF:-1 tvg-id="" tvg-name="TR253:DEHA TV DENIZLI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR253DenizHaber.png" group-title="TR Yerel",TR253:DEHA TV DENIZLI
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32816
+#EXTINF:-1 tvg-id="tv4.tr" tvg-name="TR254:TV 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR254TV4.png" group-title="TR Yerel",TR254:TV 4
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32815
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR257:HALK TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR257HALKTVHD.png" group-title="TR Yerel",TR257:HALK TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32812
+#EXTINF:-1 tvg-id="" tvg-name="TR258:KIBRIS DIYALOG" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR258HilalTV.png" group-title="TR Yerel",TR258:KIBRIS DIYALOG
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32811
+#EXTINF:-1 tvg-id="" tvg-name="TR261:DRT DENIZLI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR261DRTDENIZLI.png" group-title="TR Yerel",TR261:DRT DENIZLI
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32808
+#EXTINF:-1 tvg-id="" tvg-name="TR262:Kabe TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR262KabeTV.png" group-title="TR Yerel",TR262:Kabe TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32807
+#EXTINF:-1 tvg-id="kanal.3.tr" tvg-name="TR263:KANAL 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR263KANAL3HD.png" group-title="TR Yerel",TR263:KANAL 3 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32806
+#EXTINF:-1 tvg-id="kanal.7.tr" tvg-name="TR264:Kanal 7 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR264KANAL7FHD.png" group-title="TR Yerel",TR264:Kanal 7 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32805
+#EXTINF:-1 tvg-id="" tvg-name="TR265:KANAL 26 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR265Kanal26.png" group-title="TR Yerel",TR265:KANAL 26 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32804
+#EXTINF:-1 tvg-id="" tvg-name="TR266:KANAL 43 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR266Kanal43.png" group-title="TR Yerel",TR266:KANAL 43 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32803
+#EXTINF:-1 tvg-id="" tvg-name="TR268:KANAL Avrupa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR268KANALAVRUPA.png" group-title="TR Yerel",TR268:KANAL Avrupa
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32801
+#EXTINF:-1 tvg-id="kanal.b.tr" tvg-name="TR269:KANAL B HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR269KANALBHD.png" group-title="TR Yerel",TR269:KANAL B HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32800
+#EXTINF:-1 tvg-id="" tvg-name="TR270:KANAL URFA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR270KANALURFA.png" group-title="TR Yerel",TR270:KANAL URFA
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32799
+#EXTINF:-1 tvg-id="kanal.v.tr" tvg-name="TR271:KANAL V" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR271KanalV.png" group-title="TR Yerel",TR271:KANAL V
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32798
+#EXTINF:-1 tvg-id="" tvg-name="TR272:KEMAL SUNAL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR272KEMALSUNALHD.png" group-title="TR Yerel",TR272:KEMAL SUNAL HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32797
+#EXTINF:-1 tvg-id="beykent.tr" tvg-name="TR273:BEYKENT TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR273BEYKENTTV.png" group-title="TR Yerel",TR273:BEYKENT TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32796
+#EXTINF:-1 tvg-id="" tvg-name="TR274:SINEVIZYON 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR274NEXTBOXANIMASYON.png" group-title="TR Yerel",TR274:SINEVIZYON 6
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32795
+#EXTINF:-1 tvg-id="" tvg-name="TR275:Kon TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR275KonTVHD.png" group-title="TR Yerel",TR275:Kon TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32794
+#EXTINF:-1 tvg-id="vatan.tr" tvg-name="TR276:VATAN TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR276VATANTVHD.png" group-title="TR Yerel",TR276:VATAN TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32793
+#EXTINF:-1 tvg-id="krt.tr" tvg-name="TR280:KRT TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR280KRTTVHD.png" group-title="TR Yerel",TR280:KRT TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32789
+#EXTINF:-1 tvg-id="" tvg-name="TR281:KUDUS TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR281KUDUSTV.png" group-title="TR Yerel",TR281:KUDUS TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32788
+#EXTINF:-1 tvg-id="on4.tr" tvg-name="TR282:ON4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR282ON4.png" group-title="TR Yerel",TR282:ON4
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32787
+#EXTINF:-1 tvg-id="" tvg-name="TR283:LALEGUL TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR283LALEGULTV.png" group-title="TR Yerel",TR283:LALEGUL TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32786
+#EXTINF:-1 tvg-id="ucan.kus.tr" tvg-name="TR288:Ucan Kus Tv HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR288UcanKusTvHD.png" group-title="TR Yerel",TR288:Ucan Kus Tv HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32781
+#EXTINF:-1 tvg-id="" tvg-name="TR292:TV EM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR292TV2HD.png" group-title="TR Yerel",TR292:TV EM
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32777
+#EXTINF:-1 tvg-id="" tvg-name="TR293:TEMPO TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR293TEMPOTV.png" group-title="TR Yerel",TR293:TEMPO TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32776
+#EXTINF:-1 tvg-id="" tvg-name="TR295:DIYALOG TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR295DIYALOGTV.png" group-title="TR Yerel",TR295:DIYALOG TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32774
+#EXTINF:-1 tvg-id="" tvg-name="TR299:SLTV KOMEDI HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR299SLTVKOMEDIHD.png" group-title="TR Yerel",TR299:SLTV KOMEDI HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32770
+#EXTINF:-1 tvg-id="" tvg-name="TR300:SLTV GOLD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR300SLTVGOLDHD.png" group-title="TR Yerel",TR300:SLTV GOLD HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32769
+#EXTINF:-1 tvg-id="mavi.karadeniz.tr" tvg-name="TR301:Mavi Karadeniz TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR301MaviKaradenizTV.png" group-title="TR Yerel",TR301:Mavi Karadeniz TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32768
+#EXTINF:-1 tvg-id="" tvg-name="TR302:MC EU US" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR302MCEUUS.png" group-title="TR Yerel",TR302:MC EU US
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32767
+#EXTINF:-1 tvg-id="" tvg-name="TR303:Medine TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR303MedineTV.png" group-title="TR Yerel",TR303:Medine TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32766
+#EXTINF:-1 tvg-id="" tvg-name="TR305:MELTEM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR305MELTEMTV.png" group-title="TR Yerel",TR305:MELTEM TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32764
+#EXTINF:-1 tvg-id="" tvg-name="TR306:FENERBAHCE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR306FENERBAHCETV.png" group-title="TR Yerel",TR306:FENERBAHCE TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32763
+#EXTINF:-1 tvg-id="milyon.tr" tvg-name="TR307:MILYON TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR307MILYONTV.png" group-title="TR Yerel",TR307:MILYON TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32762
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TR317:TVnet HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR317TVnetHD.png" group-title="TR Yerel",TR317:TVnet HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32752
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR318:TV8 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR318TV8FHD.png" group-title="TR Yerel",TR318:TV8 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32751
+#EXTINF:-1 tvg-id="" tvg-name="TR319:TRT World HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR319TRTWorldHD.png" group-title="TR Yerel",TR319:TRT World HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32750
+#EXTINF:-1 tvg-id="trt.turk.tr" tvg-name="TR321:TRT Turk HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR321TRTTurkHD.png" group-title="TR Yerel",TR321:TRT Turk HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32748
+#EXTINF:-1 tvg-id="" tvg-name="TR327:YESiLCAM TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR327YESiLCAMTVHD.png" group-title="TR Yerel",TR327:YESiLCAM TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32742
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR330:NTV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR330NTVFHD.png" group-title="TR Yerel",TR330:NTV FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32739
+#EXTINF:-1 tvg-id="trt.world.tr" tvg-name="TR331:TRT World FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR331TRTWORLD.png" group-title="TR Yerel",TR331:TRT World FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32738
+#EXTINF:-1 tvg-id="" tvg-name="TR332:Olay TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR332OlayTV.png" group-title="TR Yerel",TR332:Olay TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32737
+#EXTINF:-1 tvg-id="altas.tr" tvg-name="TR333:ALTAS TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR333ALTASTV.png" group-title="TR Yerel",TR333:ALTAS TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32736
+#EXTINF:-1 tvg-id="" tvg-name="TR334:PEPE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR334PEPETV.png" group-title="TR Yerel",TR334:PEPE TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32735
+#EXTINF:-1 tvg-id="line.tr" tvg-name="TR335:LINE TV (Bursa)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR335LINETV(Bursa).png" group-title="TR Yerel",TR335:LINE TV (Bursa)
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32734
+#EXTINF:-1 tvg-id="tmb.tr" tvg-name="TR339:TMB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR339TMB.png" group-title="TR Yerel",TR339:TMB
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32730
+#EXTINF:-1 tvg-id="trt.kurdi.tr" tvg-name="TR340:TRT Kurdi HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR340TRTKurdiHD.png" group-title="TR Yerel",TR340:TRT Kurdi HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32729
+#EXTINF:-1 tvg-id="" tvg-name="TR343:Salon 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR343Salon1HD.png" group-title="TR Yerel",TR343:Salon 1 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32726
+#EXTINF:-1 tvg-id="" tvg-name="TR344:Salon 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR344Salon2HD.png" group-title="TR Yerel",TR344:Salon 2 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32725
+#EXTINF:-1 tvg-id="" tvg-name="TR345:Salon 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR345Salon3HD.png" group-title="TR Yerel",TR345:Salon 3 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32724
+#EXTINF:-1 tvg-id="sat.7.turk.tr" tvg-name="TR347:SAT7 TURK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR347SAT7TURK.png" group-title="TR Yerel",TR347:SAT7 TURK
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32722
+#EXTINF:-1 tvg-id="" tvg-name="TR348:MISKET TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR348ScienceVIETV.png" group-title="TR Yerel",TR348:MISKET TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32721
+#EXTINF:-1 tvg-id="" tvg-name="TR349:Royal TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR349ScienceetVieHD.png" group-title="TR Yerel",TR349:Royal TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32720
+#EXTINF:-1 tvg-id="" tvg-name="TR350:Semerkand TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR350SemerkandHD.png" group-title="TR Yerel",TR350:Semerkand TV FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32719
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR367:Sky Turk 360" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR367SkyTurk360.png" group-title="TR Yerel",TR367:Sky Turk 360
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32702
+#EXTINF:-1 tvg-id="" tvg-name="TR371:Cay TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR371CayTV.png" group-title="TR Yerel",TR371:Cay TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32698
+#EXTINF:-1 tvg-id="diyanet.tr" tvg-name="TR372:Diyanet TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR372TRTDIYANETHD.png" group-title="TR Yerel",TR372:Diyanet TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32697
+#EXTINF:-1 tvg-id="" tvg-name="TR375:SRT Sivas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR375SRTSivas.png" group-title="TR Yerel",TR375:SRT Sivas
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32694
+#EXTINF:-1 tvg-id="star.tr" tvg-name="TR376:Euro Star HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR376StarTVEuro.png" group-title="TR Yerel",TR376:Euro Star HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32693
+#EXTINF:-1 tvg-id="trt.avaz.tr" tvg-name="TR378:TRT AVAZ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR378TRTAVAZHD.png" group-title="TR Yerel",TR378:TRT AVAZ HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32691
+#EXTINF:-1 tvg-id="vizyon.turk.tr" tvg-name="TR379:VIZYON 58" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR379VIZYON58.png" group-title="TR Yerel",TR379:VIZYON 58
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32690
+#EXTINF:-1 tvg-id="tay.tr" tvg-name="TR381:TAY TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR381TAYTV.png" group-title="TR Yerel",TR381:TAY TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32688
+#EXTINF:-1 tvg-id="tele.1.tr" tvg-name="TR382:TELE 1 HD TR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR382TELE1HDTR.png" group-title="TR Yerel",TR382:TELE 1 HD TR
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32687
+#EXTINF:-1 tvg-id="trt.arabi.tr" tvg-name="TR384:TRT Arabic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR384TRTArabic.png" group-title="TR Yerel",TR384:TRT Arabic
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32685
+#EXTINF:-1 tvg-id="tgrt.eu.tr" tvg-name="TR386:TGRT EU" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR386TGRTEU.png" group-title="TR Yerel",TR386:TGRT EU
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32683
+#EXTINF:-1 tvg-id="tgrt.haber.tr" tvg-name="TR387:ANADOLU DERNEK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR387TGRTHABERHD.png" group-title="TR Yerel",TR387:ANADOLU DERNEK
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32682
+#EXTINF:-1 tvg-id="yaban.tr" tvg-name="TR391:KANAL 24 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR391YABANTVFHD.png" group-title="TR Yerel",TR391:KANAL 24 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32678
+#EXTINF:-1 tvg-id="tjk.tr" tvg-name="TR392:TJK TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR392TJKTV.png" group-title="TR Yerel",TR392:TJK TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32677
+#EXTINF:-1 tvg-id="tv.100.tr" tvg-name="TR412:TV 100 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR412TV100.png" group-title="TR Yerel",TR412:TV 100 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32657
+#EXTINF:-1 tvg-id="" tvg-name="TR:------|SPORT|---------------------" tvg-logo="" group-title="TR Sports",TR:------|SPORT|---------------------
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/61748
+#EXTINF:-1 tvg-id="trt.spor.tr" tvg-name="TR008:TRT SPOR FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR008TRTSPORSD/HD.png" group-title="TR Sports",TR008:TRT SPOR FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33061
+#EXTINF:-1 tvg-id="" tvg-name="TR010:Tivibu Spor 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR010TIVIBUSPOR3HD.png" group-title="TR Sports",TR010:Tivibu Spor 1 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33059
+#EXTINF:-1 tvg-id="" tvg-name="TR011:Tivibu Spor 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR011TIVIBUSPOR1HD.png" group-title="TR Sports",TR011:Tivibu Spor 2 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33058
+#EXTINF:-1 tvg-id="" tvg-name="TR012:Tivibu Spor 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR012TIVIBUSPOR2HD.png" group-title="TR Sports",TR012:Tivibu Spor 3 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33057
+#EXTINF:-1 tvg-id="sports.tr" tvg-name="TR015:SPORTS TV  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR015SPORTSTVHD.png" group-title="TR Sports",TR015:SPORTS TV  HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33054
+#EXTINF:-1 tvg-id="spor.smart.tr" tvg-name="TR016:Smart Spor 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR016SPORSMART.png" group-title="TR Sports",TR016:Smart Spor 1 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33053
+#EXTINF:-1 tvg-id="s.sport.tr" tvg-name="TR017:S SPORT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR017SSPORTHD(1).png" group-title="TR Sports",TR017:S SPORT HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33052
+#EXTINF:-1 tvg-id="" tvg-name="TR053:Lig tv 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR053Ligtv3.png" group-title="TR Sports",TR053:Lig tv 3
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33016
+#EXTINF:-1 tvg-id="" tvg-name="TR370:LIG TV 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR370LIGTV4.png" group-title="TR Sports",TR370:LIG TV 4
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32699
+#EXTINF:-1 tvg-id="gs.tr" tvg-name="TR061:GSTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR061GSTVHD.png" group-title="TR Sports",TR061:GSTV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33008
+#EXTINF:-1 tvg-id="fb.tr" tvg-name="TR065:FB TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR065FBTVHD.png" group-title="TR Sports",TR065:FB TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33004
+#EXTINF:-1 tvg-id="fb.tr" tvg-name="TR240:FB TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR240FBTVHD.png" group-title="TR Sports",TR240:FB TV SD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32829
+#EXTINF:-1 tvg-id="eurosport.2.tr" tvg-name="TR067:Eurosport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR067EUROSPORT2HD.png" group-title="TR Sports",TR067:Eurosport 2 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33002
+#EXTINF:-1 tvg-id="eurosport.tr" tvg-name="TR068:Eurosport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR068EUROSPORTHD.png" group-title="TR Sports",TR068:Eurosport 1 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33001
+#EXTINF:-1 tvg-id="a.spor.tr" tvg-name="TR087:A SPOR FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR087ASPORHD.png" group-title="TR Sports",TR087:A SPOR FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32982
+#EXTINF:-1 tvg-id="a.spor.tr" tvg-name="TR091:A SPOR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR091ASPORHD(1080P).png" group-title="TR Sports",TR091:A SPOR HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32978
+#EXTINF:-1 tvg-id="sports.tr" tvg-name="TR123:SPORTS TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR123SPORTSTVHD.png" group-title="TR Sports",TR123:SPORTS TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32946
+#EXTINF:-1 tvg-id="a.spor.tr" tvg-name="TR143:A SPOR SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR143ASPORTFHD.png" group-title="TR Sports",TR143:A SPOR SD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32926
+#EXTINF:-1 tvg-id="bein.sports.1.tr" tvg-name="TR180:beIN Sports 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR180beINSports1FHD.png" group-title="TR Sports",TR180:beIN Sports 1 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32889
+#EXTINF:-1 tvg-id="bein.sports.2.tr" tvg-name="TR181:beIN Sports 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR181beINSports2FHD.png" group-title="TR Sports",TR181:beIN Sports 2 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32888
+#EXTINF:-1 tvg-id="bein.sports.4.tr" tvg-name="TR182:beIN Sports 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR182beINSports4FHD.png" group-title="TR Sports",TR182:beIN Sports 4 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32887
+#EXTINF:-1 tvg-id="bein.sports.1.tr" tvg-name="TR183:beIN Sports 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR183beINSports1HD.png" group-title="TR Sports",TR183:beIN Sports 1 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32886
+#EXTINF:-1 tvg-id="bein.sports.2.tr" tvg-name="TR184:beIN Sports 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR184beINSports2HD.png" group-title="TR Sports",TR184:beIN Sports 2 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32885
+#EXTINF:-1 tvg-id="bein.sports.3.tr" tvg-name="TR185:beIN Sports 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR185beINSports3HD.png" group-title="TR Sports",TR185:beIN Sports 3 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32884
+#EXTINF:-1 tvg-id="bein.sports.4.tr" tvg-name="TR186:beIN Sports 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR186beINSports4HD.png" group-title="TR Sports",TR186:beIN Sports 4 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32883
+#EXTINF:-1 tvg-id="bein.sports.1.tr" tvg-name="TR187:beIN Sports FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR187beINSportsFHD.png" group-title="TR Sports",TR187:beIN Sports FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32882
+#EXTINF:-1 tvg-id="bein.sports.max.1.tr" tvg-name="TR188:beIN Sports Max 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR188beINSportsMax1FHD.png" group-title="TR Sports",TR188:beIN Sports Max 1 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32881
+#EXTINF:-1 tvg-id="bein.sports.max.2.tr" tvg-name="TR189:beIN Sports Max 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR189beINSportsMax2FHD.png" group-title="TR Sports",TR189:beIN Sports Max 2 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32880
+#EXTINF:-1 tvg-id="bein.sports.haber.tr" tvg-name="TR190:beIN Sports HABER HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR190beINSportsHABERHD.png" group-title="TR Sports",TR190:beIN Sports HABER HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32879
+#EXTINF:-1 tvg-id="" tvg-name="TR191:BEIN IZ TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR191beINSportsIZ1HD.png" group-title="TR Sports",TR191:BEIN IZ TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32878
+#EXTINF:-1 tvg-id="eurosport.1.tr" tvg-name="TR236:Eurosport 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR236EUROSPORT1HD.png" group-title="TR Sports",TR236:Eurosport 1 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32833
+#EXTINF:-1 tvg-id="eurosport.2.tr" tvg-name="TR237:EUROSPORT 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR237EUROSPORT2HD.png" group-title="TR Sports",TR237:EUROSPORT 2 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32832
+#EXTINF:-1 tvg-id="gs.tr" tvg-name="TR252:GS TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR252GSTVHD.png" group-title="TR Sports",TR252:GS TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32817
+#EXTINF:-1 tvg-id="a.spor.tr" tvg-name="TR284:A SPOR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR284ASPOR.png" group-title="TR Sports",TR284:A SPOR
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32785
+#EXTINF:-1 tvg-id="a.spor.tr" tvg-name="TR197:ASPOR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR197ASPORHD.png" group-title="TR Sports",TR197:ASPOR HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32872
+#EXTINF:-1 tvg-id="nba.tr" tvg-name="TR326:NBA TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR326NBATVFHD.png" group-title="TR Sports",TR326:NBA TV FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32743
+#EXTINF:-1 tvg-id="" tvg-name="TR341:S SPORT 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR341SSPORT2FHD.png" group-title="TR Sports",TR341:S SPORT 2 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32728
+#EXTINF:-1 tvg-id="" tvg-name="TR342:S SPORT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR342S-SportsFHD.png" group-title="TR Sports",TR342:S SPORT FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32727
+#EXTINF:-1 tvg-id="" tvg-name="TR346:SARAN SPORT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR346SARANSPORTHD.png" group-title="TR Sports",TR346:SARAN SPORT HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32723
+#EXTINF:-1 tvg-id="" tvg-name="TR369:Smart Spor 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR369SMARTSPOR1HD.png" group-title="TR Sports",TR369:Smart Spor 1 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32700
+#EXTINF:-1 tvg-id="" tvg-name="TR380:Tivibu Spor 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR380TIVIBUSPOR3HD.png" group-title="TR Sports",TR380:Tivibu Spor 3 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32689
+#EXTINF:-1 tvg-id="" tvg-name="TR388:Tivibu Spor 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR388TIVIBUSPOR4HD.png" group-title="TR Sports",TR388:Tivibu Spor 4 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32681
+#EXTINF:-1 tvg-id="" tvg-name="TR389:Tivibu Spor 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR389tivibuspor1FHD.png" group-title="TR Sports",TR389:Tivibu Spor 1 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32680
+#EXTINF:-1 tvg-id="" tvg-name="TR390:Tivibu Spor 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR390tivibuspor2FHD.png" group-title="TR Sports",TR390:Tivibu Spor 2 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32679
+#EXTINF:-1 tvg-id="trt.3.spor.tr" tvg-name="TR395:TRT SPOR 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR395TRT3SPORFHD.png" group-title="TR Sports",TR395:TRT SPOR 2 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32674
+#EXTINF:-1 tvg-id="" tvg-name="TR:------|SINEMA|--------------" tvg-logo="" group-title="TR Sinema",TR:------|SINEMA|--------------
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/61752
+#EXTINF:-1 tvg-id="bein.box.office.2.tr" tvg-name="TR021:BeIN Box Office 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR021bEINBOXOFFICE2HD.png" group-title="TR Sinema",TR021:BeIN Box Office 2 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33048
+#EXTINF:-1 tvg-id="" tvg-name="TR022:SALON 4 SINEMAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR022SALON1HD.png" group-title="TR Sinema",TR022:SALON 4 SINEMAX
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33047
+#EXTINF:-1 tvg-id="moviesmart.turk.tr" tvg-name="TR033:Moviesmart Turk" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR033MoviesmartTurk.png" group-title="TR Sinema",TR033:Moviesmart Turk
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33036
+#EXTINF:-1 tvg-id="moviesmart.premium.2.tr" tvg-name="TR034:Moviesmart Premium 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR034MoviesmartPremium2.png" group-title="TR Sinema",TR034:Moviesmart Premium 2
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33035
+#EXTINF:-1 tvg-id="moviesmart.premium.tr" tvg-name="TR035:Moviesmart Premium" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR035MoviesmartPremium.png" group-title="TR Sinema",TR035:Moviesmart Premium
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33034
+#EXTINF:-1 tvg-id="moviesmart.platin.2.tr" tvg-name="TR036:Moviesmart Platin 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR036MoviesmartPlatin2.png" group-title="TR Sinema",TR036:Moviesmart Platin 2
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33033
+#EXTINF:-1 tvg-id="moviesmart.platin.tr" tvg-name="TR037:Moviesmart Platin" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR037MoviesmartPlatin.png" group-title="TR Sinema",TR037:Moviesmart Platin
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33032
+#EXTINF:-1 tvg-id="moviesmart.gold.tr" tvg-name="TR038:Moviesmart Gold" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR038MoviesmartGold.png" group-title="TR Sinema",TR038:Moviesmart Gold
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33031
+#EXTINF:-1 tvg-id="moviesmart.fest.tr" tvg-name="TR039:Moviesmart Fest" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR039MoviesmartFest.png" group-title="TR Sinema",TR039:Moviesmart Fest
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33030
+#EXTINF:-1 tvg-id="moviesmart.family.tr" tvg-name="TR040:Moviesmart Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR040MoviesmartFamily.png" group-title="TR Sinema",TR040:Moviesmart Family
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33029
+#EXTINF:-1 tvg-id="moviesmart.classic.tr" tvg-name="TR041:Moviesmart Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR041MoviesmartClassic.png" group-title="TR Sinema",TR041:Moviesmart Classic
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33028
+#EXTINF:-1 tvg-id="" tvg-name="TR245:YESILCAM BOX 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR245MOVIEMAXYESILCAM.png" group-title="TR Sinema",TR245:YESILCAM BOX 2
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32824
+#EXTINF:-1 tvg-id="" tvg-name="TR246:YESILCAM BOX 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR246MOVIEMAXHORROR.png" group-title="TR Sinema",TR246:YESILCAM BOX 3
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32823
+#EXTINF:-1 tvg-id="" tvg-name="TR244:YESILCAM BOX 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR244MOVIEMAXPREMIER.png" group-title="TR Sinema",TR244:YESILCAM BOX 5
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32825
+#EXTINF:-1 tvg-id="" tvg-name="TR046:YESILCAM BOX 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR046MoviemaxFest.png" group-title="TR Sinema",TR046:YESILCAM BOX 6
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33023
+#EXTINF:-1 tvg-id="" tvg-name="TR247:YESILCAM BOX 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR247MOVIEMAXKOMEDIFHD.png" group-title="TR Sinema",TR247:YESILCAM BOX 4
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32822
+#EXTINF:-1 tvg-id="" tvg-name="TR044:YESILCAM BOX 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR044MoviemaxStars.png" group-title="TR Sinema",TR044:YESILCAM BOX 7
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33025
+#EXTINF:-1 tvg-id="" tvg-name="TR043:YESILCAM BOX 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR043MOVIEMAXTURKHD.png" group-title="TR Sinema",TR043:YESILCAM BOX 8
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33026
+#EXTINF:-1 tvg-id="" tvg-name="TR322:YESILCAM BOX 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR322MOVIESMARTACT.png" group-title="TR Sinema",TR322:YESILCAM BOX 9
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32747
+#EXTINF:-1 tvg-id="moviesmart.action.tr" tvg-name="TR042:Moviesmart Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR042MoviesmartAction.png" group-title="TR Sinema",TR042:Moviesmart Action
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33027
+#EXTINF:-1 tvg-id="bein.series.drama.tr" tvg-name="TR045:BeIN Series Drama FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR045beINSERIESDRAMA.png" group-title="TR Sinema",TR045:BeIN Series Drama FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33024
+#EXTINF:-1 tvg-id="haber.turk.tr" tvg-name="TR060:ANIMASYON TV 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR060HABERTURK.png" group-title="TR Sinema",TR060:ANIMASYON TV 3
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33009
+#EXTINF:-1 tvg-id="haber.turk.tr" tvg-name="TR099:ANIMASYON TV 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR099HABERTüRKHD(1080P).png" group-title="TR Sinema",TR099:ANIMASYON TV 4
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32970
+#EXTINF:-1 tvg-id="minika.go.tr" tvg-name="TR047:ANIMASYON TV 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR047MINIKAGO.png" group-title="TR Sinema",TR047:ANIMASYON TV 5
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33022
+#EXTINF:-1 tvg-id="minika.cocuk.tr" tvg-name="TR048:ANIMASYON TV 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR048MINIKACOCUK.png" group-title="TR Sinema",TR048:ANIMASYON TV 6
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33021
+#EXTINF:-1 tvg-id="minika.cocuk.tr" tvg-name="TR131:ANIMASYON TV 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR131MinikaCocuk(1).png" group-title="TR Sinema",TR131:ANIMASYON TV 7
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32938
+#EXTINF:-1 tvg-id="cartoon.network.tr" tvg-name="TR205:ANIMASYON TV 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR205CartoonNetworkHD.png" group-title="TR Sinema",TR205:ANIMASYON TV 8
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32864
+#EXTINF:-1 tvg-id="disney.tr" tvg-name="TR225:ANIMASYON TV 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR225DisneyChannelHD.png" group-title="TR Sinema",TR225:ANIMASYON TV 9
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32844
+#EXTINF:-1 tvg-id="disney.junior.tr" tvg-name="TR226:ANIMASYON TV 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR226DISNEYJRHD.png" group-title="TR Sinema",TR226:ANIMASYON TV 10
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32843
+#EXTINF:-1 tvg-id="" tvg-name="TR049:LOCA 3HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR049LOCA3HD.png" group-title="TR Sinema",TR049:LOCA 3HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33020
+#EXTINF:-1 tvg-id="" tvg-name="TR050:LOCA 2HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR050LOCA2HD.png" group-title="TR Sinema",TR050:LOCA 2HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33019
+#EXTINF:-1 tvg-id="" tvg-name="TR051:LOCA 1HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR051LOCA1HD.png" group-title="TR Sinema",TR051:LOCA 1HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33018
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR062:FOX HD " tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR062FOXTVHD.png" group-title="TR Sinema",TR062:FOX HD 
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33007
+#EXTINF:-1 tvg-id="" tvg-name="TR077:EnoVizyon 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR077CINESTARVIZYON3.png" group-title="TR Sinema",TR077:EnoVizyon 1
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32992
+#EXTINF:-1 tvg-id="" tvg-name="TR078:EnoVizyon 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR078CINESTARVIZYON2.png" group-title="TR Sinema",TR078:EnoVizyon 2
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32991
+#EXTINF:-1 tvg-id="" tvg-name="TR079:EnoVizyon 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR079CINESTARVIZYON1.png" group-title="TR Sinema",TR079:EnoVizyon 3
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32990
+#EXTINF:-1 tvg-id="cnn.turk.tr" tvg-name="TR132:ENO ViZYON 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR132CNN.png" group-title="TR Sinema",TR132:ENO ViZYON 4
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32937
+#EXTINF:-1 tvg-id="bein.movies.stars.tr" tvg-name="TR094:FILMBOX DRAMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR094beINMoviesStarsHD.png" group-title="TR Sinema",TR094:FILMBOX DRAMA
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32975
+#EXTINF:-1 tvg-id="bein.movies.turk.tr" tvg-name="TR095:BeIN Movies Turk HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR095beINMoviesTurk.png" group-title="TR Sinema",TR095:BeIN Movies Turk HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32974
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR098:FOX FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR098FOXHD(1080P).png" group-title="TR Sinema",TR098:FOX FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32971
+#EXTINF:-1 tvg-id="trt.spor.tr" tvg-name="TR113:BOSS MOVIES 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR113BEINBOXOFFICE1HD.png" group-title="TR Sinema",TR113:BOSS MOVIES 2 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32956
+#EXTINF:-1 tvg-id="bein.movies.family.tr" tvg-name="TR145:BeIN MOVIES Family FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR145beINMOVIESFAMILY.png" group-title="TR Sinema",TR145:BeIN MOVIES Family FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32924
+#EXTINF:-1 tvg-id="bein.movies.action.2.tr" tvg-name="TR164:BeIN Movies Action 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR164beINMOVIESACTION2.png" group-title="TR Sinema",TR164:BeIN Movies Action 2 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32905
+#EXTINF:-1 tvg-id="" tvg-name="TR165:Bein Movies Stars HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR165beIN3FHD.png" group-title="TR Sinema",TR165:Bein Movies Stars HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32904
+#EXTINF:-1 tvg-id="bein.box.office.1.tr" tvg-name="TR166:BeIN Box Office 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR166beINBoxOffice1HD.png" group-title="TR Sinema",TR166:BeIN Box Office 1 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32903
+#EXTINF:-1 tvg-id="bein.box.office.2.tr" tvg-name="TR167:BeIN Box Office 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR167beINBoxOffice2HD.png" group-title="TR Sinema",TR167:BeIN Box Office 3 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32902
+#EXTINF:-1 tvg-id="bein.box.office.3.tr" tvg-name="TR168:BeIN BOX Office 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR168beINBOXOffice3HD.png" group-title="TR Sinema",TR168:BeIN BOX Office 4 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32901
+#EXTINF:-1 tvg-id="" tvg-name="TR169:BeIN BOX Office 5 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR169beINBOXOFFICETurkHD.png" group-title="TR Sinema",TR169:BeIN BOX Office 5 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32900
+#EXTINF:-1 tvg-id="bein.movies.action.tr" tvg-name="TR172:BeIN Movies Action FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR172beINMoviesActionFHD.png" group-title="TR Sinema",TR172:BeIN Movies Action FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32897
+#EXTINF:-1 tvg-id="bein.movies.stars.tr" tvg-name="TR173:BeIN Movies Animation FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR173beINMoviesHDStarsFHD.png" group-title="TR Sinema",TR173:BeIN Movies Animation FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32896
+#EXTINF:-1 tvg-id="bein.movies.premiere.2.tr" tvg-name="TR174:BeIN Movies Premiere 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR174beINMoviesPremiere2FHD.png" group-title="TR Sinema",TR174:BeIN Movies Premiere 2 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32895
+#EXTINF:-1 tvg-id="bein.movies.premiere.tr" tvg-name="TR175:BeIN Movies Premiere FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR175beINMoviesPremiereFHD.png" group-title="TR Sinema",TR175:BeIN Movies Premiere FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32894
+#EXTINF:-1 tvg-id="bein.movies.turk.tr" tvg-name="TR176:BeIN Movies Premiere 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR176beINMoviesTurkFHD.png" group-title="TR Sinema",TR176:BeIN Movies Premiere 3 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32893
+#EXTINF:-1 tvg-id="bein.series.comedy.tr" tvg-name="TR177:beIN Series Comedy FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR177beINSeriesComedyFHD.png" group-title="TR Sinema",TR177:beIN Series Comedy FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32892
+#EXTINF:-1 tvg-id="bein.series.sci.fi.tr" tvg-name="TR178:beIN Series Sci-Fi FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR178beINSeriesSci-FiFHD.png" group-title="TR Sinema",TR178:beIN Series Sci-Fi FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32891
+#EXTINF:-1 tvg-id="bein.series.vice.tr" tvg-name="TR179:beIN Series Vice FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR179beINSeriesViceFHD.png" group-title="TR Sinema",TR179:beIN Series Vice FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32890
+#EXTINF:-1 tvg-id="" tvg-name="TR195:BOSS MOVIES 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR195BEiNBOXOFF.png" group-title="TR Sinema",TR195:BOSS MOVIES 1 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32874
+#EXTINF:-1 tvg-id="" tvg-name="TR209:SINEMA TV AILE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR209SINEMATVAILE.png" group-title="TR Sinema",TR209:SINEMA TV AILE
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32860
+#EXTINF:-1 tvg-id="" tvg-name="TR210:SINEVIZYON 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR210NEXTBOXGERILIM.png" group-title="TR Sinema",TR210:SINEVIZYON 2
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32859
+#EXTINF:-1 tvg-id="" tvg-name="TR211:SiNEMA TV KOMEDi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR211SiNEMATVKOMEDi.png" group-title="TR Sinema",TR211:SiNEMA TV KOMEDi
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32858
+#EXTINF:-1 tvg-id="" tvg-name="TR212:SINEVIZYON 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR212NEXTBOXViZYON.png" group-title="TR Sinema",TR212:SINEVIZYON 1
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32857
+#EXTINF:-1 tvg-id="" tvg-name="TR213:SINEVIZYON 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR213NEXTBOXPREMiER.png" group-title="TR Sinema",TR213:SINEVIZYON 3
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32856
+#EXTINF:-1 tvg-id="" tvg-name="TR214:SINEVIZYON 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR214NEXTBOXSTARS.png" group-title="TR Sinema",TR214:SINEVIZYON 4
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32855
+#EXTINF:-1 tvg-id="" tvg-name="TR242:SINEVIZYON 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR242NEXTBOXNOSTALJI.png" group-title="TR Sinema",TR242:SINEVIZYON 5
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32827
+#EXTINF:-1 tvg-id="" tvg-name="TR248:FOX CRIME HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR248FOXCRIMEHD.png" group-title="TR Sinema",TR248:FOX CRIME HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32821
+#EXTINF:-1 tvg-id="" tvg-name="TR251:FX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR251FXHD.png" group-title="TR Sinema",TR251:FX HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32818
+#EXTINF:-1 tvg-id="" tvg-name="TR289:LOCA 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR289LOCA1HD.png" group-title="TR Sinema",TR289:LOCA 1 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32780
+#EXTINF:-1 tvg-id="" tvg-name="TR290:LOCA 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR290LOCA2HD.png" group-title="TR Sinema",TR290:LOCA 2 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32779
+#EXTINF:-1 tvg-id="" tvg-name="TR291:LOCA 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR291LOCA3FHD.png" group-title="TR Sinema",TR291:LOCA 3 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32778
+#EXTINF:-1 tvg-id="" tvg-name="TR296:SINEMA AKSiYON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR296SINEMAAKSiYON.png" group-title="TR Sinema",TR296:SINEMA AKSiYON
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32773
+#EXTINF:-1 tvg-id="" tvg-name="TR297:SINEVIZYON 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR297NEXTBOXCINEMAANIMASYON.png" group-title="TR Sinema",TR297:SINEVIZYON 7
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32772
+#EXTINF:-1 tvg-id="" tvg-name="TR298:ELIT SINEMA KOMEDI 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR298SiNEMAKOMEDiHD.png" group-title="TR Sinema",TR298:ELIT SINEMA KOMEDI 2 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32771
+#EXTINF:-1 tvg-id="bein.sports.1.tr" tvg-name="TR136:FiLMBOX ADRENALiN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR136TurkishBeinSports1.png" group-title="TR Sinema",TR136:FiLMBOX ADRENALiN
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32933
+#EXTINF:-1 tvg-id="" tvg-name="TR093:FILMBOX COMEDY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR093beINMoviesComedyHD.png" group-title="TR Sinema",TR093:FILMBOX COMEDY
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32976
+#EXTINF:-1 tvg-id="bein.gurme.tr" tvg-name="TR170:FILMBOX AKSIYON HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR170beINGURMEHD.png" group-title="TR Sinema",TR170:FILMBOX AKSIYON HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32899
+#EXTINF:-1 tvg-id="" tvg-name="TR310:Movie Smart Family HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR310MovieSmartFamilyHD.png" group-title="TR Sinema",TR310:Movie Smart Family HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32759
+#EXTINF:-1 tvg-id="" tvg-name="TR311:Movie Smart Fest FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR311MovieSmartFestFHD.png" group-title="TR Sinema",TR311:Movie Smart Fest FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32758
+#EXTINF:-1 tvg-id="" tvg-name="TR312:Movie smart Gold HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR312MoviesmartGoldHD.png" group-title="TR Sinema",TR312:Movie smart Gold HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32757
+#EXTINF:-1 tvg-id="" tvg-name="TR313:Movie smart Platin 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR313MoviesmartPlatin2FHD.png" group-title="TR Sinema",TR313:Movie smart Platin 2 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32756
+#EXTINF:-1 tvg-id="" tvg-name="TR314:Movie smart Platin HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR314MoviesmartPlatinHD.png" group-title="TR Sinema",TR314:Movie smart Platin HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32755
+#EXTINF:-1 tvg-id="" tvg-name="TR315:MOVIE SMART PREMIUM 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR315MOVIESMARTPREMIUM1HD.png" group-title="TR Sinema",TR315:MOVIE SMART PREMIUM 1 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32754
+#EXTINF:-1 tvg-id="" tvg-name="TR316:Movie Smart Premium 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR316MovieSmartPremium2HD.png" group-title="TR Sinema",TR316:Movie Smart Premium 2 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32753
+#EXTINF:-1 tvg-id="" tvg-name="TR320:ELIT SINEMA AKSIYON 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR320MOVIESINEMAAKSIYONHD.png" group-title="TR Sinema",TR320:ELIT SINEMA AKSIYON 2 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32749
+#EXTINF:-1 tvg-id="" tvg-name="TR354:SINEMA 1001 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR354SINEMA1001HD.png" group-title="TR Sinema",TR354:SINEMA 1001 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32715
+#EXTINF:-1 tvg-id="" tvg-name="TR355:ELIT SINEMA AILE 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR355SINEMAAILEHD.png" group-title="TR Sinema",TR355:ELIT SINEMA AILE 2 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32714
+#EXTINF:-1 tvg-id="" tvg-name="TR356:ELIT SINEMA AKSIYON HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR356SINEMAAKSIYONHD.png" group-title="TR Sinema",TR356:ELIT SINEMA AKSIYON HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32713
+#EXTINF:-1 tvg-id="" tvg-name="TR357:SINEMA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR357SINEMAHD.png" group-title="TR Sinema",TR357:SINEMA HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32712
+#EXTINF:-1 tvg-id="" tvg-name="TR358:ELIT SINEMA KOMEDI HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR358SinemaKomediHD.png" group-title="TR Sinema",TR358:ELIT SINEMA KOMEDI HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32711
+#EXTINF:-1 tvg-id="" tvg-name="TR359:SINEMA TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR359SINEMATV1HD.png" group-title="TR Sinema",TR359:SINEMA TV 1 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32710
+#EXTINF:-1 tvg-id="" tvg-name="TR360:Sinema Yerli HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR360SinemaYerliHD.png" group-title="TR Sinema",TR360:Sinema Yerli HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32709
+#EXTINF:-1 tvg-id="" tvg-name="TR362:SINEMAX VIZYON 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR362SINEMATVYERLIHD.png" group-title="TR Sinema",TR362:SINEMAX VIZYON 1
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32707
+#EXTINF:-1 tvg-id="" tvg-name="TR363:SINEMAX VIZYON 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR363SINEMADRAMA1HD.png" group-title="TR Sinema",TR363:SINEMAX VIZYON 2
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32706
+#EXTINF:-1 tvg-id="" tvg-name="TR364:SINEVIZYON TURK 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR364SINEVIZYONTURK2.png" group-title="TR Sinema",TR364:SINEVIZYON TURK 2
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32705
+#EXTINF:-1 tvg-id="" tvg-name="TR365:SINEVIZYON TURK 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR365SINEVIZYONTURK3.png" group-title="TR Sinema",TR365:SINEVIZYON TURK 3
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32704
+#EXTINF:-1 tvg-id="" tvg-name="TR366:SINEVIZYON TURK 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR366SINEVIZYONTURK4.png" group-title="TR Sinema",TR366:SINEVIZYON TURK 4
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32703
+#EXTINF:-1 tvg-id="" tvg-name="TR373:SEKER HOCA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR373SONYCHANNELHD.png" group-title="TR Sinema",TR373:SEKER HOCA TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32696
+#EXTINF:-1 tvg-id="" tvg-name="TR:------|ULUSAL|--------------" tvg-logo="" group-title="TR Ulusal",TR:------|ULUSAL|--------------
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/61755
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR009:360 TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR009360TV.png" group-title="TR Ulusal",TR009:360 TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33060
+#EXTINF:-1 tvg-id="show.tr" tvg-name="TR019:Show TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR019SHOWHD.png" group-title="TR Ulusal",TR019:Show TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33050
+#EXTINF:-1 tvg-id="beyaz.tr" tvg-name="TR083:BEYAZ TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR083BEYAZTVHD.png" group-title="TR Ulusal",TR083:BEYAZ TV SD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32986
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR092:ATV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR092ATVHD(1080P).png" group-title="TR Ulusal",TR092:ATV FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32977
+#EXTINF:-1 tvg-id="beyaz.tr" tvg-name="TR096:BEYAZ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR096BEYAZHD(1080P).png" group-title="TR Ulusal",TR096:BEYAZ HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32973
+#EXTINF:-1 tvg-id="kanal.d.tr" tvg-name="TR101:KANAL D HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR101KANALDHD(1080P).png" group-title="TR Ulusal",TR101:KANAL D HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32968
+#EXTINF:-1 tvg-id="show.tr" tvg-name="TR108:Show TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR108SHOWHD(1080P).png" group-title="TR Ulusal",TR108:Show TV SD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32961
+#EXTINF:-1 tvg-id="star.tr" tvg-name="TR109:STAR HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR109STARHD(1080P).png" group-title="TR Ulusal",TR109:STAR HD ( 1080P )
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32960
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR110:TEVE 2 HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR110TEVE2HD(1080P).png" group-title="TR Ulusal",TR110:TEVE 2 HD ( 1080P )
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32959
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR115:TV 8 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR115TV8HD(1080P).png" group-title="TR Ulusal",TR115:TV 8 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32954
+#EXTINF:-1 tvg-id="tv.8.5.tr" tvg-name="TR163:TV 8,5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR163TV8,5.png" group-title="TR Ulusal",TR163:TV 8,5
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32906
+#EXTINF:-1 tvg-id="beyaz.tr" tvg-name="TR196:BEYAZ FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR196BEYAZFHD.png" group-title="TR Ulusal",TR196:BEYAZ FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32873
+#EXTINF:-1 tvg-id="ulusal.tr" tvg-name="TR286:ULUSAL TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR286ULUSALTV.png" group-title="TR Ulusal",TR286:ULUSAL TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32783
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR351:Show Max HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR351SHOWMAXHD.png" group-title="TR Ulusal",TR351:Show Max HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32718
+#EXTINF:-1 tvg-id="show.tr" tvg-name="TR352:Show Turk TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR352ShowTurkTV.png" group-title="TR Ulusal",TR352:Show Turk TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32717
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR383:Teve 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR383Teve2FHD.png" group-title="TR Ulusal",TR383:Teve 2 FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32686
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR393:TLC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR393TLCHD.png" group-title="TR Ulusal",TR393:TLC HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32676
+#EXTINF:-1 tvg-id="" tvg-name="TR:------|HABER|----------------------" tvg-logo="" group-title="TR Haber",TR:------|HABER|----------------------
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/61750
+#EXTINF:-1 tvg-id="ulke.tr" tvg-name="TR002:ULKE FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR002ULKEHD.png" group-title="TR Haber",TR002:ULKE FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33067
+#EXTINF:-1 tvg-id="tv.net.tr" tvg-name="TR006:TV NET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR006TVNET.png" group-title="TR Haber",TR006:TV NET
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33063
+#EXTINF:-1 tvg-id="tgrt.haber.tr" tvg-name="TR013:TGRT HABER HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR013TGRTHABER.png" group-title="TR Haber",TR013:TGRT HABER HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33056
+#EXTINF:-1 tvg-id="" tvg-name="TR063:Rehber TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR063FLASHTV.png" group-title="TR Haber",TR063:Rehber TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33006
+#EXTINF:-1 tvg-id="" tvg-name="TR064:MANISA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR064FILTVHD.png" group-title="TR Haber",TR064:MANISA TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33005
+#EXTINF:-1 tvg-id="cnn.turk.tr" tvg-name="TR076:CNN TURK SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR076CNNTURKHD.png" group-title="TR Haber",TR076:CNN TURK SD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32993
+#EXTINF:-1 tvg-id="cnn.turk.tr" tvg-name="TR097:CNN TURK HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR097CNNTüRKHD(1080P).png" group-title="TR Haber",TR097:CNN TURK HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32972
+#EXTINF:-1 tvg-id="cnn.turk.tr" tvg-name="TR216:CNN TURK FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR216CNNTURKFHD.png" group-title="TR Haber",TR216:CNN TURK FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32853
+#EXTINF:-1 tvg-id="power.turk.tr" tvg-name="TR106:Guneydogu TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR106POWERTüRKHD(1080P).png" group-title="TR Haber",TR106:Guneydogu TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32963
+#EXTINF:-1 tvg-id="a.haber.tr" tvg-name="TR088:A HABER HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR088AHABERHD.png" group-title="TR Haber",TR088:A HABER HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32981
+#EXTINF:-1 tvg-id="tgrt.haber.tr" tvg-name="TR129:TGRT Haber SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR129TGRTHaber.png" group-title="TR Haber",TR129:TGRT Haber SD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32940
+#EXTINF:-1 tvg-id="a.haber.tr" tvg-name="TR140:A HABER FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR140AHABERFHD.png" group-title="TR Haber",TR140:A HABER FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32929
+#EXTINF:-1 tvg-id="trt.haber.tr" tvg-name="TR112:TRT Haber FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR112TRTHABERHD(1080P).png" group-title="TR Haber",TR112:TRT Haber FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32957
+#EXTINF:-1 tvg-id="trt.haber.tr" tvg-name="TR128:TRT Haber HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR128TRTHABERHD.png" group-title="TR Haber",TR128:TRT Haber HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32941
+#EXTINF:-1 tvg-id="trt.haber.tr" tvg-name="TR361:TRT Haber SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR361TRTHaberHD.png" group-title="TR Haber",TR361:TRT Haber SD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32708
+#EXTINF:-1 tvg-id="haber.turk.tr" tvg-name="TR127:Haber Turk HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR127HaberTurk.png" group-title="TR Haber",TR127:Haber Turk HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32942
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR137:24 HABER" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR13724HABER.png" group-title="TR Haber",TR137:24 HABER
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32932
+#EXTINF:-1 tvg-id="a.news.tr" tvg-name="TR141:A News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR141ANewsHD.png" group-title="TR Haber",TR141:A News HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32928
+#EXTINF:-1 tvg-id="" tvg-name="TR221:TV DEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR221FOXTV.png" group-title="TR Haber",TR221:TV DEN
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32848
+#EXTINF:-1 tvg-id="" tvg-name="TR249:TV5 MONDE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR249FOXFHD.png" group-title="TR Haber",TR249:TV5 MONDE HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32820
+#EXTINF:-1 tvg-id="haber.global.tr" tvg-name="TR255:HABER GLOBAL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR255HABERGLOBALHD.png" group-title="TR Haber",TR255:HABER GLOBAL HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32814
+#EXTINF:-1 tvg-id="haber.turk.tr" tvg-name="TR256:HABER TURK FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR256HABERTURKFHD.png" group-title="TR Haber",TR256:HABER TURK FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32813
+#EXTINF:-1 tvg-id="uzay.tr" tvg-name="TR285:Uzay Haber" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR285UzayHaber.png" group-title="TR Haber",TR285:Uzay Haber
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32784
+#EXTINF:-1 tvg-id="show.tr" tvg-name="TR353:Ekoturk HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR353SHOWTVFHD.png" group-title="TR Haber",TR353:Ekoturk HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32716
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR304:NTV HABER HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR304NTVHABERHD.png" group-title="TR Haber",TR304:NTV HABER HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32765
+#EXTINF:-1 tvg-id="star.tr" tvg-name="TR014:STAR TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR014STARTVHD.png" group-title="TR Haber",TR014:STAR TV HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33055
+#EXTINF:-1 tvg-id="star.tr" tvg-name="TR377:STAR TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR377STARTVFHD.png" group-title="TR Haber",TR377:STAR TV FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32692
+#EXTINF:-1 tvg-id="" tvg-name="TR:------|BELGESEL|--------------" tvg-logo="" group-title="TR Belgesel",TR:------|BELGESEL|--------------
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/61751
+#EXTINF:-1 tvg-id="yaban.tr" tvg-name="TR001:Yaban TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR001YABANTV.png" group-title="TR Belgesel",TR001:Yaban TV FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33068
+#EXTINF:-1 tvg-id="bein.gurme.tr" tvg-name="TR007:BeIN Gurme HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR007BeINGurmeHD.png" group-title="TR Belgesel",TR007:BeIN Gurme HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33062
+#EXTINF:-1 tvg-id="national.geographic.tr" tvg-name="TR031:National Geographic HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR031NATIONALGEOGRAPHICHD.png" group-title="TR Belgesel",TR031:National Geographic HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33038
+#EXTINF:-1 tvg-id="national.geographic.wild.tr" tvg-name="TR032:Nat Geo Wild HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR032NATINOALGEOWILD.png" group-title="TR Belgesel",TR032:Nat Geo Wild HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33037
+#EXTINF:-1 tvg-id="bein.iz.tr" tvg-name="TR057:BeIN IZ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR057beINIZHD.png" group-title="TR Belgesel",TR057:BeIN IZ HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33012
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="TR058:History HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR058HISTORYHD.png" group-title="TR Belgesel",TR058:History HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33011
+#EXTINF:-1 tvg-id="discovery.tr" tvg-name="TR075:Discovery Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR075DISCOVERYCHANNELHD.png" group-title="TR Belgesel",TR075:Discovery Channel HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32994
+#EXTINF:-1 tvg-id="bbc.earth.tr" tvg-name="TR090:BBC Earth HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR090BBCEarthHD.png" group-title="TR Belgesel",TR090:BBC Earth HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32979
+#EXTINF:-1 tvg-id="trt.belgesel.tr" tvg-name="TR111:TRT Belgesel SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR111TRTBELGESELHD(1080P).png" group-title="TR Belgesel",TR111:TRT Belgesel SD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32958
+#EXTINF:-1 tvg-id="trt.belgesel.tr" tvg-name="TR133:TRT Belgesel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR133TRTBelgesel.png" group-title="TR Belgesel",TR133:TRT Belgesel HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32936
+#EXTINF:-1 tvg-id="animal.planet.tr" tvg-name="TR154:Animal Planet HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR154ANIMALPLANETHD.png" group-title="TR Belgesel",TR154:Animal Planet HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32915
+#EXTINF:-1 tvg-id="bbc.earth.tr" tvg-name="TR162:BBC Earth FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR162BBCEarthHD.png" group-title="TR Belgesel",TR162:BBC Earth FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32907
+#EXTINF:-1 tvg-id="bein.iz.tr" tvg-name="TR171:beIN Movies Yesilcam" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR171beINIZHD.png" group-title="TR Belgesel",TR171:beIN Movies Yesilcam
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32898
+#EXTINF:-1 tvg-id="" tvg-name="TR203:CRI TURK BELGESEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR203CRITURKBELGESEL.png" group-title="TR Belgesel",TR203:CRI TURK BELGESEL
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32866
+#EXTINF:-1 tvg-id="discovery.tr" tvg-name="TR222:Discovery Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR222DiscoveryChannelHD.png" group-title="TR Belgesel",TR222:Discovery Channel FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32847
+#EXTINF:-1 tvg-id="discovery.science.tr" tvg-name="TR223:Discovery Science HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR223DiscoveryScienceHD.png" group-title="TR Belgesel",TR223:Discovery Science HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32846
+#EXTINF:-1 tvg-id="" tvg-name="TR224:Discovery Showcase HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR224DiscoverySHOWCASEHD.png" group-title="TR Belgesel",TR224:Discovery Showcase HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32845
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="TR259:History FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR259HistoryChannelHD.png" group-title="TR Belgesel",TR259:History FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32810
+#EXTINF:-1 tvg-id="discovery.tr" tvg-name="TR260:Discovery ID FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR260DISCOVERYID.png" group-title="TR Belgesel",TR260:Discovery ID FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32809
+#EXTINF:-1 tvg-id="" tvg-name="TR277:DOCUBOX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR277KRALPOPHD.png" group-title="TR Belgesel",TR277:DOCUBOX HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32792
+#EXTINF:-1 tvg-id="national.geographic.tr" tvg-name="TR323:National Geographic FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR323NATGEOHD.png" group-title="TR Belgesel",TR323:National Geographic FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32746
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="TR324:Nat Geo People FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR324NATGEOPEOPLEFHD.png" group-title="TR Belgesel",TR324:Nat Geo People FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32745
+#EXTINF:-1 tvg-id="nat.geo.wild.tr" tvg-name="TR325:Nat Geo Wild FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR325NATGEOWildHD.png" group-title="TR Belgesel",TR325:Nat Geo Wild FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32744
+#EXTINF:-1 tvg-id="tgrt.belgesel.tr" tvg-name="TR385:TGRT Belgesel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR385TGRTBelgeselHD.png" group-title="TR Belgesel",TR385:TGRT Belgesel HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32684
+#EXTINF:-1 tvg-id="ulke.tr" tvg-name="TR117:VIASAT HISTORY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR117üLKETVHD(1080P).png" group-title="TR Belgesel",TR117:VIASAT HISTORY HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32952
+#EXTINF:-1 tvg-id="ulke.tr" tvg-name="TR287:VIASAT HISTORY & NATURE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR287ULKEFHD.png" group-title="TR Belgesel",TR287:VIASAT HISTORY & NATURE HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32782
+#EXTINF:-1 tvg-id="animal.planet.tr" tvg-name="TR336:VIASAT EXPLORE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR336PLANETTURK.png" group-title="TR Belgesel",TR336:VIASAT EXPLORE HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32733
+#EXTINF:-1 tvg-id="power.turk.tr" tvg-name="TR338:OUTDOOR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR338POWERTURKHD.png" group-title="TR Belgesel",TR338:OUTDOOR HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32731
+#EXTINF:-1 tvg-id="" tvg-name="TR:------|MUZIK|--------------" tvg-logo="" group-title=" TR Muzik",TR:------|MUZIK|--------------
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/61753
+#EXTINF:-1 tvg-id="power.turk.tr" tvg-name="TR024:Power Turk HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR024POWERTURKHD.png" group-title=" TR Muzik",TR024:Power Turk HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33045
+#EXTINF:-1 tvg-id="kral.pop.radyo.tr" tvg-name="TR054:KRAL POP HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR054KRALPOPTV.png" group-title=" TR Muzik",TR054:KRAL POP HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33015
+#EXTINF:-1 tvg-id="" tvg-name="TR055:KRAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR055KRAL.png" group-title=" TR Muzik",TR055:KRAL
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33014
+#EXTINF:-1 tvg-id="dream.tr" tvg-name="TR069:DREAM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR069DREAMTV.png" group-title=" TR Muzik",TR069:DREAM TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33000
+#EXTINF:-1 tvg-id="dream.tr" tvg-name="TR070:Dream Turk FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR070DREAMTURKTV.png" group-title=" TR Muzik",TR070:Dream Turk FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32999
+#EXTINF:-1 tvg-id="nr1.tr" tvg-name="TR102:NR 1 HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR102NR1HD(1080P).png" group-title=" TR Muzik",TR102:NR 1 HD ( 1080P )
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32967
+#EXTINF:-1 tvg-id="power.tr" tvg-name="TR105:POWER HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR105POWERHD(1080P).png" group-title=" TR Muzik",TR105:POWER HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32964
+#EXTINF:-1 tvg-id="power.turk.tr" tvg-name="TR124:Trace Urban HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR124PowerTurk.png" group-title=" TR Muzik",TR124:Trace Urban HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32945
+#EXTINF:-1 tvg-id="" tvg-name="TR125:TRT OKUL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR125TRTOKUL.png" group-title=" TR Muzik",TR125:TRT OKUL HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32944
+#EXTINF:-1 tvg-id="trt.muzik.tr" tvg-name="TR126:TRT Muzik HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR126TRTMUZIK.png" group-title=" TR Muzik",TR126:TRT Muzik HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32943
+#EXTINF:-1 tvg-id="trt.avaz.tr" tvg-name="TR134:TRT Muzik FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR134TRTAVAZ.png" group-title=" TR Muzik",TR134:TRT Muzik FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32935
+#EXTINF:-1 tvg-id="dream.tr" tvg-name="TR231:Dream Turk" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR231DREAMTVHD.png" group-title=" TR Muzik",TR231:Dream Turk
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32838
+#EXTINF:-1 tvg-id="" tvg-name="TR278:Kral World HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR278KralWorldHD.png" group-title=" TR Muzik",TR278:Kral World HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32791
+#EXTINF:-1 tvg-id="" tvg-name="TR279:Koy TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR279KRALTVWORLD.png" group-title=" TR Muzik",TR279:Koy TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32790
+#EXTINF:-1 tvg-id="nr1.turk.tr" tvg-name="TR328:NR1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR328NR1HD.png" group-title=" TR Muzik",TR328:NR1 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32741
+#EXTINF:-1 tvg-id="nr1.turk.tr" tvg-name="TR329:NR1 TURK HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR329NR1TURKHD.png" group-title=" TR Muzik",TR329:NR1 TURK HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32740
+#EXTINF:-1 tvg-id="power.tr" tvg-name="TR337:MusicBox HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR337POWERHD.png" group-title=" TR Muzik",TR337:MusicBox HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32732
+#EXTINF:-1 tvg-id="" tvg-name="TR:------|COCUK|----------------------" tvg-logo="" group-title="TR Cocuk",TR:------|COCUK|----------------------
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/61749
+#EXTINF:-1 tvg-id="cartoon.network.tr" tvg-name="TR023:Cartoon Network  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR023CARTOONNETWORKHD.png" group-title="TR Cocuk",TR023:Cartoon Network  HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33046
+#EXTINF:-1 tvg-id="" tvg-name="TR026:Planet Cocuk" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR026PLANETCOCUK.png" group-title="TR Cocuk",TR026:Planet Cocuk
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33043
+#EXTINF:-1 tvg-id="nickelodeon.tr" tvg-name="TR029:NICK JR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR029NICKELODEON.png" group-title="TR Cocuk",TR029:NICK JR
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33040
+#EXTINF:-1 tvg-id="nickelodeon.tr" tvg-name="TR030:Nickelodeon HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR030NICKELODEONHD.png" group-title="TR Cocuk",TR030:Nickelodeon HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33039
+#EXTINF:-1 tvg-id="boomerang.tr" tvg-name="TR052:Boomerang" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR052BOOMERANG.png" group-title="TR Cocuk",TR052:Boomerang
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/33017
+#EXTINF:-1 tvg-id="disney.xd.tr" tvg-name="TR072:DISNEY XD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR072DISNEYXD/DUCK.png" group-title="TR Cocuk",TR072:DISNEY XD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32997
+#EXTINF:-1 tvg-id="disney.junior.tr" tvg-name="TR073:DISNEY JR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR073DISNEYJR.png" group-title="TR Cocuk",TR073:DISNEY JR
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32996
+#EXTINF:-1 tvg-id="disney.tr" tvg-name="TR074:DISNEY CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR074DISNEYCHANNEL.png" group-title="TR Cocuk",TR074:DISNEY CHANNEL
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32995
+#EXTINF:-1 tvg-id="baby.tr" tvg-name="TR085:BABY TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR085BABYTV.png" group-title="TR Cocuk",TR085:BABY TV SD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32984
+#EXTINF:-1 tvg-id="baby.tr" tvg-name="TR160:Baby TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR160BabyTVHD.png" group-title="TR Cocuk",TR160:Baby TV FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32909
+#EXTINF:-1 tvg-id="trt.cocuk.tr" tvg-name="TR118:TRT Cocuk HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR118TRTCOCUKHD.png" group-title="TR Cocuk",TR118:TRT Cocuk HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32951
+#EXTINF:-1 tvg-id="trt.cocuk.tr" tvg-name="TR374:TRT Cocuk FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR374TRTCocukFHD.png" group-title="TR Cocuk",TR374:TRT Cocuk FHD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32695
+#EXTINF:-1 tvg-id="baby.tr" tvg-name="TR199:BABYF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR199BABYF.png" group-title="TR Cocuk",TR199:BABYF
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32870
+#EXTINF:-1 tvg-id="" tvg-name="TR219:Kukuli TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR219SLKukuliTV.png" group-title="TR Cocuk",TR219:Kukuli TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32850
+#EXTINF:-1 tvg-id="" tvg-name="TR220:Niloya TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR220SLNiloyaTV.png" group-title="TR Cocuk",TR220:Niloya TV
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32849
+#EXTINF:-1 tvg-id="" tvg-name="TR267:KANAL 68 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR267KANAL68.png" group-title="TR Cocuk",TR267:KANAL 68 HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32802
+#EXTINF:-1 tvg-id="minika.cocuk.tr" tvg-name="TR308:Minika Cocuk " tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR308minikaCOCUKHD.png" group-title="TR Cocuk",TR308:Minika Cocuk 
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32761
+#EXTINF:-1 tvg-id="minika.go.tr" tvg-name="TR309:Minika GO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR309MINIKAGOHD.png" group-title="TR Cocuk",TR309:Minika GO
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32760
+#EXTINF:-1 tvg-id="" tvg-name="TR368:Smart Cocuk HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR368SMARTCOCUKHD.png" group-title="TR Cocuk",TR368:Smart Cocuk HD
+http://mue03.wanicelife.com:8880/SFL122342/NJQEDPRHY/32701
+#EXTINF:-1 tvg-id="" tvg-name="###### VOD Turkey ######" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR368SMARTCOCUKHD.png" group-title="Turkey",###### VOD Turkey ######
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/28717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:1 Kezban 1 Mahmut Adana Yollarinda" tvg-logo="http://mu01.iflyhd.com:8880/images/pLUcOhK7ENF9Wm0PKppw38RnWaE_small.jpg" group-title="Turkey",TR:1 Kezban 1 Mahmut Adana Yollarinda
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/41992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:40" tvg-logo="http://mu01.iflyhd.com:8880/images/5WTywBaFoQhjHTaztkKAfcVmxZn_small.jpg" group-title="Turkey",TR:40
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/41993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Ali Baba ve 7 Cuceler" tvg-logo="http://mu01.iflyhd.com:8880/images/36kifBmXmFYALCLpWkc7dBw8g50_small.jpg" group-title="Turkey",TR:Ali Baba ve 7 Cuceler
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/41994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Arif v 216" tvg-logo="http://mu01.iflyhd.com:8880/images/kYPkx1aVjC2HbvFr20QMwowKmzp_small.jpg" group-title="Turkey",TR:Arif v 216
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/41995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Ask Masali" tvg-logo="http://mu01.iflyhd.com:8880/images/wfdWyoZKeDnvGxmC6VGHiDrPxY3_small.jpg" group-title="Turkey",TR:Ask Masali
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/41996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Av Mevsimi" tvg-logo="http://mu01.iflyhd.com:8880/images/yqmDH5wWOQkbNHNxU6Lhcb6F3mK_small.jpg" group-title="Turkey",TR:Av Mevsimi
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/41997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Ay Lav Yu Tuu" tvg-logo="http://mu01.iflyhd.com:8880/images/tgoCKMLSgj6cYir5Ze6VsCKFU4D_small.jpg" group-title="Turkey",TR:Ay Lav Yu Tuu
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/41998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Baba Mirasi" tvg-logo="http://mu01.iflyhd.com:8880/images/73Fbk3iGLNtHaZORVBYmfQhvzxN_small.jpg" group-title="Turkey",TR:Baba Mirasi
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/41999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Babalarin Babasi" tvg-logo="http://mu01.iflyhd.com:8880/images/elseSR2feByPsVbDb7GhyFlIOrW_small.jpg" group-title="Turkey",TR:Babalarin Babasi
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Babam ve Oglum" tvg-logo="http://mu01.iflyhd.com:8880/images/3LnQktaOyfyxY0Jn25pxLluJBEh_small.jpg" group-title="Turkey",TR:Babam ve Oglum
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Babamin Kanatlari" tvg-logo="http://mu01.iflyhd.com:8880/images/4jam6ORO6UfADG0HtCGutgHJPTc_small.jpg" group-title="Turkey",TR:Babamin Kanatlari
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Batman Gotham'in Gaz Lambalari" tvg-logo="http://mu01.iflyhd.com:8880/images/7souLi5zqQCnpZVghaXv0Wowi0y_small.jpg" group-title="Turkey",TR:Batman Gotham'in Gaz Lambalari
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Benim Adim Feridun" tvg-logo="http://mu01.iflyhd.com:8880/images/frdTyMyerF7XcyDf8OwUxur0l6M_small.jpg" group-title="Turkey",TR:Benim Adim Feridun
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Benim Babam Bir Melek" tvg-logo="http://mu01.iflyhd.com:8880/images/mWOhBqC02Mfyy93hRStXTpdn026_small.jpg" group-title="Turkey",TR:Benim Babam Bir Melek
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Benim Dünyam" tvg-logo="http://mu01.iflyhd.com:8880/images/hDL7m7YOdAerfE6h6HhPo3HdGRp_small.jpg" group-title="Turkey",TR:Benim Dünyam
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Beyaz Melek" tvg-logo="http://mu01.iflyhd.com:8880/images/Ajjxl97bMxsWyVUguE39vE5OdLT_small.jpg" group-title="Turkey",TR:Beyaz Melek
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Bi O Kalmisti" tvg-logo="http://mu01.iflyhd.com:8880/images/vHc7VrA3SM2XXkR4oC1VTbLWIYW_small.jpg" group-title="Turkey",TR:Bi O Kalmisti
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Bizans Oyunlari - Geym of Bizans" tvg-logo="http://mu01.iflyhd.com:8880/images/vHc7VrA3SM2XXkR4oC1VTbLWIYW_small.jpg" group-title="Turkey",TR:Bizans Oyunlari - Geym of Bizans
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Bordo Bereliler Suriye" tvg-logo="http://mu01.iflyhd.com:8880/images/vsGaeKHjk9kNOL4PTor3hBaz9Zb_small.jpg" group-title="Turkey",TR:Bordo Bereliler Suriye
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Bosu Bir Yerde" tvg-logo="http://mu01.iflyhd.com:8880/images/37eAvcozCxN8M0vAa2WbiN4dohn_small.jpg" group-title="Turkey",TR:Bosu Bir Yerde
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Bu Iste Bir Yalnizlik Var" tvg-logo="http://mu01.iflyhd.com:8880/images/vNU1TvTMqOkU3Kzrjq0KmbQH47M_small.jpg" group-title="Turkey",TR:Bu Iste Bir Yalnizlik Var
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Calgi Cengi Ikimiz" tvg-logo="http://mu01.iflyhd.com:8880/images/mMPjmJ5qtBYNHaYz7Os0o8VKbl_small.jpg" group-title="Turkey",TR:Calgi Cengi Ikimiz
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Cebimdeki Yabanci" tvg-logo="http://mu01.iflyhd.com:8880/images/6WhsrPyfBP0F4YOFy2OC8JvOi7O_small.jpg" group-title="Turkey",TR:Cebimdeki Yabanci
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Cicek Abbas" tvg-logo="http://mu01.iflyhd.com:8880/images/kzXNutrp2jxu2UdIXtfQG6wOrZm_small.jpg" group-title="Turkey",TR:Cicek Abbas
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Cingöz Recai" tvg-logo="http://mu01.iflyhd.com:8880/images/fLn4GYsJSl9jtWz6dOlstq2GRMP_small.jpg" group-title="Turkey",TR:Cingöz Recai
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Cocuklar Sana Emanet" tvg-logo="http://mu01.iflyhd.com:8880/images/2p8RpYjiZY6NomyzPtlsOq3AdNA_small.jpg" group-title="Turkey",TR:Cocuklar Sana Emanet
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Da? 2" tvg-logo="http://mu01.iflyhd.com:8880/images/q3mKnSkzp1doIsCye6ap4KIUAbu_small.jpg" group-title="Turkey",TR:Da? 2
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Dargin Kuzenler" tvg-logo="http://mu01.iflyhd.com:8880/images/pKzlZgEHao7HDtX6ClkBpi0l6S4_small.jpg" group-title="Turkey",TR:Dargin Kuzenler
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Deli Ormanli" tvg-logo="http://mu01.iflyhd.com:8880/images/pKzlZgEHao7HDtX6ClkBpi0l6S4_small.jpg" group-title="Turkey",TR:Deli Ormanli
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Deliha 2" tvg-logo="http://mu01.iflyhd.com:8880/images/c3pR9qcxqOkffftwX3pwUnBCwv3_small.jpg" group-title="Turkey",TR:Deliha 2
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Devrim Arabalari" tvg-logo="http://mu01.iflyhd.com:8880/images/c1PUCPIG6QPbeZ8oiSpXvDiBWvH_small.jpg" group-title="Turkey",TR:Devrim Arabalari
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Direnis Karatay" tvg-logo="http://mu01.iflyhd.com:8880/images/b2Mt1m3JITS90QM7NZJQbTIOk2I_small.jpg" group-title="Turkey",TR:Direnis Karatay
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Donerse Senindir" tvg-logo="http://mu01.iflyhd.com:8880/images/bgeX1LwkO03rYlavaHOMrMAo7CG_small.jpg" group-title="Turkey",TR:Donerse Senindir
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Dünyanin En Güzel Kokusu" tvg-logo="http://mu01.iflyhd.com:8880/images/bgeX1LwkO03rYlavaHOMrMAo7CG_small.jpg" group-title="Turkey",TR:Dünyanin En Güzel Kokusu
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Enes Batur Hayal mi Gercek mi" tvg-logo="http://mu01.iflyhd.com:8880/images/hs2N7o1tSfdN5uRX1jn8sR18EGn_small.jpg" group-title="Turkey",TR:Enes Batur Hayal mi Gercek mi
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Eskiya" tvg-logo="http://mu01.iflyhd.com:8880/images/z8LKvkaPJ62qPDEGtIMYfk9RVge_small.jpg" group-title="Turkey",TR:Eskiya
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Evim Sensin - Du bist mein Zuhause" tvg-logo="http://mu01.iflyhd.com:8880/images/5McZA4bpHFqzFBRH6FDJGZ7uNMQ_small.jpg" group-title="Turkey",TR:Evim Sensin - Du bist mein Zuhause
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Fetih 1453" tvg-logo="http://mu01.iflyhd.com:8880/images/jbyf6DbBucwCgHXlAaA7mX4KdSs_small.jpg" group-title="Turkey",TR:Fetih 1453
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Gönül Yarasi" tvg-logo="http://mu01.iflyhd.com:8880/images/aXYik56ML71p09KIEEp8FQvsMFo_small.jpg" group-title="Turkey",TR:Gönül Yarasi
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Görümce" tvg-logo="http://mu01.iflyhd.com:8880/images/pfaZFXCFROVp1wgVNWEshyg2sAD_small.jpg" group-title="Turkey",TR:Görümce
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Günesi Gördüm" tvg-logo="http://mu01.iflyhd.com:8880/images/iSrnCMsG0lfWVSy4RwnSKUK3Orb_small.jpg" group-title="Turkey",TR:Günesi Gördüm
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Hadi Be Oglum" tvg-logo="http://mu01.iflyhd.com:8880/images/xRYTzrfBQD8Y3BJRyX2qE9zitu6_small.jpg" group-title="Turkey",TR:Hadi Be Oglum
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Hep Yek 2" tvg-logo="http://mu01.iflyhd.com:8880/images/iysnnAsVQh13JZjXAGpkiFWW6A0_small.jpg" group-title="Turkey",TR:Hep Yek 2
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Her Sey Asktan" tvg-logo="http://mu01.iflyhd.com:8880/images/96TVZ26ltzAXbtzE5Q3staBHNMT_small.jpg" group-title="Turkey",TR:Her Sey Asktan
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Hüddam" tvg-logo="http://mu01.iflyhd.com:8880/images/guDQzXQNscgektD6AJMTkdP9XNV_small.jpg" group-title="Turkey",TR:Hüddam
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Iftarlik Gazoz" tvg-logo="http://mu01.iflyhd.com:8880/images/pZRjQLLG7PcvF9EldbCMoOlMA8W_small.jpg" group-title="Turkey",TR:Iftarlik Gazoz
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Ikimizin Yerine" tvg-logo="http://mu01.iflyhd.com:8880/images/vXgnmVAiY8jzyEtw6nQKHiDmlZ3_small.jpg" group-title="Turkey",TR:Ikimizin Yerine
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Ikinci Sans" tvg-logo="http://mu01.iflyhd.com:8880/images/rC0LGDZXYIeuqgT1Izr1c8SJvdV_small.jpg" group-title="Turkey",TR:Ikinci Sans
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Istanbul Kirmizisi" tvg-logo="http://mu01.iflyhd.com:8880/images/xODHpeMN3AuToDrrPPRUMaY4xTt_small.jpg" group-title="Turkey",TR:Istanbul Kirmizisi
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Kabadayi" tvg-logo="http://mu01.iflyhd.com:8880/images/4eoyQM59n35EUMT4ZuzNBGDQSOA_small.jpg" group-title="Turkey",TR:Kabadayi
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Kacma Birader" tvg-logo="http://mu01.iflyhd.com:8880/images/8BxVMj6YuiYWidUToGgQrmnbkyL_small.jpg" group-title="Turkey",TR:Kacma Birader
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Kardesim Benim" tvg-logo="http://mu01.iflyhd.com:8880/images/okyOWy2fuPW7F0Fr4U7b9USYPf_small.jpg" group-title="Turkey",TR:Kardesim Benim
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Kardesim Benim 2" tvg-logo="http://mu01.iflyhd.com:8880/images/559b692SBkTcdnUeWYqHtY6TE0Z_small.jpg" group-title="Turkey",TR:Kardesim Benim 2
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Kendime Iyi Bak" tvg-logo="http://mu01.iflyhd.com:8880/images/6I7EKWm6C6tkVcs09Nhku4gOTZy_small.jpg" group-title="Turkey",TR:Kendime Iyi Bak
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Kirpi" tvg-logo="http://mu01.iflyhd.com:8880/images/7fgt9nCuC7BQPLigRdHVvTdc3w5_small.jpg" group-title="Turkey",TR:Kirpi
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Koca Dunya" tvg-logo="http://mu01.iflyhd.com:8880/images/pr0d6kbp3LIXQgfqfIH7ZsWcJuy_small.jpg" group-title="Turkey",TR:Koca Dunya
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Kor" tvg-logo="http://mu01.iflyhd.com:8880/images/oqJC289yRtS89CACaTYsmZ5dw3D_small.jpg" group-title="Turkey",TR:Kor
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Kotu Cocuk" tvg-logo="http://mu01.iflyhd.com:8880/images/4o9JEg7gUbKmJE3L6VP1xvSjYHY_small.jpg" group-title="Turkey",TR:Kotu Cocuk
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Lanet - Ervah Cinleri" tvg-logo="http://mu01.iflyhd.com:8880/images/gcV4yQd6GfH707DZ9VUHvFl8KuR_small.jpg" group-title="Turkey",TR:Lanet - Ervah Cinleri
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Oflu Hocanin Sifresi 2" tvg-logo="http://mu01.iflyhd.com:8880/images/xKUISLGwJ7I4R5leHO5Jw21n8eS_small.jpg" group-title="Turkey",TR:Oflu Hocanin Sifresi 2
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Olanlar Oldu" tvg-logo="http://mu01.iflyhd.com:8880/images/nuy22p3WrsRFoAADm2WxIhUeGoQ_small.jpg" group-title="Turkey",TR:Olanlar Oldu
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Olumlu Dunya" tvg-logo="http://mu01.iflyhd.com:8880/images/zunhe3M9PlmBS7EUP3l493kbcxE_small.jpg" group-title="Turkey",TR:Olumlu Dunya
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Psisik" tvg-logo="http://mu01.iflyhd.com:8880/images/wEzsAFTmwy39on7B9fndNdtAkKC_small.jpg" group-title="Turkey",TR:Psisik
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Recep Ivedik 1" tvg-logo="http://mu01.iflyhd.com:8880/images/wEzsAFTmwy39on7B9fndNdtAkKC_small.jpg" group-title="Turkey",TR:Recep Ivedik 1
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Recep Ivedik 2" tvg-logo="http://mu01.iflyhd.com:8880/images/d3GELlXNY5Muduu7znhlgYOLTrR_small.jpg" group-title="Turkey",TR:Recep Ivedik 2
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Recep Ivedik 3" tvg-logo="http://mu01.iflyhd.com:8880/images/4I0xyNALDJAhabuwGnpWMFweTtM_small.jpg" group-title="Turkey",TR:Recep Ivedik 3
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Recep Ivedik 4" tvg-logo="http://mu01.iflyhd.com:8880/images/hSHVZUl9CozfHTnvShqg38QAXtf_small.jpg" group-title="Turkey",TR:Recep Ivedik 4
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Recep Ivedik 5" tvg-logo="http://mu01.iflyhd.com:8880/images/zt6fCjyas0o2uu9MOT0kNdshaxJ_small.jpg" group-title="Turkey",TR:Recep Ivedik 5
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Ruzgar" tvg-logo="http://mu01.iflyhd.com:8880/images/rtMd9bprF6xKV0mR2sqyNPxBEuH_small.jpg" group-title="Turkey",TR:Ruzgar
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Saban Oglu Saban" tvg-logo="http://mu01.iflyhd.com:8880/images/3e2VVPmOpy1fbMy4n5FTTqbCjUI_small.jpg" group-title="Turkey",TR:Saban Oglu Saban
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Scooby-Doo and Batman The Brave and the Bold" tvg-logo="http://mu01.iflyhd.com:8880/images/hSPeF1zoYH8kCOhFMu7x3B55zu6_small.jpg" group-title="Turkey",TR:Scooby-Doo and Batman The Brave and the Bold
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Seni Gidi Seni" tvg-logo="http://mu01.iflyhd.com:8880/images/utMnbRmzidD0nchiz43Np8inQmz_small.jpg" group-title="Turkey",TR:Seni Gidi Seni
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Seni Seviyorum Adamim" tvg-logo="http://mu01.iflyhd.com:8880/images/z7aAU1V06jQY3w6t02XtrMZVRwD_small.jpg" group-title="Turkey",TR:Seni Seviyorum Adamim
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Seytanin Cocuklari - El Ebyaz" tvg-logo="http://mu01.iflyhd.com:8880/images/ymLYBAolEV6thjhNyQWuzELQAuQ_small.jpg" group-title="Turkey",TR:Seytanin Cocuklari - El Ebyaz
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Sumelanin Sifresi 3 Cunyor Temel" tvg-logo="http://mu01.iflyhd.com:8880/images/dcH1K3KbtKIfUlcaChEHfT3hdxd_small.jpg" group-title="Turkey",TR:Sumelanin Sifresi 3 Cunyor Temel
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Tatlim Tatlim" tvg-logo="http://mu01.iflyhd.com:8880/images/mu7P2NrfN1h78ZaJXi3tgZvfEzr_small.jpg" group-title="Turkey",TR:Tatlim Tatlim
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Tereddut" tvg-logo="http://mu01.iflyhd.com:8880/images/sjJU89L6ibQ99fVNKHVSin8ZxMK_small.jpg" group-title="Turkey",TR:Tereddut
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Uc Harfliler 3 Karabuyu" tvg-logo="http://mu01.iflyhd.com:8880/images/7OcQ0COCJc40maWyzIjh5xr8SOP_small.jpg" group-title="Turkey",TR:Uc Harfliler 3 Karabuyu
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Ver Kac" tvg-logo="http://mu01.iflyhd.com:8880/images/qmfNT0Ngpg4HTIA4sTaz7uBNhGg_small.jpg" group-title="Turkey",TR:Ver Kac
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:Yav He He" tvg-logo="http://mu01.iflyhd.com:8880/images/AbkkbRAN39gzEleDJ7UGguPhOY5_small.jpg" group-title="Turkey",TR:Yav He He
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TR:Yok Artik 2" tvg-logo="http://mu01.iflyhd.com:8880/images/ovKx0u1p6CqRjEGNtrT3HjIOTZM_small.jpg" group-title="Turkey",TR:Yok Artik 2
+http://mue03.wanicelife.com:8880/movie/SFL122342/NJQEDPRHY/42073.mkv
